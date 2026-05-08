@@ -1,0 +1,19 @@
+{
+    "filename": "KA12.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "KA02MF3336",
+            "class_id": 0,
+            "xmin": 98,
+            "ymin": 111,
+            "xmax": 169,
+            "ymax": 128,
+            "x_center": 0.490809,
+            "y_center": 0.585784,
+            "width": 0.261029,
+            "height": 0.083333
+        }
+    ]
+}

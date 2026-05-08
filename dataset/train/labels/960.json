@@ -1,0 +1,19 @@
+{
+    "filename": "TR1.jpg",
+    "image_width": 271,
+    "image_height": 242,
+    "annotations": [
+        {
+            "vehicle_number": "TR05B0308",
+            "class_id": 0,
+            "xmin": 83,
+            "ymin": 94,
+            "xmax": 163,
+            "ymax": 110,
+            "x_center": 0.453875,
+            "y_center": 0.421488,
+            "width": 0.295203,
+            "height": 0.066116
+        }
+    ]
+}

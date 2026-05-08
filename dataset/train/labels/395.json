@@ -1,0 +1,19 @@
+{
+    "filename": "d9023f53-f90d-4b98-bd52-30796777ddcf___Maruti-Suzuki-Baleno-hatchback-56545.jpg.jpeg",
+    "image_width": 389,
+    "image_height": 267,
+    "annotations": [
+        {
+            "vehicle_number": "HR26TC5656",
+            "class_id": 0,
+            "xmin": 224,
+            "ymin": 156,
+            "xmax": 307,
+            "ymax": 182,
+            "x_center": 0.682519,
+            "y_center": 0.632959,
+            "width": 0.213368,
+            "height": 0.097378
+        }
+    ]
+}

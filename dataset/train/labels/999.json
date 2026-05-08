@@ -1,0 +1,19 @@
+{
+    "filename": "UP12.jpg",
+    "image_width": 272,
+    "image_height": 574,
+    "annotations": [
+        {
+            "vehicle_number": "UP14CV7920",
+            "class_id": 0,
+            "xmin": 101,
+            "ymin": 286,
+            "xmax": 175,
+            "ymax": 303,
+            "x_center": 0.507353,
+            "y_center": 0.513066,
+            "width": 0.272059,
+            "height": 0.029617
+        }
+    ]
+}

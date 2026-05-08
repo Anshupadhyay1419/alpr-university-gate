@@ -1,0 +1,19 @@
+{
+    "filename": "video5_470.jpg",
+    "image_width": 1386,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH03CS6266",
+            "class_id": 0,
+            "xmin": 902,
+            "ymin": 362,
+            "xmax": 1133,
+            "ymax": 431,
+            "x_center": 0.734127,
+            "y_center": 0.36713,
+            "width": 0.166667,
+            "height": 0.063889
+        }
+    ]
+}

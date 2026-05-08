@@ -1,0 +1,19 @@
+{
+    "filename": "video11_2380.jpg",
+    "image_width": 812,
+    "image_height": 804,
+    "annotations": [
+        {
+            "vehicle_number": "MH12FT9458",
+            "class_id": 0,
+            "xmin": 289,
+            "ymin": 58,
+            "xmax": 423,
+            "ymax": 132,
+            "x_center": 0.438424,
+            "y_center": 0.118159,
+            "width": 0.165025,
+            "height": 0.09204
+        }
+    ]
+}

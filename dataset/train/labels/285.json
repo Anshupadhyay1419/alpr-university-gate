@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL10AW2111_00000.jpeg",
+    "image_width": 450,
+    "image_height": 397,
+    "annotations": [
+        {
+            "vehicle_number": "KL10AW2111",
+            "class_id": 0,
+            "xmin": 186,
+            "ymin": 189,
+            "xmax": 336,
+            "ymax": 228,
+            "x_center": 0.58,
+            "y_center": 0.525189,
+            "width": 0.333333,
+            "height": 0.098237
+        }
+    ]
+}

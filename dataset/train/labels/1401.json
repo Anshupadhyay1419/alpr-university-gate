@@ -1,0 +1,19 @@
+{
+    "filename": "video3_1670.jpg",
+    "image_width": 678,
+    "image_height": 757,
+    "annotations": [
+        {
+            "vehicle_number": "MH02EE8407",
+            "class_id": 0,
+            "xmin": 185,
+            "ymin": 469,
+            "xmax": 345,
+            "ymax": 531,
+            "x_center": 0.390855,
+            "y_center": 0.660502,
+            "width": 0.235988,
+            "height": 0.081902
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "ML38.jpg",
+    "image_width": 272,
+    "image_height": 484,
+    "annotations": [
+        {
+            "vehicle_number": "ML064696",
+            "class_id": 0,
+            "xmin": 97,
+            "ymin": 269,
+            "xmax": 202,
+            "ymax": 298,
+            "x_center": 0.549632,
+            "y_center": 0.585744,
+            "width": 0.386029,
+            "height": 0.059917
+        }
+    ]
+}

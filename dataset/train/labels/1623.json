@@ -1,0 +1,19 @@
+{
+    "filename": "video8_1370.jpg",
+    "image_width": 1077,
+    "image_height": 1010,
+    "annotations": [
+        {
+            "vehicle_number": "MH01BG7161",
+            "class_id": 0,
+            "xmin": 122,
+            "ymin": 354,
+            "xmax": 265,
+            "ymax": 418,
+            "x_center": 0.179666,
+            "y_center": 0.382178,
+            "width": 0.132776,
+            "height": 0.063366
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "5c85a40f-ce81-44b4-82b2-dfdac281217d___new_Skoda-Octavia-1.8-TSI-5.jpg.jpeg",
+    "image_width": 500,
+    "image_height": 332,
+    "annotations": [
+        {
+            "vehicle_number": "MH20CS1941",
+            "class_id": 0,
+            "xmin": 179,
+            "ymin": 210,
+            "xmax": 300,
+            "ymax": 239,
+            "x_center": 0.479,
+            "y_center": 0.676205,
+            "width": 0.242,
+            "height": 0.087349
+        }
+    ]
+}

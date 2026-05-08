@@ -1,0 +1,19 @@
+{
+    "filename": "JK36.jpg",
+    "image_width": 272,
+    "image_height": 484,
+    "annotations": [
+        {
+            "vehicle_number": "JK072483",
+            "class_id": 0,
+            "xmin": 137,
+            "ymin": 286,
+            "xmax": 203,
+            "ymax": 322,
+            "x_center": 0.625,
+            "y_center": 0.628099,
+            "width": 0.242647,
+            "height": 0.07438
+        }
+    ]
+}

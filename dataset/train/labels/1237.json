@@ -1,0 +1,19 @@
+{
+    "filename": "video11_3870.jpg",
+    "image_width": 807,
+    "image_height": 369,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DZ9898",
+            "class_id": 0,
+            "xmin": 175,
+            "ymin": 136,
+            "xmax": 285,
+            "ymax": 171,
+            "x_center": 0.285006,
+            "y_center": 0.415989,
+            "width": 0.136307,
+            "height": 0.094851
+        }
+    ]
+}

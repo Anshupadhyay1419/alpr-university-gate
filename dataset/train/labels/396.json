@@ -1,0 +1,19 @@
+{
+    "filename": "db4f467d-2d9e-4567-ab68-fce4a8689562___maxresdefault7.jpg.jpeg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "HR26BU0375",
+            "class_id": 0,
+            "xmin": 1023,
+            "ymin": 605,
+            "xmax": 1263,
+            "ymax": 678,
+            "x_center": 0.595313,
+            "y_center": 0.593981,
+            "width": 0.125,
+            "height": 0.067593
+        }
+    ]
+}

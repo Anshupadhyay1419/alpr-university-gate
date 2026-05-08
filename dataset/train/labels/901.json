@@ -1,0 +1,19 @@
+{
+    "filename": "PB24.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "PB02DY7380",
+            "class_id": 0,
+            "xmin": 85,
+            "ymin": 262,
+            "xmax": 168,
+            "ymax": 279,
+            "x_center": 0.465074,
+            "y_center": 0.745179,
+            "width": 0.305147,
+            "height": 0.046832
+        }
+    ]
+}

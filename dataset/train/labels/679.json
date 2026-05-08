@@ -1,0 +1,19 @@
+{
+    "filename": "HR15.jpg",
+    "image_width": 272,
+    "image_height": 327,
+    "annotations": [
+        {
+            "vehicle_number": "HR29K7840",
+            "class_id": 0,
+            "xmin": 94,
+            "ymin": 221,
+            "xmax": 157,
+            "ymax": 239,
+            "x_center": 0.461397,
+            "y_center": 0.703364,
+            "width": 0.231618,
+            "height": 0.055046
+        }
+    ]
+}

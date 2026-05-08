@@ -1,0 +1,19 @@
+{
+    "filename": "1a0da3dc-6667-4092-bc2a-a541a06f1e90___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano9.jpg",
+    "image_width": 552,
+    "image_height": 552,
+    "annotations": [
+        {
+            "vehicle_number": "KA04MN3622",
+            "class_id": 0,
+            "xmin": 198,
+            "ymin": 373,
+            "xmax": 369,
+            "ymax": 416,
+            "x_center": 0.513587,
+            "y_center": 0.714674,
+            "width": 0.309783,
+            "height": 0.077899
+        }
+    ]
+}

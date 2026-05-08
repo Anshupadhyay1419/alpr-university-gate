@@ -1,0 +1,19 @@
+{
+    "filename": "27a88c24-0bf2-48b0-98a8-fa396e951045___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_7T4G0491-e1376988169395-1024x577.jpg",
+    "image_width": 1024,
+    "image_height": 577,
+    "annotations": [
+        {
+            "vehicle_number": "TN21TC611",
+            "class_id": 0,
+            "xmin": 591,
+            "ymin": 292,
+            "xmax": 695,
+            "ymax": 340,
+            "x_center": 0.62793,
+            "y_center": 0.54766,
+            "width": 0.101562,
+            "height": 0.083189
+        }
+    ]
+}

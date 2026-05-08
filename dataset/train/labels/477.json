@@ -1,0 +1,19 @@
+{
+    "filename": "AP41.jpg",
+    "image_width": 271,
+    "image_height": 327,
+    "annotations": [
+        {
+            "vehicle_number": "AP5CG6320",
+            "class_id": 0,
+            "xmin": 79,
+            "ymin": 265,
+            "xmax": 190,
+            "ymax": 290,
+            "x_center": 0.49631,
+            "y_center": 0.848624,
+            "width": 0.409594,
+            "height": 0.076453
+        }
+    ]
+}

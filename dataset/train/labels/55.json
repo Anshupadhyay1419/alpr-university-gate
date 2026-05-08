@@ -1,0 +1,19 @@
+{
+    "filename": "2c9306ab-3454-4ca0-89fd-db3f51dabcef___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-front-three-quarters-on-plain-ground.jpg",
+    "image_width": 1280,
+    "image_height": 848,
+    "annotations": [
+        {
+            "vehicle_number": "RJ27TC0530",
+            "class_id": 0,
+            "xmin": 141,
+            "ymin": 512,
+            "xmax": 349,
+            "ymax": 611,
+            "x_center": 0.191406,
+            "y_center": 0.662146,
+            "width": 0.1625,
+            "height": 0.116745
+        }
+    ]
+}

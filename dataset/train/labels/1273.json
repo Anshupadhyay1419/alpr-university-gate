@@ -1,0 +1,19 @@
+{
+    "filename": "video11_4750.jpg",
+    "image_width": 547,
+    "image_height": 685,
+    "annotations": [
+        {
+            "vehicle_number": "MH03CP1328",
+            "class_id": 0,
+            "xmin": 216,
+            "ymin": 602,
+            "xmax": 378,
+            "ymax": 646,
+            "x_center": 0.542962,
+            "y_center": 0.910949,
+            "width": 0.296161,
+            "height": 0.064234
+        }
+    ]
+}

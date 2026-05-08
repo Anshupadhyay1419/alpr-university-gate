@@ -1,0 +1,19 @@
+{
+    "filename": "HR12.jpg",
+    "image_width": 272,
+    "image_height": 331,
+    "annotations": [
+        {
+            "vehicle_number": "HR29R9466",
+            "class_id": 0,
+            "xmin": 149,
+            "ymin": 275,
+            "xmax": 198,
+            "ymax": 294,
+            "x_center": 0.637868,
+            "y_center": 0.859517,
+            "width": 0.180147,
+            "height": 0.057402
+        }
+    ]
+}

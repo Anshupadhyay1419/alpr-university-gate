@@ -1,0 +1,19 @@
+{
+    "filename": "video10_910.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AU0059",
+            "class_id": 0,
+            "xmin": 907,
+            "ymin": 542,
+            "xmax": 1010,
+            "ymax": 576,
+            "x_center": 0.499219,
+            "y_center": 0.517593,
+            "width": 0.053646,
+            "height": 0.031481
+        }
+    ]
+}

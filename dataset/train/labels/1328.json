@@ -1,0 +1,19 @@
+{
+    "filename": "video2_3440.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH47AG4326",
+            "class_id": 0,
+            "xmin": 346,
+            "ymin": 606,
+            "xmax": 1002,
+            "ymax": 838,
+            "x_center": 0.351042,
+            "y_center": 0.668519,
+            "width": 0.341667,
+            "height": 0.214815
+        }
+    ]
+}

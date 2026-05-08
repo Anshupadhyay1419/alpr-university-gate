@@ -1,0 +1,19 @@
+{
+    "filename": "DL9.jpg",
+    "image_width": 272,
+    "image_height": 134,
+    "annotations": [
+        {
+            "vehicle_number": "DL2CH8634",
+            "class_id": 0,
+            "xmin": 94,
+            "ymin": 96,
+            "xmax": 147,
+            "ymax": 108,
+            "x_center": 0.443015,
+            "y_center": 0.761194,
+            "width": 0.194853,
+            "height": 0.089552
+        }
+    ]
+}

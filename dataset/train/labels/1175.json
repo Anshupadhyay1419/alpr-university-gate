@@ -1,0 +1,19 @@
+{
+    "filename": "video11_2180.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH47AV6753",
+            "class_id": 0,
+            "xmin": 1127,
+            "ymin": 369,
+            "xmax": 1398,
+            "ymax": 514,
+            "x_center": 0.657552,
+            "y_center": 0.408796,
+            "width": 0.141146,
+            "height": 0.134259
+        }
+    ]
+}

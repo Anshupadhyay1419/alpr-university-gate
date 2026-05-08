@@ -1,0 +1,19 @@
+{
+    "filename": "DL6.jpg",
+    "image_width": 272,
+    "image_height": 403,
+    "annotations": [
+        {
+            "vehicle_number": "DL4CAM9066",
+            "class_id": 0,
+            "xmin": 90,
+            "ymin": 201,
+            "xmax": 178,
+            "ymax": 222,
+            "x_center": 0.492647,
+            "y_center": 0.524814,
+            "width": 0.323529,
+            "height": 0.052109
+        }
+    ]
+}

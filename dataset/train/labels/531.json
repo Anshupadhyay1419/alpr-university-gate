@@ -1,0 +1,19 @@
+{
+    "filename": "BR18.jpg",
+    "image_width": 272,
+    "image_height": 484,
+    "annotations": [
+        {
+            "vehicle_number": "BR01BD5042",
+            "class_id": 0,
+            "xmin": 91,
+            "ymin": 338,
+            "xmax": 198,
+            "ymax": 360,
+            "x_center": 0.53125,
+            "y_center": 0.721074,
+            "width": 0.393382,
+            "height": 0.045455
+        }
+    ]
+}

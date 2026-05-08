@@ -1,0 +1,19 @@
+{
+    "filename": "HR9.jpg",
+    "image_width": 272,
+    "image_height": 315,
+    "annotations": [
+        {
+            "vehicle_number": "HR29AS0015",
+            "class_id": 0,
+            "xmin": 104,
+            "ymin": 210,
+            "xmax": 168,
+            "ymax": 224,
+            "x_center": 0.5,
+            "y_center": 0.688889,
+            "width": 0.235294,
+            "height": 0.044444
+        }
+    ]
+}

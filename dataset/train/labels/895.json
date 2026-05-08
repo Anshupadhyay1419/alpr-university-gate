@@ -1,0 +1,19 @@
+{
+    "filename": "PB19.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "PB10CX0209",
+            "class_id": 0,
+            "xmin": 111,
+            "ymin": 152,
+            "xmax": 170,
+            "ymax": 165,
+            "x_center": 0.516544,
+            "y_center": 0.776961,
+            "width": 0.216912,
+            "height": 0.063725
+        }
+    ]
+}

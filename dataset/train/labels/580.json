@@ -1,0 +1,19 @@
+{
+    "filename": "DL21.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "DL12CS7886",
+            "class_id": 0,
+            "xmin": 95,
+            "ymin": 242,
+            "xmax": 185,
+            "ymax": 260,
+            "x_center": 0.514706,
+            "y_center": 0.69146,
+            "width": 0.330882,
+            "height": 0.049587
+        }
+    ]
+}

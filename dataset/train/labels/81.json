@@ -1,0 +1,19 @@
+{
+    "filename": "49bdf0d9-4e64-41eb-9c19-eabdc4afb051___Maruti-Suzuki-Ciaz-Photos-30.JPG.jpeg",
+    "image_width": 600,
+    "image_height": 337,
+    "annotations": [
+        {
+            "vehicle_number": "HR26CH3604",
+            "class_id": 0,
+            "xmin": 198,
+            "ymin": 135,
+            "xmax": 355,
+            "ymax": 177,
+            "x_center": 0.460833,
+            "y_center": 0.462908,
+            "width": 0.261667,
+            "height": 0.124629
+        }
+    ]
+}

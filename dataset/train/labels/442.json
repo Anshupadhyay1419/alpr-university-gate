@@ -1,0 +1,19 @@
+{
+    "filename": "fe3c95e4-7bd4-40f5-98a9-9fc635957d9c___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Baleno-Number-Plates-Design.jpg",
+    "image_width": 959,
+    "image_height": 959,
+    "annotations": [
+        {
+            "vehicle_number": "KL10AV6633",
+            "class_id": 0,
+            "xmin": 312,
+            "ymin": 431,
+            "xmax": 670,
+            "ymax": 535,
+            "x_center": 0.511992,
+            "y_center": 0.50365,
+            "width": 0.373306,
+            "height": 0.108446
+        }
+    ]
+}

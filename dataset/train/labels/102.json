@@ -1,0 +1,19 @@
+{
+    "filename": "5ac9f7b9-f7cc-4161-bbd1-7f377bb890bf___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-John-Abraham.jpg",
+    "image_width": 592,
+    "image_height": 397,
+    "annotations": [
+        {
+            "vehicle_number": "MH03CB6467",
+            "class_id": 0,
+            "xmin": 252,
+            "ymin": 310,
+            "xmax": 401,
+            "ymax": 344,
+            "x_center": 0.55152,
+            "y_center": 0.823678,
+            "width": 0.251689,
+            "height": 0.085642
+        }
+    ]
+}

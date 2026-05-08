@@ -1,0 +1,19 @@
+{
+    "filename": "video11_1990.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DQ0196",
+            "class_id": 0,
+            "xmin": 310,
+            "ymin": 664,
+            "xmax": 655,
+            "ymax": 873,
+            "x_center": 0.251302,
+            "y_center": 0.711574,
+            "width": 0.179688,
+            "height": 0.193519
+        }
+    ]
+}

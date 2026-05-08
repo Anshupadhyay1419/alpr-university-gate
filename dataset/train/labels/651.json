@@ -1,0 +1,19 @@
+{
+    "filename": "HP1.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "HP12H1324",
+            "class_id": 0,
+            "xmin": 121,
+            "ymin": 230,
+            "xmax": 178,
+            "ymax": 242,
+            "x_center": 0.549632,
+            "y_center": 0.650138,
+            "width": 0.209559,
+            "height": 0.033058
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "AR11.jpg",
+    "image_width": 272,
+    "image_height": 597,
+    "annotations": [
+        {
+            "vehicle_number": "AR01J0123",
+            "class_id": 0,
+            "xmin": 26,
+            "ymin": 415,
+            "xmax": 217,
+            "ymax": 447,
+            "x_center": 0.446691,
+            "y_center": 0.721943,
+            "width": 0.702206,
+            "height": 0.053601
+        }
+    ]
+}

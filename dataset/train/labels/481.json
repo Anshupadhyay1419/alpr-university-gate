@@ -1,0 +1,19 @@
+{
+    "filename": "AP45.jpg",
+    "image_width": 272,
+    "image_height": 483,
+    "annotations": [
+        {
+            "vehicle_number": "AP31BL2833",
+            "class_id": 0,
+            "xmin": 98,
+            "ymin": 231,
+            "xmax": 182,
+            "ymax": 263,
+            "x_center": 0.514706,
+            "y_center": 0.511387,
+            "width": 0.308824,
+            "height": 0.066253
+        }
+    ]
+}

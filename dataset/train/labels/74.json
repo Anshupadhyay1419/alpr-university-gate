@@ -1,0 +1,19 @@
+{
+    "filename": "3febea0e-53c0-4b30-880c-3061458b93ce___Maruti-Vitara-Brezza-rear-end-full-review.jpg.jpeg",
+    "image_width": 700,
+    "image_height": 419,
+    "annotations": [
+        {
+            "vehicle_number": "HR26U7501",
+            "class_id": 0,
+            "xmin": 346,
+            "ymin": 182,
+            "xmax": 569,
+            "ymax": 307,
+            "x_center": 0.653571,
+            "y_center": 0.583532,
+            "width": 0.318571,
+            "height": 0.298329
+        }
+    ]
+}

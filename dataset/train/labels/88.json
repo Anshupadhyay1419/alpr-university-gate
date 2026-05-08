@@ -1,0 +1,19 @@
+{
+    "filename": "51d58875-0bdc-4488-84d9-8b7ad5883863___new_Maruti-Suzuki-Ignis-Rear-view-94486.jpg.jpeg",
+    "image_width": 400,
+    "image_height": 224,
+    "annotations": [
+        {
+            "vehicle_number": "HR26DA0471",
+            "class_id": 0,
+            "xmin": 102,
+            "ymin": 152,
+            "xmax": 210,
+            "ymax": 186,
+            "x_center": 0.39,
+            "y_center": 0.754464,
+            "width": 0.27,
+            "height": 0.151786
+        }
+    ]
+}

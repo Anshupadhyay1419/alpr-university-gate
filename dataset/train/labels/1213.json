@@ -1,0 +1,19 @@
+{
+    "filename": "video11_2820.jpg",
+    "image_width": 737,
+    "image_height": 341,
+    "annotations": [
+        {
+            "vehicle_number": "MH04HM4154",
+            "class_id": 0,
+            "xmin": 125,
+            "ymin": 192,
+            "xmax": 227,
+            "ymax": 228,
+            "x_center": 0.238806,
+            "y_center": 0.615836,
+            "width": 0.138399,
+            "height": 0.105572
+        }
+    ]
+}

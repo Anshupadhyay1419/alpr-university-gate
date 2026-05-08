@@ -1,0 +1,19 @@
+{
+    "filename": "video8_2260.jpg",
+    "image_width": 375,
+    "image_height": 840,
+    "annotations": [
+        {
+            "vehicle_number": "MH01BT9066",
+            "class_id": 0,
+            "xmin": 183,
+            "ymin": 476,
+            "xmax": 255,
+            "ymax": 496,
+            "x_center": 0.584,
+            "y_center": 0.578571,
+            "width": 0.192,
+            "height": 0.02381
+        }
+    ]
+}

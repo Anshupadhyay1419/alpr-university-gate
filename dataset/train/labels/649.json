@@ -1,0 +1,19 @@
+{
+    "filename": "GJ8.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "GJ16CH9827",
+            "class_id": 0,
+            "xmin": 98,
+            "ymin": 148,
+            "xmax": 172,
+            "ymax": 164,
+            "x_center": 0.496324,
+            "y_center": 0.764706,
+            "width": 0.272059,
+            "height": 0.078431
+        }
+    ]
+}

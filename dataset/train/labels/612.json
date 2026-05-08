@@ -1,0 +1,19 @@
+{
+    "filename": "GA10.jpg",
+    "image_width": 272,
+    "image_height": 311,
+    "annotations": [
+        {
+            "vehicle_number": "GA01R6315",
+            "class_id": 0,
+            "xmin": 86,
+            "ymin": 170,
+            "xmax": 157,
+            "ymax": 203,
+            "x_center": 0.446691,
+            "y_center": 0.599678,
+            "width": 0.261029,
+            "height": 0.106109
+        }
+    ]
+}

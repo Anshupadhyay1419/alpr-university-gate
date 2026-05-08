@@ -1,0 +1,19 @@
+{
+    "filename": "AS2.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "AS07AC6653",
+            "class_id": 0,
+            "xmin": 99,
+            "ymin": 249,
+            "xmax": 189,
+            "ymax": 268,
+            "x_center": 0.529412,
+            "y_center": 0.712121,
+            "width": 0.330882,
+            "height": 0.052342
+        }
+    ]
+}

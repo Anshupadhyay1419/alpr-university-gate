@@ -1,0 +1,19 @@
+{
+    "filename": "PB12.jpg",
+    "image_width": 272,
+    "image_height": 240,
+    "annotations": [
+        {
+            "vehicle_number": "PB07BY3563",
+            "class_id": 0,
+            "xmin": 89,
+            "ymin": 135,
+            "xmax": 179,
+            "ymax": 155,
+            "x_center": 0.492647,
+            "y_center": 0.604167,
+            "width": 0.330882,
+            "height": 0.083333
+        }
+    ]
+}

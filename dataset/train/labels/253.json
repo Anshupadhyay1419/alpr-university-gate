@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26CT4063_00000.jpeg",
+    "image_width": 450,
+    "image_height": 417,
+    "annotations": [
+        {
+            "vehicle_number": "HR26CT4063",
+            "class_id": 0,
+            "xmin": 133,
+            "ymin": 305,
+            "xmax": 300,
+            "ymax": 353,
+            "x_center": 0.481111,
+            "y_center": 0.788969,
+            "width": 0.371111,
+            "height": 0.115108
+        }
+    ]
+}

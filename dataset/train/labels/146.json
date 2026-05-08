@@ -1,0 +1,19 @@
+{
+    "filename": "88294212-f11c-46a7-a91a-04c9da19efa6___DSC_8221-L.jpg.jpeg",
+    "image_width": 660,
+    "image_height": 440,
+    "annotations": [
+        {
+            "vehicle_number": "WB74X7605",
+            "class_id": 0,
+            "xmin": 232,
+            "ymin": 194,
+            "xmax": 316,
+            "ymax": 234,
+            "x_center": 0.415152,
+            "y_center": 0.486364,
+            "width": 0.127273,
+            "height": 0.090909
+        }
+    ]
+}

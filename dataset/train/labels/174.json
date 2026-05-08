@@ -1,0 +1,19 @@
+{
+    "filename": "a9268f51-fbb4-42c2-b88c-f5ef9f8ead42___2266_7T4G0510.JPG.jpeg",
+    "image_width": 500,
+    "image_height": 416,
+    "annotations": [
+        {
+            "vehicle_number": "HR99EX6037",
+            "class_id": 0,
+            "xmin": 150,
+            "ymin": 251,
+            "xmax": 344,
+            "ymax": 303,
+            "x_center": 0.494,
+            "y_center": 0.665865,
+            "width": 0.388,
+            "height": 0.125
+        }
+    ]
+}

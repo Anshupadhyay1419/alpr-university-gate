@@ -1,0 +1,19 @@
+{
+    "filename": "18f2e55e-0724-4eee-a28e-5d552a5aa045___20455d0e2dca458f13fbf4da5a2dc118.jpg - Copy.jpeg",
+    "image_width": 347,
+    "image_height": 527,
+    "annotations": [
+        {
+            "vehicle_number": "HP896786",
+            "class_id": 0,
+            "xmin": 152,
+            "ymin": 165,
+            "xmax": 285,
+            "ymax": 242,
+            "x_center": 0.629683,
+            "y_center": 0.386148,
+            "width": 0.383285,
+            "height": 0.14611
+        }
+    ]
+}

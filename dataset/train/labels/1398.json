@@ -1,0 +1,19 @@
+{
+    "filename": "video3_1510.jpg",
+    "image_width": 333,
+    "image_height": 595,
+    "annotations": [
+        {
+            "vehicle_number": "MH14DX9938",
+            "class_id": 0,
+            "xmin": 104,
+            "ymin": 368,
+            "xmax": 249,
+            "ymax": 409,
+            "x_center": 0.53003,
+            "y_center": 0.652941,
+            "width": 0.435435,
+            "height": 0.068908
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL10AV6633_00000.jpg",
+    "image_width": 959,
+    "image_height": 693,
+    "annotations": [
+        {
+            "vehicle_number": "KL10AV6633",
+            "class_id": 0,
+            "xmin": 311,
+            "ymin": 429,
+            "xmax": 670,
+            "ymax": 533,
+            "x_center": 0.51147,
+            "y_center": 0.694084,
+            "width": 0.374348,
+            "height": 0.150072
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "CG1.jpg",
+    "image_width": 270,
+    "image_height": 332,
+    "annotations": [
+        {
+            "vehicle_number": "CG04HD6930",
+            "class_id": 0,
+            "xmin": 102,
+            "ymin": 262,
+            "xmax": 192,
+            "ymax": 283,
+            "x_center": 0.544444,
+            "y_center": 0.820783,
+            "width": 0.333333,
+            "height": 0.063253
+        }
+    ]
+}

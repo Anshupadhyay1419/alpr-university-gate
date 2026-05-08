@@ -1,0 +1,19 @@
+{
+    "filename": "PY18.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "PY02L4602",
+            "class_id": 0,
+            "xmin": 96,
+            "ymin": 217,
+            "xmax": 161,
+            "ymax": 234,
+            "x_center": 0.472426,
+            "y_center": 0.621212,
+            "width": 0.238971,
+            "height": 0.046832
+        }
+    ]
+}

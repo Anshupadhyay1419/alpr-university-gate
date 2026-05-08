@@ -1,0 +1,19 @@
+{
+    "filename": "video11_4070.jpg",
+    "image_width": 459,
+    "image_height": 394,
+    "annotations": [
+        {
+            "vehicle_number": "MH03DU5196",
+            "class_id": 0,
+            "xmin": 236,
+            "ymin": 289,
+            "xmax": 363,
+            "ymax": 326,
+            "x_center": 0.652505,
+            "y_center": 0.780457,
+            "width": 0.276688,
+            "height": 0.093909
+        }
+    ]
+}

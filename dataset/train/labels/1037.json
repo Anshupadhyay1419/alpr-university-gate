@@ -1,0 +1,19 @@
+{
+    "filename": "WB27.jpg",
+    "image_width": 272,
+    "image_height": 281,
+    "annotations": [
+        {
+            "vehicle_number": "WB02AD4162",
+            "class_id": 0,
+            "xmin": 101,
+            "ymin": 165,
+            "xmax": 187,
+            "ymax": 186,
+            "x_center": 0.529412,
+            "y_center": 0.624555,
+            "width": 0.316176,
+            "height": 0.074733
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL12G7531_00000.jpeg",
+    "image_width": 997,
+    "image_height": 451,
+    "annotations": [
+        {
+            "vehicle_number": "KL12G7531",
+            "class_id": 0,
+            "xmin": 663,
+            "ymin": 239,
+            "xmax": 887,
+            "ymax": 300,
+            "x_center": 0.777332,
+            "y_center": 0.597561,
+            "width": 0.224674,
+            "height": 0.135255
+        }
+    ]
+}

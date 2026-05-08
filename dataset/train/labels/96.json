@@ -1,0 +1,19 @@
+{
+    "filename": "57e92915-935a-4a91-91f8-f3ad70040a6e___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_847071203_1_1080x720_nissan-terrano-xv-d-thp-premium-110-ps-2015-diesel-ghaziabad.jpg",
+    "image_width": 540,
+    "image_height": 720,
+    "annotations": [
+        {
+            "vehicle_number": "UP16CT2233",
+            "class_id": 0,
+            "xmin": 179,
+            "ymin": 586,
+            "xmax": 344,
+            "ymax": 620,
+            "x_center": 0.484259,
+            "y_center": 0.8375,
+            "width": 0.305556,
+            "height": 0.047222
+        }
+    ]
+}

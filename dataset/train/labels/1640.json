@@ -1,0 +1,19 @@
+{
+    "filename": "video8_1680.jpg",
+    "image_width": 1080,
+    "image_height": 619,
+    "annotations": [
+        {
+            "vehicle_number": "MH47AZ8323",
+            "class_id": 0,
+            "xmin": 416,
+            "ymin": 344,
+            "xmax": 763,
+            "ymax": 481,
+            "x_center": 0.545833,
+            "y_center": 0.666397,
+            "width": 0.321296,
+            "height": 0.221325
+        }
+    ]
+}

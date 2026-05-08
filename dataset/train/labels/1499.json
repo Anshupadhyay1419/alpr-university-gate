@@ -1,0 +1,19 @@
+{
+    "filename": "video4_2810.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AV7461",
+            "class_id": 0,
+            "xmin": 188,
+            "ymin": 428,
+            "xmax": 445,
+            "ymax": 527,
+            "x_center": 0.164844,
+            "y_center": 0.44213,
+            "width": 0.133854,
+            "height": 0.091667
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "PB5.jpg",
+    "image_width": 268,
+    "image_height": 314,
+    "annotations": [
+        {
+            "vehicle_number": "PB2313752",
+            "class_id": 0,
+            "xmin": 37,
+            "ymin": 216,
+            "xmax": 79,
+            "ymax": 231,
+            "x_center": 0.216418,
+            "y_center": 0.711783,
+            "width": 0.156716,
+            "height": 0.047771
+        }
+    ]
+}

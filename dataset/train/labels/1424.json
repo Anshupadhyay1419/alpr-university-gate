@@ -1,0 +1,19 @@
+{
+    "filename": "video3_1950.jpg",
+    "image_width": 1354,
+    "image_height": 876,
+    "annotations": [
+        {
+            "vehicle_number": "MH02ER9194",
+            "class_id": 0,
+            "xmin": 270,
+            "ymin": 394,
+            "xmax": 456,
+            "ymax": 444,
+            "x_center": 0.268095,
+            "y_center": 0.478311,
+            "width": 0.137371,
+            "height": 0.057078
+        }
+    ]
+}

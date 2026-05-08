@@ -1,0 +1,19 @@
+{
+    "filename": "video2_0.jpg",
+    "image_width": 450,
+    "image_height": 407,
+    "annotations": [
+        {
+            "vehicle_number": "MH02EK4399",
+            "class_id": 0,
+            "xmin": 99,
+            "ymin": 209,
+            "xmax": 196,
+            "ymax": 237,
+            "x_center": 0.327778,
+            "y_center": 0.547912,
+            "width": 0.215556,
+            "height": 0.068796
+        }
+    ]
+}

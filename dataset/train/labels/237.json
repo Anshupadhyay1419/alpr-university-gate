@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-GJW115A1138_00000.jpeg",
+    "image_width": 470,
+    "image_height": 375,
+    "annotations": [
+        {
+            "vehicle_number": "GJW115A1138",
+            "class_id": 0,
+            "xmin": 156,
+            "ymin": 195,
+            "xmax": 338,
+            "ymax": 246,
+            "x_center": 0.525532,
+            "y_center": 0.588,
+            "width": 0.387234,
+            "height": 0.136
+        }
+    ]
+}

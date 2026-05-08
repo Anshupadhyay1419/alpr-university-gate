@@ -1,0 +1,19 @@
+{
+    "filename": "WB19.jpg",
+    "image_width": 272,
+    "image_height": 364,
+    "annotations": [
+        {
+            "vehicle_number": "WB061061",
+            "class_id": 0,
+            "xmin": 84,
+            "ymin": 174,
+            "xmax": 170,
+            "ymax": 199,
+            "x_center": 0.466912,
+            "y_center": 0.512363,
+            "width": 0.316176,
+            "height": 0.068681
+        }
+    ]
+}

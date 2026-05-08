@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH12NE8922_00000.png",
+    "image_width": 249,
+    "image_height": 268,
+    "annotations": [
+        {
+            "vehicle_number": "MH12NE8922",
+            "class_id": 0,
+            "xmin": 49,
+            "ymin": 124,
+            "xmax": 176,
+            "ymax": 161,
+            "x_center": 0.451807,
+            "y_center": 0.531716,
+            "width": 0.51004,
+            "height": 0.13806
+        }
+    ]
+}

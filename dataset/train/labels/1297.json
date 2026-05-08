@@ -1,0 +1,19 @@
+{
+    "filename": "video12_60.jpg",
+    "image_width": 698,
+    "image_height": 1079,
+    "annotations": [
+        {
+            "vehicle_number": "MH02BG9542",
+            "class_id": 0,
+            "xmin": 192,
+            "ymin": 718,
+            "xmax": 429,
+            "ymax": 785,
+            "x_center": 0.444842,
+            "y_center": 0.696478,
+            "width": 0.339542,
+            "height": 0.062095
+        }
+    ]
+}

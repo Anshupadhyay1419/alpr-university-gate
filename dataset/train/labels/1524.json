@@ -1,0 +1,19 @@
+{
+    "filename": "video4_3800.jpg",
+    "image_width": 809,
+    "image_height": 787,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DW8021",
+            "class_id": 0,
+            "xmin": 188,
+            "ymin": 390,
+            "xmax": 356,
+            "ymax": 441,
+            "x_center": 0.336218,
+            "y_center": 0.527954,
+            "width": 0.207664,
+            "height": 0.064803
+        }
+    ]
+}

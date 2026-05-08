@@ -1,0 +1,19 @@
+{
+    "filename": "b176b317-68a9-4c38-ac39-55e5244c9b9c___60653.jpg.jpeg",
+    "image_width": 927,
+    "image_height": 309,
+    "annotations": [
+        {
+            "vehicle_number": "MH02AJ344",
+            "class_id": 0,
+            "xmin": 456,
+            "ymin": 105,
+            "xmax": 785,
+            "ymax": 234,
+            "x_center": 0.669364,
+            "y_center": 0.548544,
+            "width": 0.354908,
+            "height": 0.417476
+        }
+    ]
+}

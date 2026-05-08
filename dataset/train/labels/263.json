@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR99BJ6662_00000.jpeg",
+    "image_width": 919,
+    "image_height": 532,
+    "annotations": [
+        {
+            "vehicle_number": "HR99BJ6662",
+            "class_id": 0,
+            "xmin": 260,
+            "ymin": 203,
+            "xmax": 730,
+            "ymax": 346,
+            "x_center": 0.538629,
+            "y_center": 0.515977,
+            "width": 0.511425,
+            "height": 0.268797
+        }
+    ]
+}

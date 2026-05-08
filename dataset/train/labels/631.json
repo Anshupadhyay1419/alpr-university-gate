@@ -1,0 +1,19 @@
+{
+    "filename": "GJ16.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "GJ01KC9959",
+            "class_id": 0,
+            "xmin": 105,
+            "ymin": 149,
+            "xmax": 177,
+            "ymax": 165,
+            "x_center": 0.518382,
+            "y_center": 0.769608,
+            "width": 0.264706,
+            "height": 0.078431
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video2_2220.jpg",
+    "image_width": 1583,
+    "image_height": 1022,
+    "annotations": [
+        {
+            "vehicle_number": "MH47Y0205",
+            "class_id": 0,
+            "xmin": 359,
+            "ymin": 346,
+            "xmax": 881,
+            "ymax": 521,
+            "x_center": 0.391661,
+            "y_center": 0.424168,
+            "width": 0.329754,
+            "height": 0.171233
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "OD11.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "OR02BV0701",
+            "class_id": 0,
+            "xmin": 166,
+            "ymin": 248,
+            "xmax": 216,
+            "ymax": 270,
+            "x_center": 0.702206,
+            "y_center": 0.713499,
+            "width": 0.183824,
+            "height": 0.060606
+        }
+    ]
+}

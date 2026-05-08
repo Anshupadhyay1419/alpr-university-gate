@@ -1,0 +1,19 @@
+{
+    "filename": "JK32.jpg",
+    "image_width": 271,
+    "image_height": 220,
+    "annotations": [
+        {
+            "vehicle_number": "JK13C4452",
+            "class_id": 0,
+            "xmin": 163,
+            "ymin": 199,
+            "xmax": 211,
+            "ymax": 219,
+            "x_center": 0.690037,
+            "y_center": 0.95,
+            "width": 0.177122,
+            "height": 0.090909
+        }
+    ]
+}

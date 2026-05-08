@@ -1,0 +1,19 @@
+{
+    "filename": "bbf22d00-3dd6-4338-b701-264e0c0c0aff___Maruti-Swift-DZire-Photos-1.jpg.jpeg",
+    "image_width": 591,
+    "image_height": 479,
+    "annotations": [
+        {
+            "vehicle_number": "HR26CM6005",
+            "class_id": 0,
+            "xmin": 191,
+            "ymin": 230,
+            "xmax": 388,
+            "ymax": 276,
+            "x_center": 0.489848,
+            "y_center": 0.528184,
+            "width": 0.333333,
+            "height": 0.096033
+        }
+    ]
+}

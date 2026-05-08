@@ -1,0 +1,19 @@
+{
+    "filename": "OD25.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "OD02AP3010",
+            "class_id": 0,
+            "xmin": 89,
+            "ymin": 279,
+            "xmax": 184,
+            "ymax": 297,
+            "x_center": 0.501838,
+            "y_center": 0.793388,
+            "width": 0.349265,
+            "height": 0.049587
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video4_2500.jpg",
+    "image_width": 1366,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02AK5481",
+            "class_id": 0,
+            "xmin": 195,
+            "ymin": 287,
+            "xmax": 589,
+            "ymax": 455,
+            "x_center": 0.286969,
+            "y_center": 0.343519,
+            "width": 0.288433,
+            "height": 0.155556
+        }
+    ]
+}

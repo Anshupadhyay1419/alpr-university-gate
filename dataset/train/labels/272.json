@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KA18P2987_00000.jpg",
+    "image_width": 2448,
+    "image_height": 2448,
+    "annotations": [
+        {
+            "vehicle_number": "KA18P2987",
+            "class_id": 0,
+            "xmin": 1306,
+            "ymin": 1705,
+            "xmax": 1801,
+            "ymax": 1868,
+            "x_center": 0.6346,
+            "y_center": 0.729779,
+            "width": 0.202206,
+            "height": 0.066585
+        }
+    ]
+}

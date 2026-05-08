@@ -1,0 +1,19 @@
+{
+    "filename": "1f0a7fe8-ac9b-4b54-9d55-e11f34f9f98b___9f6521b2ddb7b8e40ffd510966ffcca3.jpg.jpeg",
+    "image_width": 462,
+    "image_height": 290,
+    "annotations": [
+        {
+            "vehicle_number": "KA42TC131011",
+            "class_id": 0,
+            "xmin": 314,
+            "ymin": 108,
+            "xmax": 377,
+            "ymax": 144,
+            "x_center": 0.747835,
+            "y_center": 0.434483,
+            "width": 0.136364,
+            "height": 0.124138
+        }
+    ]
+}

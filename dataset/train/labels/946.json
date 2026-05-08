@@ -1,0 +1,19 @@
+{
+    "filename": "SK6.jpg",
+    "image_width": 272,
+    "image_height": 484,
+    "annotations": [
+        {
+            "vehicle_number": "SK04P1320",
+            "class_id": 0,
+            "xmin": 99,
+            "ymin": 259,
+            "xmax": 177,
+            "ymax": 278,
+            "x_center": 0.507353,
+            "y_center": 0.554752,
+            "width": 0.286765,
+            "height": 0.039256
+        }
+    ]
+}

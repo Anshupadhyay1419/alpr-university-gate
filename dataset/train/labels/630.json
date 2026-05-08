@@ -1,0 +1,19 @@
+{
+    "filename": "GJ15.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "GJ01HS1902",
+            "class_id": 0,
+            "xmin": 104,
+            "ymin": 148,
+            "xmax": 164,
+            "ymax": 163,
+            "x_center": 0.492647,
+            "y_center": 0.762255,
+            "width": 0.220588,
+            "height": 0.073529
+        }
+    ]
+}

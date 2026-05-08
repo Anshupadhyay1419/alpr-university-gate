@@ -1,0 +1,19 @@
+{
+    "filename": "UP19.jpg",
+    "image_width": 272,
+    "image_height": 604,
+    "annotations": [
+        {
+            "vehicle_number": "UP45Q3028",
+            "class_id": 0,
+            "xmin": 108,
+            "ymin": 214,
+            "xmax": 187,
+            "ymax": 234,
+            "x_center": 0.542279,
+            "y_center": 0.370861,
+            "width": 0.290441,
+            "height": 0.033113
+        }
+    ]
+}

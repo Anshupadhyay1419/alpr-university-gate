@@ -1,0 +1,19 @@
+{
+    "filename": "a2d49f53-4121-4627-b5d9-069f8b2f8490___840256171_1_1080x720_maruti-suzuki-wagon-r-vxi-with-abs-minor-2014-petrol-erode.jpg.jpeg",
+    "image_width": 371,
+    "image_height": 396,
+    "annotations": [
+        {
+            "vehicle_number": "TN38BY4191",
+            "class_id": 0,
+            "xmin": 109,
+            "ymin": 226,
+            "xmax": 241,
+            "ymax": 259,
+            "x_center": 0.471698,
+            "y_center": 0.612374,
+            "width": 0.355795,
+            "height": 0.083333
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "OD23.jpg",
+    "image_width": 193,
+    "image_height": 153,
+    "annotations": [
+        {
+            "vehicle_number": "OR21E1033",
+            "class_id": 0,
+            "xmin": 108,
+            "ymin": 118,
+            "xmax": 161,
+            "ymax": 129,
+            "x_center": 0.696891,
+            "y_center": 0.80719,
+            "width": 0.274611,
+            "height": 0.071895
+        }
+    ]
+}

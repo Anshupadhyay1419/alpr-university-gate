@@ -1,0 +1,19 @@
+{
+    "filename": "f20708c6-14cd-46ff-b8f1-6faef5fd8d2d___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-20346.jpg",
+    "image_width": 600,
+    "image_height": 400,
+    "annotations": [
+        {
+            "vehicle_number": "RJ27TC0530",
+            "class_id": 0,
+            "xmin": 153,
+            "ymin": 230,
+            "xmax": 412,
+            "ymax": 296,
+            "x_center": 0.470833,
+            "y_center": 0.6575,
+            "width": 0.431667,
+            "height": 0.165
+        }
+    ]
+}

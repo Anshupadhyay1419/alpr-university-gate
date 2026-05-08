@@ -1,0 +1,19 @@
+{
+    "filename": "JK23.jpg",
+    "image_width": 270,
+    "image_height": 322,
+    "annotations": [
+        {
+            "vehicle_number": "JK02CC0447",
+            "class_id": 0,
+            "xmin": 76,
+            "ymin": 194,
+            "xmax": 159,
+            "ymax": 218,
+            "x_center": 0.435185,
+            "y_center": 0.639752,
+            "width": 0.307407,
+            "height": 0.074534
+        }
+    ]
+}

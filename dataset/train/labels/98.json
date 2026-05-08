@@ -1,0 +1,19 @@
+{
+    "filename": "59a29a85-30f5-469e-a6c2-e1af171f151c___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_10187746494_417a40a489 - Copy.jpg",
+    "image_width": 252,
+    "image_height": 332,
+    "annotations": [
+        {
+            "vehicle_number": "TN21AU7234",
+            "class_id": 0,
+            "xmin": 103,
+            "ymin": 181,
+            "xmax": 166,
+            "ymax": 198,
+            "x_center": 0.53373,
+            "y_center": 0.570783,
+            "width": 0.25,
+            "height": 0.051205
+        }
+    ]
+}

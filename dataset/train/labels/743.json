@@ -1,0 +1,19 @@
+{
+    "filename": "JK7.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "JK11B4928",
+            "class_id": 0,
+            "xmin": 142,
+            "ymin": 233,
+            "xmax": 218,
+            "ymax": 253,
+            "x_center": 0.661765,
+            "y_center": 0.669421,
+            "width": 0.279412,
+            "height": 0.055096
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "JH10.jpg",
+    "image_width": 272,
+    "image_height": 604,
+    "annotations": [
+        {
+            "vehicle_number": "JH02AD2533",
+            "class_id": 0,
+            "xmin": 123,
+            "ymin": 289,
+            "xmax": 173,
+            "ymax": 304,
+            "x_center": 0.544118,
+            "y_center": 0.490894,
+            "width": 0.183824,
+            "height": 0.024834
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "6ed8b283-5cf5-4727-9969-c79f70f47e80___2-cars-same-numbers.jpg.jpeg",
+    "image_width": 305,
+    "image_height": 274,
+    "annotations": [
+        {
+            "vehicle_number": "RJ27TA1143",
+            "class_id": 0,
+            "xmin": 72,
+            "ymin": 145,
+            "xmax": 161,
+            "ymax": 175,
+            "x_center": 0.381967,
+            "y_center": 0.583942,
+            "width": 0.291803,
+            "height": 0.109489
+        }
+    ]
+}

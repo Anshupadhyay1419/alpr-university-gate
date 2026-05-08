@@ -1,0 +1,19 @@
+{
+    "filename": "video11_2000.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DQ0196",
+            "class_id": 0,
+            "xmin": 286,
+            "ymin": 649,
+            "xmax": 625,
+            "ymax": 872,
+            "x_center": 0.23724,
+            "y_center": 0.704167,
+            "width": 0.176563,
+            "height": 0.206481
+        }
+    ]
+}

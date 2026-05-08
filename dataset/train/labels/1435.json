@@ -1,0 +1,19 @@
+{
+    "filename": "video3_2220.jpg",
+    "image_width": 481,
+    "image_height": 407,
+    "annotations": [
+        {
+            "vehicle_number": "MH02BT6482",
+            "class_id": 0,
+            "xmin": 149,
+            "ymin": 329,
+            "xmax": 289,
+            "ymax": 375,
+            "x_center": 0.455301,
+            "y_center": 0.864865,
+            "width": 0.29106,
+            "height": 0.113022
+        }
+    ]
+}

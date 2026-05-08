@@ -1,0 +1,19 @@
+{
+    "filename": "video9_80.jpg",
+    "image_width": 1738,
+    "image_height": 1032,
+    "annotations": [
+        {
+            "vehicle_number": "MH01DT1917",
+            "class_id": 0,
+            "xmin": 1227,
+            "ymin": 243,
+            "xmax": 1607,
+            "ymax": 337,
+            "x_center": 0.815305,
+            "y_center": 0.281008,
+            "width": 0.218642,
+            "height": 0.091085
+        }
+    ]
+}

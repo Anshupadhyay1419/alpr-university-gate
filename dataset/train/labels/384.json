@@ -1,0 +1,19 @@
+{
+    "filename": "cbd81ff4-fc2a-4cd5-bed6-0fef4c456caa___226616d1495986750-zoomcar-review-mahindra-scorpio-s4-09-pamban.jpg.jpeg",
+    "image_width": 2432,
+    "image_height": 1368,
+    "annotations": [
+        {
+            "vehicle_number": "KA51AA3469",
+            "class_id": 0,
+            "xmin": 807,
+            "ymin": 748,
+            "xmax": 1088,
+            "ymax": 846,
+            "x_center": 0.389597,
+            "y_center": 0.582602,
+            "width": 0.115543,
+            "height": 0.071637
+        }
+    ]
+}

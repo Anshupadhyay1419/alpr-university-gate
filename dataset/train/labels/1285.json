@@ -1,0 +1,19 @@
+{
+    "filename": "video11_770.jpg",
+    "image_width": 1839,
+    "image_height": 908,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AX3070",
+            "class_id": 0,
+            "xmin": 327,
+            "ymin": 495,
+            "xmax": 1208,
+            "ymax": 727,
+            "x_center": 0.417346,
+            "y_center": 0.672907,
+            "width": 0.479065,
+            "height": 0.255507
+        }
+    ]
+}

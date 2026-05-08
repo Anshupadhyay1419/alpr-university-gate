@@ -1,0 +1,19 @@
+{
+    "filename": "7616cb19-df24-4d29-b679-5252391a547f___Skoda-Laura-rear.jpg.jpeg",
+    "image_width": 800,
+    "image_height": 533,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AR5274",
+            "class_id": 0,
+            "xmin": 316,
+            "ymin": 260,
+            "xmax": 479,
+            "ymax": 296,
+            "x_center": 0.496875,
+            "y_center": 0.521576,
+            "width": 0.20375,
+            "height": 0.067542
+        }
+    ]
+}

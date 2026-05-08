@@ -1,0 +1,19 @@
+{
+    "filename": "video3_1980.jpg",
+    "image_width": 686,
+    "image_height": 476,
+    "annotations": [
+        {
+            "vehicle_number": "MH02ER9194",
+            "class_id": 0,
+            "xmin": 316,
+            "ymin": 173,
+            "xmax": 434,
+            "ymax": 203,
+            "x_center": 0.546647,
+            "y_center": 0.394958,
+            "width": 0.172012,
+            "height": 0.063025
+        }
+    ]
+}

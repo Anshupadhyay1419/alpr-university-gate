@@ -1,0 +1,19 @@
+{
+    "filename": "2e23964b-ce59-4bcf-8c35-98f3a096a748___design-ind-number-plates-vijayanagar-bangalore-number-plate-dealers-2etqybj.jpg.jpeg",
+    "image_width": 750,
+    "image_height": 562,
+    "annotations": [
+        {
+            "vehicle_number": "KA05HS4495",
+            "class_id": 0,
+            "xmin": 1,
+            "ymin": 46,
+            "xmax": 702,
+            "ymax": 401,
+            "x_center": 0.468667,
+            "y_center": 0.397687,
+            "width": 0.934667,
+            "height": 0.631673
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "e204c50d-b861-4f68-827f-575351d150b4___Maruti-Baleno-RS-4.jpg.jpeg",
+    "image_width": 505,
+    "image_height": 343,
+    "annotations": [
+        {
+            "vehicle_number": "HR26DA2330",
+            "class_id": 0,
+            "xmin": 24,
+            "ymin": 208,
+            "xmax": 143,
+            "ymax": 247,
+            "x_center": 0.165347,
+            "y_center": 0.663265,
+            "width": 0.235644,
+            "height": 0.113703
+        }
+    ]
+}

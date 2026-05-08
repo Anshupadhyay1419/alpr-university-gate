@@ -1,0 +1,19 @@
+{
+    "filename": "WB6.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "WB02AH4655",
+            "class_id": 0,
+            "xmin": 108,
+            "ymin": 247,
+            "xmax": 181,
+            "ymax": 266,
+            "x_center": 0.53125,
+            "y_center": 0.706612,
+            "width": 0.268382,
+            "height": 0.052342
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "dfedf2ad-6596-48d4-a7f6-171e55c8f637___1160575d1383218860-high-security-registration-plates-hsrp-india-wp_20131030_16_01_22_pro.jpg.jpeg",
+    "image_width": 1632,
+    "image_height": 918,
+    "annotations": [
+        {
+            "vehicle_number": "GJ051D9443",
+            "class_id": 0,
+            "xmin": 682,
+            "ymin": 378,
+            "xmax": 935,
+            "ymax": 581,
+            "x_center": 0.495404,
+            "y_center": 0.522331,
+            "width": 0.155025,
+            "height": 0.221133
+        }
+    ]
+}

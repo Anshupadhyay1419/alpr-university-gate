@@ -1,0 +1,19 @@
+{
+    "filename": "video8_920.jpg",
+    "image_width": 717,
+    "image_height": 591,
+    "annotations": [
+        {
+            "vehicle_number": "MH038C6247",
+            "class_id": 0,
+            "xmin": 69,
+            "ymin": 455,
+            "xmax": 181,
+            "ymax": 498,
+            "x_center": 0.174338,
+            "y_center": 0.806261,
+            "width": 0.156206,
+            "height": 0.072758
+        }
+    ]
+}

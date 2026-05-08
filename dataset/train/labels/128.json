@@ -1,0 +1,19 @@
+{
+    "filename": "730a2f83-cd53-4943-8922-af9d4fcad415___new_2.jpg",
+    "image_width": 509,
+    "image_height": 290,
+    "annotations": [
+        {
+            "vehicle_number": "DL1N4268",
+            "class_id": 0,
+            "xmin": 144,
+            "ymin": 82,
+            "xmax": 369,
+            "ymax": 230,
+            "x_center": 0.503929,
+            "y_center": 0.537931,
+            "width": 0.442043,
+            "height": 0.510345
+        }
+    ]
+}

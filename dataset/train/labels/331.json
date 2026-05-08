@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH20BY4465_00000.jpeg",
+    "image_width": 250,
+    "image_height": 195,
+    "annotations": [
+        {
+            "vehicle_number": "MH20BY4465",
+            "class_id": 0,
+            "xmin": 62,
+            "ymin": 130,
+            "xmax": 138,
+            "ymax": 154,
+            "x_center": 0.4,
+            "y_center": 0.728205,
+            "width": 0.304,
+            "height": 0.123077
+        }
+    ]
+}

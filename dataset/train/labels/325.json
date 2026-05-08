@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH15BD8877_00000.png",
+    "image_width": 250,
+    "image_height": 245,
+    "annotations": [
+        {
+            "vehicle_number": "MH15BD8877",
+            "class_id": 0,
+            "xmin": 97,
+            "ymin": 181,
+            "xmax": 201,
+            "ymax": 209,
+            "x_center": 0.596,
+            "y_center": 0.795918,
+            "width": 0.416,
+            "height": 0.114286
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+.venv/
+
+# Model weights
+*.pt
+*.pth
+models/plate_detector/
+models/vehicle_detector/
+models/realesrgan/
+Real-ESRGAN/
+
+# Data and outputs
+data/
+output/
+logs/
+debug_crops/
+
+# Dataset and images
+dataset/
+test_2_images/
+*.mp4
+*.avi
+*.mov
+
+# Database
+*.db
+
+# Testing
+.hypothesis/
+.pytest_cache/
+runs/
+
+# IDE
+.kiro/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip

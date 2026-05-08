@@ -1,0 +1,19 @@
+{
+    "filename": "PB30.jpg",
+    "image_width": 272,
+    "image_height": 153,
+    "annotations": [
+        {
+            "vehicle_number": "PB08DY4824",
+            "class_id": 0,
+            "xmin": 74,
+            "ymin": 102,
+            "xmax": 130,
+            "ymax": 112,
+            "x_center": 0.375,
+            "y_center": 0.699346,
+            "width": 0.205882,
+            "height": 0.065359
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "HP13.jpg",
+    "image_width": 272,
+    "image_height": 590,
+    "annotations": [
+        {
+            "vehicle_number": "HP34C8986",
+            "class_id": 0,
+            "xmin": 54,
+            "ymin": 354,
+            "xmax": 185,
+            "ymax": 385,
+            "x_center": 0.439338,
+            "y_center": 0.626271,
+            "width": 0.481618,
+            "height": 0.052542
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR51AY9099_00000.jpg",
+    "image_width": 540,
+    "image_height": 720,
+    "annotations": [
+        {
+            "vehicle_number": "HR51AY9099",
+            "class_id": 0,
+            "xmin": 192,
+            "ymin": 513,
+            "xmax": 393,
+            "ymax": 551,
+            "x_center": 0.541667,
+            "y_center": 0.738889,
+            "width": 0.372222,
+            "height": 0.052778
+        }
+    ]
+}

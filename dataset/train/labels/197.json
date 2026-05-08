@@ -1,0 +1,19 @@
+{
+    "filename": "b79f870d-15c7-48e3-8874-7c0e53e29f75___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_754eab882b8290b29a0454dd45580a39_555X416_1 - Copy (3).jpg",
+    "image_width": 346,
+    "image_height": 208,
+    "annotations": [
+        {
+            "vehicle_number": "CRETA",
+            "class_id": 0,
+            "xmin": 237,
+            "ymin": 109,
+            "xmax": 288,
+            "ymax": 126,
+            "x_center": 0.758671,
+            "y_center": 0.564904,
+            "width": 0.147399,
+            "height": 0.081731
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "b78259be-7ef5-4499-b9a2-2b8a37660e8b___Maruti-Suzuki-Celerio-Front-Number-Plates-Design.jpg.jpeg",
+    "image_width": 960,
+    "image_height": 720,
+    "annotations": [
+        {
+            "vehicle_number": "KL10AW2814",
+            "class_id": 0,
+            "xmin": 325,
+            "ymin": 288,
+            "xmax": 691,
+            "ymax": 371,
+            "x_center": 0.529167,
+            "y_center": 0.457639,
+            "width": 0.38125,
+            "height": 0.115278
+        }
+    ]
+}

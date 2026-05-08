@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH04DW8351_00000.jpeg",
+    "image_width": 434,
+    "image_height": 372,
+    "annotations": [
+        {
+            "vehicle_number": "MH04DW8351",
+            "class_id": 0,
+            "xmin": 129,
+            "ymin": 177,
+            "xmax": 277,
+            "ymax": 213,
+            "x_center": 0.467742,
+            "y_center": 0.524194,
+            "width": 0.341014,
+            "height": 0.096774
+        }
+    ]
+}

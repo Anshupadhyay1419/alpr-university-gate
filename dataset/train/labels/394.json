@@ -1,0 +1,19 @@
+{
+    "filename": "d88b7b9c-a4f4-4af6-af3d-b3017e114e0d___146292-maruti-suzuki-wagon-r-stingray-vxi-ownership-review-dsc_01691.jpg.jpeg",
+    "image_width": 600,
+    "image_height": 361,
+    "annotations": [
+        {
+            "vehicle_number": "ASM1634",
+            "class_id": 0,
+            "xmin": 169,
+            "ymin": 210,
+            "xmax": 416,
+            "ymax": 267,
+            "x_center": 0.4875,
+            "y_center": 0.660665,
+            "width": 0.411667,
+            "height": 0.157895
+        }
+    ]
+}

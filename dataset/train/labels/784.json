@@ -1,0 +1,19 @@
+{
+    "filename": "MH13.jpg",
+    "image_width": 272,
+    "image_height": 589,
+    "annotations": [
+        {
+            "vehicle_number": "MH05BS3471",
+            "class_id": 0,
+            "xmin": 103,
+            "ymin": 331,
+            "xmax": 176,
+            "ymax": 349,
+            "x_center": 0.512868,
+            "y_center": 0.57725,
+            "width": 0.268382,
+            "height": 0.03056
+        }
+    ]
+}

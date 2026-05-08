@@ -1,0 +1,19 @@
+{
+    "filename": "MP2.jpg",
+    "image_width": 207,
+    "image_height": 153,
+    "annotations": [
+        {
+            "vehicle_number": "MP04CL8840",
+            "class_id": 0,
+            "xmin": 39,
+            "ymin": 126,
+            "xmax": 99,
+            "ymax": 142,
+            "x_center": 0.333333,
+            "y_center": 0.875817,
+            "width": 0.289855,
+            "height": 0.104575
+        }
+    ]
+}

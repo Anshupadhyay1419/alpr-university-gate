@@ -1,0 +1,19 @@
+{
+    "filename": "e4907f73-1fbc-412c-a766-9c81bb31449c___2016-Chevrolet-TrailBlazer-India-Test-Drive-Review-e1442832290349.jpg.jpeg",
+    "image_width": 469,
+    "image_height": 436,
+    "annotations": [
+        {
+            "vehicle_number": "GJ17TC214",
+            "class_id": 0,
+            "xmin": 62,
+            "ymin": 299,
+            "xmax": 175,
+            "ymax": 334,
+            "x_center": 0.252665,
+            "y_center": 0.725917,
+            "width": 0.240938,
+            "height": 0.080275
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "c2feb2b7-fbb3-4e1e-ad48-cc8112a1ab3f___Maruti_R3_On_Test.jpg.jpeg",
+    "image_width": 500,
+    "image_height": 332,
+    "annotations": [
+        {
+            "vehicle_number": "HR99HA4575",
+            "class_id": 0,
+            "xmin": 162,
+            "ymin": 213,
+            "xmax": 313,
+            "ymax": 261,
+            "x_center": 0.475,
+            "y_center": 0.713855,
+            "width": 0.302,
+            "height": 0.144578
+        }
+    ]
+}

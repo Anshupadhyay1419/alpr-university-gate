@@ -1,0 +1,19 @@
+{
+    "filename": "7f369852-27b9-4141-8c48-9e88b20743a6___new_Mahindra-Scorpio-Taillamps-Night.JPG.jpeg",
+    "image_width": 500,
+    "image_height": 393,
+    "annotations": [
+        {
+            "vehicle_number": "MH01BU5207",
+            "class_id": 0,
+            "xmin": 148,
+            "ymin": 214,
+            "xmax": 380,
+            "ymax": 270,
+            "x_center": 0.528,
+            "y_center": 0.615776,
+            "width": 0.464,
+            "height": 0.142494
+        }
+    ]
+}

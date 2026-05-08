@@ -1,0 +1,19 @@
+{
+    "filename": "video11_4960.jpg",
+    "image_width": 1274,
+    "image_height": 1078,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AM7014",
+            "class_id": 0,
+            "xmin": 90,
+            "ymin": 527,
+            "xmax": 305,
+            "ymax": 605,
+            "x_center": 0.155024,
+            "y_center": 0.525046,
+            "width": 0.16876,
+            "height": 0.072356
+        }
+    ]
+}

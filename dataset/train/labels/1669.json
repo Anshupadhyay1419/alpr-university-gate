@@ -1,0 +1,19 @@
+{
+    "filename": "video8_880.jpg",
+    "image_width": 1022,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH01BT0050",
+            "class_id": 0,
+            "xmin": 160,
+            "ymin": 498,
+            "xmax": 371,
+            "ymax": 577,
+            "x_center": 0.259785,
+            "y_center": 0.497685,
+            "width": 0.206458,
+            "height": 0.073148
+        }
+    ]
+}

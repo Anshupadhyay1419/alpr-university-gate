@@ -1,0 +1,19 @@
+{
+    "filename": "3d7cd880-ea4b-4d63-9706-bea1df54af20___135712d1400874352-skoda-rapid-1-6tdi-cr-mt-elegance-ultima-candy-white-white-monster-1911216_676392609084007_1524722860_o.jpg.jpeg",
+    "image_width": 769,
+    "image_height": 417,
+    "annotations": [
+        {
+            "vehicle_number": "DL3CAY9324",
+            "class_id": 0,
+            "xmin": 297,
+            "ymin": 259,
+            "xmax": 490,
+            "ymax": 306,
+            "x_center": 0.511704,
+            "y_center": 0.677458,
+            "width": 0.250975,
+            "height": 0.11271
+        }
+    ]
+}

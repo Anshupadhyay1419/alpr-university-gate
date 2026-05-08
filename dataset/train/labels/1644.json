@@ -1,0 +1,19 @@
+{
+    "filename": "video8_2100.jpg",
+    "image_width": 545,
+    "image_height": 613,
+    "annotations": [
+        {
+            "vehicle_number": "MH02CR8276",
+            "class_id": 0,
+            "xmin": 147,
+            "ymin": 382,
+            "xmax": 231,
+            "ymax": 417,
+            "x_center": 0.346789,
+            "y_center": 0.651713,
+            "width": 0.154128,
+            "height": 0.057096
+        }
+    ]
+}

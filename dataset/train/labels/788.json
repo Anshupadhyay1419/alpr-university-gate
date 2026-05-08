@@ -1,0 +1,19 @@
+{
+    "filename": "MH17.jpg",
+    "image_width": 272,
+    "image_height": 484,
+    "annotations": [
+        {
+            "vehicle_number": "MH01BT7906",
+            "class_id": 0,
+            "xmin": 106,
+            "ymin": 340,
+            "xmax": 170,
+            "ymax": 357,
+            "x_center": 0.507353,
+            "y_center": 0.720041,
+            "width": 0.235294,
+            "height": 0.035124
+        }
+    ]
+}

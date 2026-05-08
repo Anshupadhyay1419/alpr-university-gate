@@ -1,0 +1,19 @@
+{
+    "filename": "video2_3740.jpg",
+    "image_width": 1644,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH47N2829",
+            "class_id": 0,
+            "xmin": 309,
+            "ymin": 606,
+            "xmax": 649,
+            "ymax": 703,
+            "x_center": 0.291363,
+            "y_center": 0.606019,
+            "width": 0.206813,
+            "height": 0.089815
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video11_1290.jpg",
+    "image_width": 443,
+    "image_height": 639,
+    "annotations": [
+        {
+            "vehicle_number": "MH01DB1477",
+            "class_id": 0,
+            "xmin": 164,
+            "ymin": 500,
+            "xmax": 334,
+            "ymax": 538,
+            "x_center": 0.562077,
+            "y_center": 0.812207,
+            "width": 0.383747,
+            "height": 0.059468
+        }
+    ]
+}

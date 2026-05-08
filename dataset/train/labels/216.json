@@ -1,0 +1,19 @@
+{
+    "filename": "c1d91c5e-128b-41d4-9f9d-ebfbef98b597___High_security_n15816.jpg.jpeg",
+    "image_width": 570,
+    "image_height": 400,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AE8017",
+            "class_id": 0,
+            "xmin": 18,
+            "ymin": 141,
+            "xmax": 436,
+            "ymax": 289,
+            "x_center": 0.398246,
+            "y_center": 0.5375,
+            "width": 0.733333,
+            "height": 0.37
+        }
+    ]
+}

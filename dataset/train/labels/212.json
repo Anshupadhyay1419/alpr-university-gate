@@ -1,0 +1,19 @@
+{
+    "filename": "c02b3989-8334-4cf7-b69c-bcd177e209d4___mqdefault.jpg.jpeg",
+    "image_width": 320,
+    "image_height": 180,
+    "annotations": [
+        {
+            "vehicle_number": "TN99F2378",
+            "class_id": 0,
+            "xmin": 96,
+            "ymin": 19,
+            "xmax": 226,
+            "ymax": 53,
+            "x_center": 0.503125,
+            "y_center": 0.2,
+            "width": 0.40625,
+            "height": 0.188889
+        }
+    ]
+}

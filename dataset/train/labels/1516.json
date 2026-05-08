@@ -1,0 +1,19 @@
+{
+    "filename": "video4_3500.jpg",
+    "image_width": 549,
+    "image_height": 747,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DJ8952",
+            "class_id": 0,
+            "xmin": 165,
+            "ymin": 534,
+            "xmax": 278,
+            "ymax": 564,
+            "x_center": 0.403461,
+            "y_center": 0.73494,
+            "width": 0.205829,
+            "height": 0.040161
+        }
+    ]
+}

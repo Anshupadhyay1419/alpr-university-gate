@@ -1,0 +1,19 @@
+{
+    "filename": "e7a86597-7251-4e9b-9469-cd873fe6736f___Honda-Jazz-Number-Plates-Designs.jpg.jpeg",
+    "image_width": 600,
+    "image_height": 450,
+    "annotations": [
+        {
+            "vehicle_number": "TN42R2697",
+            "class_id": 0,
+            "xmin": 180,
+            "ymin": 127,
+            "xmax": 432,
+            "ymax": 252,
+            "x_center": 0.51,
+            "y_center": 0.421111,
+            "width": 0.42,
+            "height": 0.277778
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video8_2090.jpg",
+    "image_width": 1206,
+    "image_height": 675,
+    "annotations": [
+        {
+            "vehicle_number": "MH02CR8276",
+            "class_id": 0,
+            "xmin": 973,
+            "ymin": 326,
+            "xmax": 1038,
+            "ymax": 348,
+            "x_center": 0.833748,
+            "y_center": 0.499259,
+            "width": 0.053897,
+            "height": 0.032593
+        }
+    ]
+}

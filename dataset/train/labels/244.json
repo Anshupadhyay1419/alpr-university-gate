@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26BP3543_00001.jpeg",
+    "image_width": 506,
+    "image_height": 407,
+    "annotations": [
+        {
+            "vehicle_number": "HR26BP3543",
+            "class_id": 0,
+            "xmin": 190,
+            "ymin": 265,
+            "xmax": 333,
+            "ymax": 302,
+            "x_center": 0.516798,
+            "y_center": 0.69656,
+            "width": 0.282609,
+            "height": 0.090909
+        }
+    ]
+}

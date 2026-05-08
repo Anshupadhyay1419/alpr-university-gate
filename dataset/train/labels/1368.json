@@ -1,0 +1,19 @@
+{
+    "filename": "video2_5260.jpg",
+    "image_width": 915,
+    "image_height": 973,
+    "annotations": [
+        {
+            "vehicle_number": "MH02BT6482",
+            "class_id": 0,
+            "xmin": 365,
+            "ymin": 425,
+            "xmax": 619,
+            "ymax": 530,
+            "x_center": 0.537705,
+            "y_center": 0.49075,
+            "width": 0.277596,
+            "height": 0.107914
+        }
+    ]
+}

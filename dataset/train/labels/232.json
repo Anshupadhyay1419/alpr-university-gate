@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-DL7CN5617_00000.png",
+    "image_width": 400,
+    "image_height": 332,
+    "annotations": [
+        {
+            "vehicle_number": "DL7CN5617",
+            "class_id": 0,
+            "xmin": 146,
+            "ymin": 181,
+            "xmax": 260,
+            "ymax": 207,
+            "x_center": 0.5075,
+            "y_center": 0.584337,
+            "width": 0.285,
+            "height": 0.078313
+        }
+    ]
+}

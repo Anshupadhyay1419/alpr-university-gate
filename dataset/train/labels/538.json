@@ -1,0 +1,19 @@
+{
+    "filename": "BR9.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "BR01AW1250",
+            "class_id": 0,
+            "xmin": 168,
+            "ymin": 219,
+            "xmax": 218,
+            "ymax": 240,
+            "x_center": 0.709559,
+            "y_center": 0.632231,
+            "width": 0.183824,
+            "height": 0.057851
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "62b58053-425c-4924-b129-c4a6580f3562___product-500x5001.jpeg",
+    "image_width": 500,
+    "image_height": 234,
+    "annotations": [
+        {
+            "vehicle_number": "KL01CC50",
+            "class_id": 0,
+            "xmin": 231,
+            "ymin": 82,
+            "xmax": 434,
+            "ymax": 156,
+            "x_center": 0.665,
+            "y_center": 0.508547,
+            "width": 0.406,
+            "height": 0.316239
+        }
+    ]
+}

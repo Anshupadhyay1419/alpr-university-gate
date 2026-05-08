@@ -1,0 +1,19 @@
+{
+    "filename": "TS8.jpg",
+    "image_width": 272,
+    "image_height": 608,
+    "annotations": [
+        {
+            "vehicle_number": "TS09EG6565",
+            "class_id": 0,
+            "xmin": 92,
+            "ymin": 339,
+            "xmax": 179,
+            "ymax": 360,
+            "x_center": 0.498162,
+            "y_center": 0.574836,
+            "width": 0.319853,
+            "height": 0.034539
+        }
+    ]
+}

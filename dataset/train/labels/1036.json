@@ -1,0 +1,19 @@
+{
+    "filename": "WB26.jpg",
+    "image_width": 272,
+    "image_height": 186,
+    "annotations": [
+        {
+            "vehicle_number": "WB02A03017",
+            "class_id": 0,
+            "xmin": 30,
+            "ymin": 120,
+            "xmax": 80,
+            "ymax": 143,
+            "x_center": 0.202206,
+            "y_center": 0.706989,
+            "width": 0.183824,
+            "height": 0.123656
+        }
+    ]
+}

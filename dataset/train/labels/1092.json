@@ -1,0 +1,19 @@
+{
+    "filename": "video10_830.jpg",
+    "image_width": 1346,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH05EJ3005",
+            "class_id": 0,
+            "xmin": 7,
+            "ymin": 374,
+            "xmax": 672,
+            "ymax": 527,
+            "x_center": 0.252229,
+            "y_center": 0.41713,
+            "width": 0.494056,
+            "height": 0.141667
+        }
+    ]
+}

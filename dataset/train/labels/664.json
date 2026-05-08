@@ -1,0 +1,19 @@
+{
+    "filename": "HP21.jpg",
+    "image_width": 272,
+    "image_height": 544,
+    "annotations": [
+        {
+            "vehicle_number": "HP40B8992",
+            "class_id": 0,
+            "xmin": 76,
+            "ymin": 290,
+            "xmax": 169,
+            "ymax": 327,
+            "x_center": 0.450368,
+            "y_center": 0.567096,
+            "width": 0.341912,
+            "height": 0.068015
+        }
+    ]
+}

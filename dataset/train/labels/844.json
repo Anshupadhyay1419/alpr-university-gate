@@ -1,0 +1,19 @@
+{
+    "filename": "MP1.jpg",
+    "image_width": 269,
+    "image_height": 436,
+    "annotations": [
+        {
+            "vehicle_number": "MP04CL3546",
+            "class_id": 0,
+            "xmin": 90,
+            "ymin": 269,
+            "xmax": 171,
+            "ymax": 287,
+            "x_center": 0.48513,
+            "y_center": 0.637615,
+            "width": 0.301115,
+            "height": 0.041284
+        }
+    ]
+}

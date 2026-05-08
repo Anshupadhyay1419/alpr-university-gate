@@ -1,0 +1,19 @@
+{
+    "filename": "HP5.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "HP01N0304",
+            "class_id": 0,
+            "xmin": 89,
+            "ymin": 187,
+            "xmax": 175,
+            "ymax": 205,
+            "x_center": 0.485294,
+            "y_center": 0.539945,
+            "width": 0.316176,
+            "height": 0.049587
+        }
+    ]
+}

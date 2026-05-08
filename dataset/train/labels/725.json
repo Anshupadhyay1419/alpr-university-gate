@@ -1,0 +1,19 @@
+{
+    "filename": "JK20.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "JK02BJ4045",
+            "class_id": 0,
+            "xmin": 3,
+            "ymin": 217,
+            "xmax": 70,
+            "ymax": 251,
+            "x_center": 0.134191,
+            "y_center": 0.644628,
+            "width": 0.246324,
+            "height": 0.093664
+        }
+    ]
+}

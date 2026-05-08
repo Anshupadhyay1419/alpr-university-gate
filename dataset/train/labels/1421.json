@@ -1,0 +1,19 @@
+{
+    "filename": "video3_1910.jpg",
+    "image_width": 344,
+    "image_height": 545,
+    "annotations": [
+        {
+            "vehicle_number": "MH02EU4077",
+            "class_id": 0,
+            "xmin": 159,
+            "ymin": 415,
+            "xmax": 236,
+            "ymax": 433,
+            "x_center": 0.574128,
+            "y_center": 0.777982,
+            "width": 0.223837,
+            "height": 0.033028
+        }
+    ]
+}

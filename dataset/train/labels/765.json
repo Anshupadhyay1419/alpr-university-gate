@@ -1,0 +1,19 @@
+{
+    "filename": "KA9.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "KA01MB9714",
+            "class_id": 0,
+            "xmin": 100,
+            "ymin": 261,
+            "xmax": 168,
+            "ymax": 275,
+            "x_center": 0.492647,
+            "y_center": 0.738292,
+            "width": 0.25,
+            "height": 0.038567
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "OD10.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "OD05K6964",
+            "class_id": 0,
+            "xmin": 91,
+            "ymin": 244,
+            "xmax": 181,
+            "ymax": 262,
+            "x_center": 0.5,
+            "y_center": 0.69697,
+            "width": 0.330882,
+            "height": 0.049587
+        }
+    ]
+}

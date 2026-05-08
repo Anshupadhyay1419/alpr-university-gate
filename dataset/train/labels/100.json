@@ -1,0 +1,19 @@
+{
+    "filename": "59e121dc-ebc6-4e4c-ba88-7fe04b569218___Autopsyches-Skoda-Laura-6.jpg.jpeg",
+    "image_width": 740,
+    "image_height": 490,
+    "annotations": [
+        {
+            "vehicle_number": "DL3CAY2231",
+            "class_id": 0,
+            "xmin": 289,
+            "ymin": 217,
+            "xmax": 447,
+            "ymax": 257,
+            "x_center": 0.497297,
+            "y_center": 0.483673,
+            "width": 0.213514,
+            "height": 0.081633
+        }
+    ]
+}

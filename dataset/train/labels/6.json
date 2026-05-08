@@ -1,0 +1,19 @@
+{
+    "filename": "07064c2c-2aa3-4419-91a4-92916de8e54c___mahindra-scorpio-old-car-500x500.jpg.jpeg",
+    "image_width": 500,
+    "image_height": 415,
+    "annotations": [
+        {
+            "vehicle_number": "MP09CP9052",
+            "class_id": 0,
+            "xmin": 205,
+            "ymin": 290,
+            "xmax": 335,
+            "ymax": 353,
+            "x_center": 0.54,
+            "y_center": 0.774699,
+            "width": 0.26,
+            "height": 0.151807
+        }
+    ]
+}

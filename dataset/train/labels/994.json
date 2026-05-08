@@ -1,0 +1,19 @@
+{
+    "filename": "UK8.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "UK07BK5014",
+            "class_id": 0,
+            "xmin": 95,
+            "ymin": 213,
+            "xmax": 169,
+            "ymax": 229,
+            "x_center": 0.485294,
+            "y_center": 0.608815,
+            "width": 0.272059,
+            "height": 0.044077
+        }
+    ]
+}

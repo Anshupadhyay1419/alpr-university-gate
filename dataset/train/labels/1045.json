@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH01DE2780_00000.png",
+    "image_width": 731,
+    "image_height": 425,
+    "annotations": [
+        {
+            "vehicle_number": "MH01DE2780",
+            "class_id": 0,
+            "xmin": 480,
+            "ymin": 206,
+            "xmax": 629,
+            "ymax": 253,
+            "x_center": 0.75855,
+            "y_center": 0.54,
+            "width": 0.20383,
+            "height": 0.110588
+        }
+    ]
+}

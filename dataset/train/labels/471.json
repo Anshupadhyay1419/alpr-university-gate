@@ -1,0 +1,19 @@
+{
+    "filename": "AP30.jpg",
+    "image_width": 272,
+    "image_height": 483,
+    "annotations": [
+        {
+            "vehicle_number": "AP31DT9378",
+            "class_id": 0,
+            "xmin": 90,
+            "ymin": 276,
+            "xmax": 173,
+            "ymax": 292,
+            "x_center": 0.483456,
+            "y_center": 0.587992,
+            "width": 0.305147,
+            "height": 0.033126
+        }
+    ]
+}

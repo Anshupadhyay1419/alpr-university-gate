@@ -1,0 +1,19 @@
+{
+    "filename": "f59d42f8-dc55-4b60-bb91-c2db3644f2ff___841309873_1_1080x720_mahindra-scorpio-vlx-airbags-bs-iii-2012-diesel-.jpg.jpeg",
+    "image_width": 960,
+    "image_height": 720,
+    "annotations": [
+        {
+            "vehicle_number": "TN58AM1",
+            "class_id": 0,
+            "xmin": 387,
+            "ymin": 395,
+            "xmax": 592,
+            "ymax": 442,
+            "x_center": 0.509896,
+            "y_center": 0.58125,
+            "width": 0.213542,
+            "height": 0.065278
+        }
+    ]
+}

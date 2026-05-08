@@ -1,0 +1,19 @@
+{
+    "filename": "video6_260.jpg",
+    "image_width": 657,
+    "image_height": 561,
+    "annotations": [
+        {
+            "vehicle_number": "MH06AZ3571",
+            "class_id": 0,
+            "xmin": 136,
+            "ymin": 411,
+            "xmax": 345,
+            "ymax": 459,
+            "x_center": 0.366058,
+            "y_center": 0.775401,
+            "width": 0.318113,
+            "height": 0.085561
+        }
+    ]
+}

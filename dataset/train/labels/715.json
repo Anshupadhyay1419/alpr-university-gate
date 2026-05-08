@@ -1,0 +1,19 @@
+{
+    "filename": "JK11.jpg",
+    "image_width": 272,
+    "image_height": 593,
+    "annotations": [
+        {
+            "vehicle_number": "JK03D7750",
+            "class_id": 0,
+            "xmin": 94,
+            "ymin": 340,
+            "xmax": 164,
+            "ymax": 358,
+            "x_center": 0.474265,
+            "y_center": 0.588533,
+            "width": 0.257353,
+            "height": 0.030354
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH20CS9817_00000.jpeg",
+    "image_width": 404,
+    "image_height": 211,
+    "annotations": [
+        {
+            "vehicle_number": "MH20CS9817",
+            "class_id": 0,
+            "xmin": 68,
+            "ymin": 85,
+            "xmax": 252,
+            "ymax": 128,
+            "x_center": 0.39604,
+            "y_center": 0.504739,
+            "width": 0.455446,
+            "height": 0.203791
+        }
+    ]
+}

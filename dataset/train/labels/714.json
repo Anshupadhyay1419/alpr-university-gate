@@ -1,0 +1,19 @@
+{
+    "filename": "JK10.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "JK02AK8967",
+            "class_id": 0,
+            "xmin": 108,
+            "ymin": 168,
+            "xmax": 187,
+            "ymax": 187,
+            "x_center": 0.542279,
+            "y_center": 0.870098,
+            "width": 0.290441,
+            "height": 0.093137
+        }
+    ]
+}

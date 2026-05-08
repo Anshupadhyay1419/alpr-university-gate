@@ -1,0 +1,19 @@
+{
+    "filename": "GA11.jpg",
+    "image_width": 271,
+    "image_height": 495,
+    "annotations": [
+        {
+            "vehicle_number": "GA03P2839",
+            "class_id": 0,
+            "xmin": 46,
+            "ymin": 330,
+            "xmax": 95,
+            "ymax": 359,
+            "x_center": 0.260148,
+            "y_center": 0.69596,
+            "width": 0.180812,
+            "height": 0.058586
+        }
+    ]
+}

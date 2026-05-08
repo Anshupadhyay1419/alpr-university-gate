@@ -1,0 +1,19 @@
+{
+    "filename": "HP18.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "HP24C8D32",
+            "class_id": 0,
+            "xmin": 140,
+            "ymin": 283,
+            "xmax": 183,
+            "ymax": 293,
+            "x_center": 0.59375,
+            "y_center": 0.793388,
+            "width": 0.158088,
+            "height": 0.027548
+        }
+    ]
+}

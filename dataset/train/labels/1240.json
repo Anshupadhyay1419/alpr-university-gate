@@ -1,0 +1,19 @@
+{
+    "filename": "video11_3920.jpg",
+    "image_width": 956,
+    "image_height": 402,
+    "annotations": [
+        {
+            "vehicle_number": "MH01DB2561",
+            "class_id": 0,
+            "xmin": 205,
+            "ymin": 94,
+            "xmax": 330,
+            "ymax": 126,
+            "x_center": 0.279812,
+            "y_center": 0.273632,
+            "width": 0.130753,
+            "height": 0.079602
+        }
+    ]
+}

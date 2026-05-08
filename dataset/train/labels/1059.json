@@ -1,0 +1,19 @@
+{
+    "filename": "video10_1070.jpg",
+    "image_width": 932,
+    "image_height": 665,
+    "annotations": [
+        {
+            "vehicle_number": "MH03DV2010",
+            "class_id": 0,
+            "xmin": 197,
+            "ymin": 262,
+            "xmax": 357,
+            "ymax": 301,
+            "x_center": 0.29721,
+            "y_center": 0.423308,
+            "width": 0.171674,
+            "height": 0.058647
+        }
+    ]
+}

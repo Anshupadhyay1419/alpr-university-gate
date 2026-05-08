@@ -1,0 +1,19 @@
+{
+    "filename": "b4eb91cd-3e77-40c2-bbe6-13d42f2ea4ba___INNOVA_Euro_Number_Plates.jpg.jpeg",
+    "image_width": 500,
+    "image_height": 350,
+    "annotations": [
+        {
+            "vehicle_number": "KL43B2344",
+            "class_id": 0,
+            "xmin": 162,
+            "ymin": 151,
+            "xmax": 339,
+            "ymax": 193,
+            "x_center": 0.501,
+            "y_center": 0.491429,
+            "width": 0.354,
+            "height": 0.12
+        }
+    ]
+}

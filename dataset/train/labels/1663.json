@@ -1,0 +1,19 @@
+{
+    "filename": "video8_790.jpg",
+    "image_width": 1142,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH12SF3212",
+            "class_id": 0,
+            "xmin": 335,
+            "ymin": 440,
+            "xmax": 454,
+            "ymax": 496,
+            "x_center": 0.345447,
+            "y_center": 0.433333,
+            "width": 0.104203,
+            "height": 0.051852
+        }
+    ]
+}

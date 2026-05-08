@@ -1,0 +1,19 @@
+{
+    "filename": "DL35.jpg",
+    "image_width": 272,
+    "image_height": 483,
+    "annotations": [
+        {
+            "vehicle_number": "DL3CBS5881",
+            "class_id": 0,
+            "xmin": 78,
+            "ymin": 306,
+            "xmax": 155,
+            "ymax": 324,
+            "x_center": 0.428309,
+            "y_center": 0.652174,
+            "width": 0.283088,
+            "height": 0.037267
+        }
+    ]
+}

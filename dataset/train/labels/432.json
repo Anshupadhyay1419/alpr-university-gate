@@ -1,0 +1,19 @@
+{
+    "filename": "f9e27b82-9e65-44ba-bf9a-b3ced8901937___Skoda-Superb-Exterior-deadfront-69204.jpg.jpeg",
+    "image_width": 600,
+    "image_height": 337,
+    "annotations": [
+        {
+            "vehicle_number": "MH20DV2362",
+            "class_id": 0,
+            "xmin": 202,
+            "ymin": 191,
+            "xmax": 389,
+            "ymax": 225,
+            "x_center": 0.4925,
+            "y_center": 0.617211,
+            "width": 0.311667,
+            "height": 0.10089
+        }
+    ]
+}

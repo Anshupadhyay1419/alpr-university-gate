@@ -1,0 +1,19 @@
+{
+    "filename": "23d775eb-842f-4f57-ad7a-affafa21660a___215453-new-2016-maruti-ertiga-granite-grey-zdi-shvs-highway-champion-img_8168.jpg.jpeg",
+    "image_width": 547,
+    "image_height": 546,
+    "annotations": [
+        {
+            "vehicle_number": "TN37CR4019",
+            "class_id": 0,
+            "xmin": 98,
+            "ymin": 267,
+            "xmax": 297,
+            "ymax": 365,
+            "x_center": 0.36106,
+            "y_center": 0.578755,
+            "width": 0.363803,
+            "height": 0.179487
+        }
+    ]
+}

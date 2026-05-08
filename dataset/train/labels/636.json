@@ -1,0 +1,19 @@
+{
+    "filename": "GJ21.jpg",
+    "image_width": 272,
+    "image_height": 278,
+    "annotations": [
+        {
+            "vehicle_number": "GJ12CG2526",
+            "class_id": 0,
+            "xmin": 94,
+            "ymin": 193,
+            "xmax": 176,
+            "ymax": 212,
+            "x_center": 0.496324,
+            "y_center": 0.728417,
+            "width": 0.301471,
+            "height": 0.068345
+        }
+    ]
+}

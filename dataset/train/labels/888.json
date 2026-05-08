@@ -1,0 +1,19 @@
+{
+    "filename": "PB11.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "PB08C03690",
+            "class_id": 0,
+            "xmin": 68,
+            "ymin": 146,
+            "xmax": 186,
+            "ymax": 171,
+            "x_center": 0.466912,
+            "y_center": 0.776961,
+            "width": 0.433824,
+            "height": 0.122549
+        }
+    ]
+}

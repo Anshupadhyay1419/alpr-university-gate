@@ -1,0 +1,19 @@
+{
+    "filename": "ML37.jpg",
+    "image_width": 272,
+    "image_height": 127,
+    "annotations": [
+        {
+            "vehicle_number": "ML08E9223",
+            "class_id": 0,
+            "xmin": 112,
+            "ymin": 91,
+            "xmax": 155,
+            "ymax": 103,
+            "x_center": 0.490809,
+            "y_center": 0.76378,
+            "width": 0.158088,
+            "height": 0.094488
+        }
+    ]
+}

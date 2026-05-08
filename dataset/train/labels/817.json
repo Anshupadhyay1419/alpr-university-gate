@@ -1,0 +1,19 @@
+{
+    "filename": "ML21.jpg",
+    "image_width": 270,
+    "image_height": 243,
+    "annotations": [
+        {
+            "vehicle_number": "ML05J3288",
+            "class_id": 0,
+            "xmin": 103,
+            "ymin": 210,
+            "xmax": 174,
+            "ymax": 227,
+            "x_center": 0.512963,
+            "y_center": 0.899177,
+            "width": 0.262963,
+            "height": 0.069959
+        }
+    ]
+}

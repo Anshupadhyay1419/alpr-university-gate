@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TN52U1580_00000.jpeg",
+    "image_width": 360,
+    "image_height": 450,
+    "annotations": [
+        {
+            "vehicle_number": "TN52U1580",
+            "class_id": 0,
+            "xmin": 40,
+            "ymin": 241,
+            "xmax": 252,
+            "ymax": 295,
+            "x_center": 0.405556,
+            "y_center": 0.595556,
+            "width": 0.588889,
+            "height": 0.12
+        }
+    ]
+}

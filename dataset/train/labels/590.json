@@ -1,0 +1,19 @@
+{
+    "filename": "DL30.jpg",
+    "image_width": 270,
+    "image_height": 347,
+    "annotations": [
+        {
+            "vehicle_number": "DL10C05520",
+            "class_id": 0,
+            "xmin": 169,
+            "ymin": 207,
+            "xmax": 221,
+            "ymax": 229,
+            "x_center": 0.722222,
+            "y_center": 0.628242,
+            "width": 0.192593,
+            "height": 0.063401
+        }
+    ]
+}

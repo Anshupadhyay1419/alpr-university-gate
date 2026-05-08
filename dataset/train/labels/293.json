@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL53E964_00000.jpeg",
+    "image_width": 717,
+    "image_height": 634,
+    "annotations": [
+        {
+            "vehicle_number": "KL53E964",
+            "class_id": 0,
+            "xmin": 258,
+            "ymin": 389,
+            "xmax": 484,
+            "ymax": 462,
+            "x_center": 0.517434,
+            "y_center": 0.671136,
+            "width": 0.315202,
+            "height": 0.115142
+        }
+    ]
+}

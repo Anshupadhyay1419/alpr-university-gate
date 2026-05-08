@@ -1,0 +1,19 @@
+{
+    "filename": "AR10.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "AR152019",
+            "class_id": 0,
+            "xmin": 34,
+            "ymin": 171,
+            "xmax": 88,
+            "ymax": 188,
+            "x_center": 0.224265,
+            "y_center": 0.49449,
+            "width": 0.198529,
+            "height": 0.046832
+        }
+    ]
+}

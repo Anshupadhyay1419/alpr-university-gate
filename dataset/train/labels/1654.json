@@ -1,0 +1,19 @@
+{
+    "filename": "video8_260.jpg",
+    "image_width": 708,
+    "image_height": 536,
+    "annotations": [
+        {
+            "vehicle_number": "MH47AU1306",
+            "class_id": 0,
+            "xmin": 308,
+            "ymin": 347,
+            "xmax": 382,
+            "ymax": 368,
+            "x_center": 0.487288,
+            "y_center": 0.666978,
+            "width": 0.10452,
+            "height": 0.039179
+        }
+    ]
+}

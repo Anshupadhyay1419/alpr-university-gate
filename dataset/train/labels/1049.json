@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH43BU2401_00000.png",
+    "image_width": 915,
+    "image_height": 412,
+    "annotations": [
+        {
+            "vehicle_number": "MH43BU2401",
+            "class_id": 0,
+            "xmin": 585,
+            "ymin": 191,
+            "xmax": 756,
+            "ymax": 239,
+            "x_center": 0.732787,
+            "y_center": 0.521845,
+            "width": 0.186885,
+            "height": 0.116505
+        }
+    ]
+}

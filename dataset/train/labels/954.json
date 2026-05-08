@@ -1,0 +1,19 @@
+{
+    "filename": "TN4.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "TN10AR0131",
+            "class_id": 0,
+            "xmin": 93,
+            "ymin": 149,
+            "xmax": 173,
+            "ymax": 168,
+            "x_center": 0.488971,
+            "y_center": 0.776961,
+            "width": 0.294118,
+            "height": 0.093137
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video11_540.jpg",
+    "image_width": 1287,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DQ0196",
+            "class_id": 0,
+            "xmin": 455,
+            "ymin": 663,
+            "xmax": 1063,
+            "ymax": 843,
+            "x_center": 0.589744,
+            "y_center": 0.697222,
+            "width": 0.472416,
+            "height": 0.166667
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "AN7.jpg",
+    "image_width": 272,
+    "image_height": 590,
+    "annotations": [
+        {
+            "vehicle_number": "AN01H0908",
+            "class_id": 0,
+            "xmin": 89,
+            "ymin": 366,
+            "xmax": 192,
+            "ymax": 391,
+            "x_center": 0.516544,
+            "y_center": 0.641525,
+            "width": 0.378676,
+            "height": 0.042373
+        }
+    ]
+}

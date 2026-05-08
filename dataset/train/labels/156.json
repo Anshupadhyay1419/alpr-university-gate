@@ -1,0 +1,19 @@
+{
+    "filename": "931dfd5a-3d1f-4a08-9234-0453545e27ea___1297127d1412798792-maruti-ciaz-official-review-imag0627.jpg.jpeg",
+    "image_width": 500,
+    "image_height": 265,
+    "annotations": [
+        {
+            "vehicle_number": "PB03AGT8979",
+            "class_id": 0,
+            "xmin": 155,
+            "ymin": 117,
+            "xmax": 354,
+            "ymax": 178,
+            "x_center": 0.509,
+            "y_center": 0.556604,
+            "width": 0.398,
+            "height": 0.230189
+        }
+    ]
+}

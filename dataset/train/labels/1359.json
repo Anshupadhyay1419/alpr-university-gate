@@ -1,0 +1,19 @@
+{
+    "filename": "video2_470.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DN8718",
+            "class_id": 0,
+            "xmin": 409,
+            "ymin": 709,
+            "xmax": 866,
+            "ymax": 873,
+            "x_center": 0.332031,
+            "y_center": 0.732407,
+            "width": 0.238021,
+            "height": 0.151852
+        }
+    ]
+}

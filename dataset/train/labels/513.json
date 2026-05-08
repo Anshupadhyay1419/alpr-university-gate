@@ -1,0 +1,19 @@
+{
+    "filename": "AS23.jpg",
+    "image_width": 272,
+    "image_height": 153,
+    "annotations": [
+        {
+            "vehicle_number": "AS19D9919",
+            "class_id": 0,
+            "xmin": 81,
+            "ymin": 76,
+            "xmax": 179,
+            "ymax": 102,
+            "x_center": 0.477941,
+            "y_center": 0.581699,
+            "width": 0.360294,
+            "height": 0.169935
+        }
+    ]
+}

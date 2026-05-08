@@ -1,0 +1,19 @@
+{
+    "filename": "video11_4020.jpg",
+    "image_width": 450,
+    "image_height": 605,
+    "annotations": [
+        {
+            "vehicle_number": "MH01BM4824",
+            "class_id": 0,
+            "xmin": 151,
+            "ymin": 276,
+            "xmax": 275,
+            "ymax": 320,
+            "x_center": 0.473333,
+            "y_center": 0.492562,
+            "width": 0.275556,
+            "height": 0.072727
+        }
+    ]
+}

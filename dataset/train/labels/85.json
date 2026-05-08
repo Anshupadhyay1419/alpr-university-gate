@@ -1,0 +1,19 @@
+{
+    "filename": "4ed4509a-18ed-44cd-bfe3-b1cce982e365___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Nissan-Terrano-3.jpg",
+    "image_width": 800,
+    "image_height": 600,
+    "annotations": [
+        {
+            "vehicle_number": "TN21AT0480",
+            "class_id": 0,
+            "xmin": 285,
+            "ymin": 322,
+            "xmax": 490,
+            "ymax": 375,
+            "x_center": 0.484375,
+            "y_center": 0.580833,
+            "width": 0.25625,
+            "height": 0.088333
+        }
+    ]
+}

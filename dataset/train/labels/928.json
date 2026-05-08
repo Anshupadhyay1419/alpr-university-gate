@@ -1,0 +1,19 @@
+{
+    "filename": "PY8.jpg",
+    "image_width": 272,
+    "image_height": 568,
+    "annotations": [
+        {
+            "vehicle_number": "PY01BD9020",
+            "class_id": 0,
+            "xmin": 100,
+            "ymin": 396,
+            "xmax": 207,
+            "ymax": 427,
+            "x_center": 0.564338,
+            "y_center": 0.724472,
+            "width": 0.393382,
+            "height": 0.054577
+        }
+    ]
+}

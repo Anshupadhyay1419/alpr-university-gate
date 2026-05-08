@@ -1,0 +1,19 @@
+{
+    "filename": "ML22.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "ML1032811",
+            "class_id": 0,
+            "xmin": 106,
+            "ymin": 196,
+            "xmax": 163,
+            "ymax": 211,
+            "x_center": 0.494485,
+            "y_center": 0.560606,
+            "width": 0.209559,
+            "height": 0.041322
+        }
+    ]
+}

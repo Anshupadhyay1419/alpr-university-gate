@@ -1,0 +1,19 @@
+{
+    "filename": "HP17.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "HP20E3953",
+            "class_id": 0,
+            "xmin": 79,
+            "ymin": 245,
+            "xmax": 176,
+            "ymax": 265,
+            "x_center": 0.46875,
+            "y_center": 0.702479,
+            "width": 0.356618,
+            "height": 0.055096
+        }
+    ]
+}

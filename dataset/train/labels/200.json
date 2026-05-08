@@ -1,0 +1,19 @@
+{
+    "filename": "b7fd8aaa-8621-449f-b99c-f45778f1a25c___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_1208485d1392541449-nissan-terrano-official-review-img_20140215_181507.jpg",
+    "image_width": 1688,
+    "image_height": 1688,
+    "annotations": [
+        {
+            "vehicle_number": "KA18P2987",
+            "class_id": 0,
+            "xmin": 239,
+            "ymin": 799,
+            "xmax": 416,
+            "ymax": 893,
+            "x_center": 0.194017,
+            "y_center": 0.501185,
+            "width": 0.104858,
+            "height": 0.055687
+        }
+    ]
+}

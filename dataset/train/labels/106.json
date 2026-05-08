@@ -1,0 +1,19 @@
+{
+    "filename": "60842fa7-0a2e-4407-b41c-933d93bdbb35___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-red-rear.jpg",
+    "image_width": 660,
+    "image_height": 440,
+    "annotations": [
+        {
+            "vehicle_number": "RJ27TC0530",
+            "class_id": 0,
+            "xmin": 146,
+            "ymin": 215,
+            "xmax": 237,
+            "ymax": 244,
+            "x_center": 0.290152,
+            "y_center": 0.521591,
+            "width": 0.137879,
+            "height": 0.065909
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video11_1980.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DQ0196",
+            "class_id": 0,
+            "xmin": 68,
+            "ymin": 705,
+            "xmax": 428,
+            "ymax": 911,
+            "x_center": 0.129167,
+            "y_center": 0.748148,
+            "width": 0.1875,
+            "height": 0.190741
+        }
+    ]
+}

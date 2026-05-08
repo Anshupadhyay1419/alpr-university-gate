@@ -1,0 +1,19 @@
+{
+    "filename": "UK9.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "UK06J3953",
+            "class_id": 0,
+            "xmin": 96,
+            "ymin": 334,
+            "xmax": 173,
+            "ymax": 353,
+            "x_center": 0.494485,
+            "y_center": 0.946281,
+            "width": 0.283088,
+            "height": 0.052342
+        }
+    ]
+}

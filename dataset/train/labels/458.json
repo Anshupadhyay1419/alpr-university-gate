@@ -1,0 +1,19 @@
+{
+    "filename": "AP18.jpg",
+    "image_width": 271,
+    "image_height": 170,
+    "annotations": [
+        {
+            "vehicle_number": "AP16BS4500",
+            "class_id": 0,
+            "xmin": 105,
+            "ymin": 114,
+            "xmax": 163,
+            "ymax": 129,
+            "x_center": 0.494465,
+            "y_center": 0.714706,
+            "width": 0.214022,
+            "height": 0.088235
+        }
+    ]
+}

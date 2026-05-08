@@ -1,0 +1,19 @@
+{
+    "filename": "MH10.jpg",
+    "image_width": 270,
+    "image_height": 334,
+    "annotations": [
+        {
+            "vehicle_number": "MH11CQ8516",
+            "class_id": 0,
+            "xmin": 90,
+            "ymin": 307,
+            "xmax": 182,
+            "ymax": 325,
+            "x_center": 0.503704,
+            "y_center": 0.946108,
+            "width": 0.340741,
+            "height": 0.053892
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "KA17.jpg",
+    "image_width": 272,
+    "image_height": 327,
+    "annotations": [
+        {
+            "vehicle_number": "KA01MG1660",
+            "class_id": 0,
+            "xmin": 116,
+            "ymin": 231,
+            "xmax": 182,
+            "ymax": 246,
+            "x_center": 0.547794,
+            "y_center": 0.729358,
+            "width": 0.242647,
+            "height": 0.045872
+        }
+    ]
+}

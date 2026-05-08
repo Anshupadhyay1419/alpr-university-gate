@@ -1,0 +1,19 @@
+{
+    "filename": "video2_4290.jpg",
+    "image_width": 1920,
+    "image_height": 1008,
+    "annotations": [
+        {
+            "vehicle_number": "MH04HP6100",
+            "class_id": 0,
+            "xmin": 229,
+            "ymin": 296,
+            "xmax": 623,
+            "ymax": 497,
+            "x_center": 0.221875,
+            "y_center": 0.393353,
+            "width": 0.205208,
+            "height": 0.199405
+        }
+    ]
+}

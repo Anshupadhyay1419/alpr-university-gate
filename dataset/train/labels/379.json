@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TS08ER1643_00000.png",
+    "image_width": 480,
+    "image_height": 286,
+    "annotations": [
+        {
+            "vehicle_number": "TS08ER1643",
+            "class_id": 0,
+            "xmin": 1,
+            "ymin": 27,
+            "xmax": 466,
+            "ymax": 147,
+            "x_center": 0.486458,
+            "y_center": 0.304196,
+            "width": 0.96875,
+            "height": 0.41958
+        }
+    ]
+}

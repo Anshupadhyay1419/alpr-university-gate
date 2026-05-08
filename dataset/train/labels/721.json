@@ -1,0 +1,19 @@
+{
+    "filename": "JK17.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "JK02AS3888",
+            "class_id": 0,
+            "xmin": 67,
+            "ymin": 269,
+            "xmax": 180,
+            "ymax": 293,
+            "x_center": 0.454044,
+            "y_center": 0.774105,
+            "width": 0.415441,
+            "height": 0.066116
+        }
+    ]
+}

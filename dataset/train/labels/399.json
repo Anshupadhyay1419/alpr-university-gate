@@ -1,0 +1,19 @@
+{
+    "filename": "df2f7a76-d701-468f-b54a-c5d63d13b349___CM-Akhilesh-Number-Plate.jpg.jpeg",
+    "image_width": 1024,
+    "image_height": 576,
+    "annotations": [
+        {
+            "vehicle_number": "UP65CM21149",
+            "class_id": 0,
+            "xmin": 308,
+            "ymin": 196,
+            "xmax": 567,
+            "ymax": 272,
+            "x_center": 0.427246,
+            "y_center": 0.40625,
+            "width": 0.25293,
+            "height": 0.131944
+        }
+    ]
+}

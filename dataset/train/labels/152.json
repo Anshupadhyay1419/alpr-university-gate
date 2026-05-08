@@ -1,0 +1,19 @@
+{
+    "filename": "8da5183c-275f-4294-a5a8-276e10ac5ad0___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-amt_827x510_81478504265.jpg",
+    "image_width": 827,
+    "image_height": 510,
+    "annotations": [
+        {
+            "vehicle_number": "DL14CTC0153",
+            "class_id": 0,
+            "xmin": 352,
+            "ymin": 292,
+            "xmax": 551,
+            "ymax": 447,
+            "x_center": 0.545949,
+            "y_center": 0.72451,
+            "width": 0.240629,
+            "height": 0.303922
+        }
+    ]
+}

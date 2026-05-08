@@ -1,0 +1,19 @@
+{
+    "filename": "UK10.jpg",
+    "image_width": 272,
+    "image_height": 336,
+    "annotations": [
+        {
+            "vehicle_number": "UK07AA2432",
+            "class_id": 0,
+            "xmin": 78,
+            "ymin": 250,
+            "xmax": 168,
+            "ymax": 269,
+            "x_center": 0.452206,
+            "y_center": 0.772321,
+            "width": 0.330882,
+            "height": 0.056548
+        }
+    ]
+}

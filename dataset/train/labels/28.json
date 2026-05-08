@@ -1,0 +1,19 @@
+{
+    "filename": "175ff546-0679-4cbb-ab03-acfcd96877b7___Maruti_Wagon_R_Rear.jpg.jpeg",
+    "image_width": 583,
+    "image_height": 450,
+    "annotations": [
+        {
+            "vehicle_number": "MH06AW8929",
+            "class_id": 0,
+            "xmin": 192,
+            "ymin": 278,
+            "xmax": 362,
+            "ymax": 325,
+            "x_center": 0.475129,
+            "y_center": 0.67,
+            "width": 0.291595,
+            "height": 0.104444
+        }
+    ]
+}

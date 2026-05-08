@@ -1,0 +1,19 @@
+{
+    "filename": "video10_720.jpg",
+    "image_width": 1286,
+    "image_height": 583,
+    "annotations": [
+        {
+            "vehicle_number": "DL3CCQ0107",
+            "class_id": 0,
+            "xmin": 793,
+            "ymin": 413,
+            "xmax": 1208,
+            "ymax": 565,
+            "x_center": 0.777994,
+            "y_center": 0.838765,
+            "width": 0.322706,
+            "height": 0.26072
+        }
+    ]
+}

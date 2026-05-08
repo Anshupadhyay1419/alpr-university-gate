@@ -1,0 +1,19 @@
+{
+    "filename": "AP46.jpg",
+    "image_width": 272,
+    "image_height": 411,
+    "annotations": [
+        {
+            "vehicle_number": "AP31CS2511",
+            "class_id": 0,
+            "xmin": 74,
+            "ymin": 262,
+            "xmax": 180,
+            "ymax": 287,
+            "x_center": 0.466912,
+            "y_center": 0.667883,
+            "width": 0.389706,
+            "height": 0.060827
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "581e2224-3640-4bad-9d90-c2076a9f64f4___617609.jpg.jpeg",
+    "image_width": 452,
+    "image_height": 274,
+    "annotations": [
+        {
+            "vehicle_number": "KA03MX5058",
+            "class_id": 0,
+            "xmin": 170,
+            "ymin": 161,
+            "xmax": 285,
+            "ymax": 184,
+            "x_center": 0.503319,
+            "y_center": 0.629562,
+            "width": 0.254425,
+            "height": 0.083942
+        }
+    ]
+}

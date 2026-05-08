@@ -1,0 +1,19 @@
+{
+    "filename": "video4_2020.jpg",
+    "image_width": 482,
+    "image_height": 645,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DS3099",
+            "class_id": 0,
+            "xmin": 1,
+            "ymin": 439,
+            "xmax": 213,
+            "ymax": 480,
+            "x_center": 0.221992,
+            "y_center": 0.712403,
+            "width": 0.439834,
+            "height": 0.063566
+        }
+    ]
+}

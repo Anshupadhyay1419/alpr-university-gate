@@ -1,0 +1,19 @@
+{
+    "filename": "video3_1050.jpg",
+    "image_width": 440,
+    "image_height": 483,
+    "annotations": [
+        {
+            "vehicle_number": "ME02EE4077",
+            "class_id": 0,
+            "xmin": 72,
+            "ymin": 299,
+            "xmax": 191,
+            "ymax": 335,
+            "x_center": 0.298864,
+            "y_center": 0.656315,
+            "width": 0.270455,
+            "height": 0.074534
+        }
+    ]
+}

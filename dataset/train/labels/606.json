@@ -1,0 +1,19 @@
+{
+    "filename": "DN4.jpg",
+    "image_width": 270,
+    "image_height": 505,
+    "annotations": [
+        {
+            "vehicle_number": "DN09J0032",
+            "class_id": 0,
+            "xmin": 91,
+            "ymin": 206,
+            "xmax": 182,
+            "ymax": 228,
+            "x_center": 0.505556,
+            "y_center": 0.429703,
+            "width": 0.337037,
+            "height": 0.043564
+        }
+    ]
+}

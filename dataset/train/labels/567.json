@@ -1,0 +1,19 @@
+{
+    "filename": "CH9.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "CH01AF1382",
+            "class_id": 0,
+            "xmin": 108,
+            "ymin": 105,
+            "xmax": 162,
+            "ymax": 118,
+            "x_center": 0.496324,
+            "y_center": 0.546569,
+            "width": 0.198529,
+            "height": 0.063725
+        }
+    ]
+}

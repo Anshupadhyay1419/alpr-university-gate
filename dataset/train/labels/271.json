@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KA05MG1909_00000.png",
+    "image_width": 400,
+    "image_height": 300,
+    "annotations": [
+        {
+            "vehicle_number": "KA05MG1909",
+            "class_id": 0,
+            "xmin": 95,
+            "ymin": 101,
+            "xmax": 295,
+            "ymax": 190,
+            "x_center": 0.4875,
+            "y_center": 0.485,
+            "width": 0.5,
+            "height": 0.296667
+        }
+    ]
+}

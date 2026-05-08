@@ -1,0 +1,19 @@
+{
+    "filename": "video8_20.jpg",
+    "image_width": 1122,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02CD3654",
+            "class_id": 0,
+            "xmin": 114,
+            "ymin": 665,
+            "xmax": 283,
+            "ymax": 761,
+            "x_center": 0.176916,
+            "y_center": 0.660185,
+            "width": 0.150624,
+            "height": 0.088889
+        }
+    ]
+}

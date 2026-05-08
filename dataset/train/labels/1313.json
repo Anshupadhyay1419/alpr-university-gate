@@ -1,0 +1,19 @@
+{
+    "filename": "video2_220.jpg",
+    "image_width": 748,
+    "image_height": 800,
+    "annotations": [
+        {
+            "vehicle_number": "MH02EU4884",
+            "class_id": 0,
+            "xmin": 206,
+            "ymin": 221,
+            "xmax": 379,
+            "ymax": 275,
+            "x_center": 0.391043,
+            "y_center": 0.31,
+            "width": 0.231283,
+            "height": 0.0675
+        }
+    ]
+}

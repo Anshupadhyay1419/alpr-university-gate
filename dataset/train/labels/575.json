@@ -1,0 +1,19 @@
+{
+    "filename": "DL16.jpg",
+    "image_width": 272,
+    "image_height": 484,
+    "annotations": [
+        {
+            "vehicle_number": "DL9CAV1739",
+            "class_id": 0,
+            "xmin": 91,
+            "ymin": 227,
+            "xmax": 167,
+            "ymax": 244,
+            "x_center": 0.474265,
+            "y_center": 0.48657,
+            "width": 0.279412,
+            "height": 0.035124
+        }
+    ]
+}

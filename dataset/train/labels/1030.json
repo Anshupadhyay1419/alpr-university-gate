@@ -1,0 +1,19 @@
+{
+    "filename": "WB2.jpg",
+    "image_width": 272,
+    "image_height": 606,
+    "annotations": [
+        {
+            "vehicle_number": "WB02M8447",
+            "class_id": 0,
+            "xmin": 83,
+            "ymin": 420,
+            "xmax": 187,
+            "ymax": 445,
+            "x_center": 0.496324,
+            "y_center": 0.713696,
+            "width": 0.382353,
+            "height": 0.041254
+        }
+    ]
+}

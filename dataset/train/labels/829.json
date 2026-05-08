@@ -1,0 +1,19 @@
+{
+    "filename": "ML33.jpg",
+    "image_width": 272,
+    "image_height": 590,
+    "annotations": [
+        {
+            "vehicle_number": "ML04B8918",
+            "class_id": 0,
+            "xmin": 86,
+            "ymin": 277,
+            "xmax": 169,
+            "ymax": 299,
+            "x_center": 0.46875,
+            "y_center": 0.488136,
+            "width": 0.305147,
+            "height": 0.037288
+        }
+    ]
+}

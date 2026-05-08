@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH06AW8929_00001.jpeg",
+    "image_width": 580,
+    "image_height": 251,
+    "annotations": [
+        {
+            "vehicle_number": "MH06AW8929",
+            "class_id": 0,
+            "xmin": 192,
+            "ymin": 131,
+            "xmax": 364,
+            "ymax": 179,
+            "x_center": 0.47931,
+            "y_center": 0.61753,
+            "width": 0.296552,
+            "height": 0.191235
+        }
+    ]
+}

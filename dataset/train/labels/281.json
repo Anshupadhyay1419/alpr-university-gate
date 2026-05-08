@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL07CB8599_00000.jpeg",
+    "image_width": 500,
+    "image_height": 281,
+    "annotations": [
+        {
+            "vehicle_number": "KL07CB8599",
+            "class_id": 0,
+            "xmin": 213,
+            "ymin": 139,
+            "xmax": 332,
+            "ymax": 167,
+            "x_center": 0.545,
+            "y_center": 0.544484,
+            "width": 0.238,
+            "height": 0.099644
+        }
+    ]
+}

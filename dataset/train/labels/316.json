@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH12JC2813_00000.jpeg",
+    "image_width": 453,
+    "image_height": 257,
+    "annotations": [
+        {
+            "vehicle_number": "MH12JC2813",
+            "class_id": 0,
+            "xmin": 136,
+            "ymin": 157,
+            "xmax": 343,
+            "ymax": 205,
+            "x_center": 0.528698,
+            "y_center": 0.70428,
+            "width": 0.456954,
+            "height": 0.18677
+        }
+    ]
+}

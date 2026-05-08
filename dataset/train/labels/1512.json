@@ -1,0 +1,19 @@
+{
+    "filename": "video4_3310.jpg",
+    "image_width": 1263,
+    "image_height": 713,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AL9693",
+            "class_id": 0,
+            "xmin": 346,
+            "ymin": 149,
+            "xmax": 738,
+            "ymax": 315,
+            "x_center": 0.429137,
+            "y_center": 0.325386,
+            "width": 0.310372,
+            "height": 0.232819
+        }
+    ]
+}

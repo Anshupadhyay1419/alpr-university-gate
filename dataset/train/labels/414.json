@@ -1,0 +1,19 @@
+{
+    "filename": "e77e5db3-2bc6-4223-a258-2334256be65e___new_205356-maruti-swift-torque-blue-vdi-ddis-glistening-rockstar-enters-home-img_7531.jpg.jpeg",
+    "image_width": 450,
+    "image_height": 290,
+    "annotations": [
+        {
+            "vehicle_number": "TN38BW1139",
+            "class_id": 0,
+            "xmin": 115,
+            "ymin": 133,
+            "xmax": 376,
+            "ymax": 199,
+            "x_center": 0.545556,
+            "y_center": 0.572414,
+            "width": 0.58,
+            "height": 0.227586
+        }
+    ]
+}

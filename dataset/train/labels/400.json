@@ -1,0 +1,19 @@
+{
+    "filename": "dfafd4ef-5592-41d9-9cbb-fa6a4e03831e___IMG_9082.jpg.jpeg",
+    "image_width": 610,
+    "image_height": 338,
+    "annotations": [
+        {
+            "vehicle_number": "UP80CR00",
+            "class_id": 0,
+            "xmin": 202,
+            "ymin": 88,
+            "xmax": 609,
+            "ymax": 183,
+            "x_center": 0.664754,
+            "y_center": 0.400888,
+            "width": 0.667213,
+            "height": 0.281065
+        }
+    ]
+}

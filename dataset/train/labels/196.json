@@ -1,0 +1,19 @@
+{
+    "filename": "b79f870d-15c7-48e3-8874-7c0e53e29f75___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_754eab882b8290b29a0454dd45580a39_555X416_1 - Copy (2).jpg",
+    "image_width": 206,
+    "image_height": 206,
+    "annotations": [
+        {
+            "vehicle_number": "HR26CP3135",
+            "class_id": 0,
+            "xmin": 72,
+            "ymin": 127,
+            "xmax": 127,
+            "ymax": 149,
+            "x_center": 0.48301,
+            "y_center": 0.669903,
+            "width": 0.26699,
+            "height": 0.106796
+        }
+    ]
+}

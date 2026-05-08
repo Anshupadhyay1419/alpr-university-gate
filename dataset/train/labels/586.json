@@ -1,0 +1,19 @@
+{
+    "filename": "DL27.jpg",
+    "image_width": 272,
+    "image_height": 589,
+    "annotations": [
+        {
+            "vehicle_number": "DL10CA0986",
+            "class_id": 0,
+            "xmin": 93,
+            "ymin": 373,
+            "xmax": 192,
+            "ymax": 401,
+            "x_center": 0.523897,
+            "y_center": 0.657046,
+            "width": 0.363971,
+            "height": 0.047538
+        }
+    ]
+}

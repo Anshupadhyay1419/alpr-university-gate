@@ -1,0 +1,19 @@
+{
+    "filename": "DN7.jpg",
+    "image_width": 272,
+    "image_height": 585,
+    "annotations": [
+        {
+            "vehicle_number": "DN0909704",
+            "class_id": 0,
+            "xmin": 106,
+            "ymin": 362,
+            "xmax": 179,
+            "ymax": 381,
+            "x_center": 0.523897,
+            "y_center": 0.635043,
+            "width": 0.268382,
+            "height": 0.032479
+        }
+    ]
+}

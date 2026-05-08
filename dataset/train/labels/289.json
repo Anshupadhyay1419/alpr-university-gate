@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL16J3636_00000.jpeg",
+    "image_width": 518,
+    "image_height": 285,
+    "annotations": [
+        {
+            "vehicle_number": "KL16J3636",
+            "class_id": 0,
+            "xmin": 160,
+            "ymin": 67,
+            "xmax": 324,
+            "ymax": 108,
+            "x_center": 0.467181,
+            "y_center": 0.307018,
+            "width": 0.316602,
+            "height": 0.14386
+        }
+    ]
+}

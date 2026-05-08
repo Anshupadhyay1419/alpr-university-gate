@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26CT6702_00001.jpeg",
+    "image_width": 424,
+    "image_height": 249,
+    "annotations": [
+        {
+            "vehicle_number": "HR26CT6702",
+            "class_id": 0,
+            "xmin": 144,
+            "ymin": 165,
+            "xmax": 314,
+            "ymax": 203,
+            "x_center": 0.540094,
+            "y_center": 0.738956,
+            "width": 0.400943,
+            "height": 0.15261
+        }
+    ]
+}

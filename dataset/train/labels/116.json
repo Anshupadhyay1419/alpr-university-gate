@@ -1,0 +1,19 @@
+{
+    "filename": "6cd15e75-3e26-41f2-a6aa-b1b58dec1c48___volkswagen-polo-exquisite-limited-edition-m1_720x540.jpg.jpeg",
+    "image_width": 654,
+    "image_height": 380,
+    "annotations": [
+        {
+            "vehicle_number": "MH14EY5972",
+            "class_id": 0,
+            "xmin": 18,
+            "ymin": 246,
+            "xmax": 89,
+            "ymax": 312,
+            "x_center": 0.081804,
+            "y_center": 0.734211,
+            "width": 0.108563,
+            "height": 0.173684
+        }
+    ]
+}

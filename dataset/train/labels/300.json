@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH01AE8017_00000.jpeg",
+    "image_width": 567,
+    "image_height": 253,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AE8017",
+            "class_id": 0,
+            "xmin": 16,
+            "ymin": 22,
+            "xmax": 434,
+            "ymax": 174,
+            "x_center": 0.396825,
+            "y_center": 0.387352,
+            "width": 0.737213,
+            "height": 0.600791
+        }
+    ]
+}

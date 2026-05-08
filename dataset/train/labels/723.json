@@ -1,0 +1,19 @@
+{
+    "filename": "JK19.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "JK127959",
+            "class_id": 0,
+            "xmin": 138,
+            "ymin": 174,
+            "xmax": 203,
+            "ymax": 214,
+            "x_center": 0.626838,
+            "y_center": 0.534435,
+            "width": 0.238971,
+            "height": 0.110193
+        }
+    ]
+}

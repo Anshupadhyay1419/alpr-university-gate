@@ -1,0 +1,19 @@
+{
+    "filename": "PB22.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "PB06AN6162",
+            "class_id": 0,
+            "xmin": 103,
+            "ymin": 147,
+            "xmax": 190,
+            "ymax": 166,
+            "x_center": 0.538603,
+            "y_center": 0.767157,
+            "width": 0.319853,
+            "height": 0.093137
+        }
+    ]
+}

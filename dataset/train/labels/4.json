@@ -1,0 +1,19 @@
+{
+    "filename": "03273806-bb1e-48da-8c8b-a0133a90197a___2014-Skoda-Yeti-Test-Drive.jpg.jpeg",
+    "image_width": 588,
+    "image_height": 476,
+    "annotations": [
+        {
+            "vehicle_number": "MH20CS9817",
+            "class_id": 0,
+            "xmin": 185,
+            "ymin": 290,
+            "xmax": 374,
+            "ymax": 339,
+            "x_center": 0.47534,
+            "y_center": 0.660714,
+            "width": 0.321429,
+            "height": 0.102941
+        }
+    ]
+}

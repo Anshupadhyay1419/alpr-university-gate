@@ -1,0 +1,19 @@
+{
+    "filename": "GJ20.jpg",
+    "image_width": 272,
+    "image_height": 181,
+    "annotations": [
+        {
+            "vehicle_number": "GJ01RK2430",
+            "class_id": 0,
+            "xmin": 122,
+            "ymin": 123,
+            "xmax": 182,
+            "ymax": 138,
+            "x_center": 0.558824,
+            "y_center": 0.720994,
+            "width": 0.220588,
+            "height": 0.082873
+        }
+    ]
+}

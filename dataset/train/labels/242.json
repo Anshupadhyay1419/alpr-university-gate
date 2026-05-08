@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26BC5514_00001.png",
+    "image_width": 400,
+    "image_height": 300,
+    "annotations": [
+        {
+            "vehicle_number": "HR26BC5514",
+            "class_id": 0,
+            "xmin": 159,
+            "ymin": 221,
+            "xmax": 237,
+            "ymax": 239,
+            "x_center": 0.495,
+            "y_center": 0.766667,
+            "width": 0.195,
+            "height": 0.06
+        }
+    ]
+}

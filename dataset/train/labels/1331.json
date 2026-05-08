@@ -1,0 +1,19 @@
+{
+    "filename": "video2_3600.jpg",
+    "image_width": 1432,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02AQ2299",
+            "class_id": 0,
+            "xmin": 370,
+            "ymin": 250,
+            "xmax": 778,
+            "ymax": 370,
+            "x_center": 0.400838,
+            "y_center": 0.287037,
+            "width": 0.284916,
+            "height": 0.111111
+        }
+    ]
+}

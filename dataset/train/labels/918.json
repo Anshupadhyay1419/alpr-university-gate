@@ -1,0 +1,19 @@
+{
+    "filename": "PY15.jpg",
+    "image_width": 272,
+    "image_height": 342,
+    "annotations": [
+        {
+            "vehicle_number": "PY05A8339",
+            "class_id": 0,
+            "xmin": 101,
+            "ymin": 225,
+            "xmax": 170,
+            "ymax": 241,
+            "x_center": 0.498162,
+            "y_center": 0.681287,
+            "width": 0.253676,
+            "height": 0.046784
+        }
+    ]
+}

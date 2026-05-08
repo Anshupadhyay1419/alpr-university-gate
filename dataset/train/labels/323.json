@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH14EP4660_00000.jpeg",
+    "image_width": 294,
+    "image_height": 280,
+    "annotations": [
+        {
+            "vehicle_number": "MH14EP4660",
+            "class_id": 0,
+            "xmin": 103,
+            "ymin": 174,
+            "xmax": 221,
+            "ymax": 204,
+            "x_center": 0.55102,
+            "y_center": 0.675,
+            "width": 0.401361,
+            "height": 0.107143
+        }
+    ]
+}

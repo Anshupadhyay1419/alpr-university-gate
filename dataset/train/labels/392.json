@@ -1,0 +1,19 @@
+{
+    "filename": "d5ddd1e6-56ca-4991-994e-cb78fe836a47___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_2013-Nissan-Terrano-Review.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "annotations": [
+        {
+            "vehicle_number": "RJ27TC0530",
+            "class_id": 0,
+            "xmin": 451,
+            "ymin": 343,
+            "xmax": 592,
+            "ymax": 391,
+            "x_center": 0.509277,
+            "y_center": 0.537335,
+            "width": 0.137695,
+            "height": 0.070278
+        }
+    ]
+}

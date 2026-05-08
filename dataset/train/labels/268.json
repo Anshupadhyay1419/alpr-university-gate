@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KA03MG2784_00000.png",
+    "image_width": 600,
+    "image_height": 450,
+    "annotations": [
+        {
+            "vehicle_number": "KA03MG2784",
+            "class_id": 0,
+            "xmin": 130,
+            "ymin": 169,
+            "xmax": 464,
+            "ymax": 237,
+            "x_center": 0.495,
+            "y_center": 0.451111,
+            "width": 0.556667,
+            "height": 0.151111
+        }
+    ]
+}

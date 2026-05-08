@@ -1,0 +1,19 @@
+{
+    "filename": "fd0140cc-e887-43b8-a439-24877ea77670___Maruti-Suzuki-Baleno-Number-Plates-Design.jpg.jpeg",
+    "image_width": 500,
+    "image_height": 274,
+    "annotations": [
+        {
+            "vehicle_number": "KL10AV6633",
+            "class_id": 0,
+            "xmin": 150,
+            "ymin": 131,
+            "xmax": 370,
+            "ymax": 189,
+            "x_center": 0.52,
+            "y_center": 0.583942,
+            "width": 0.44,
+            "height": 0.211679
+        }
+    ]
+}

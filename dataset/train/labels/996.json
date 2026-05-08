@@ -1,0 +1,19 @@
+{
+    "filename": "UP1.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "UP57H8173",
+            "class_id": 0,
+            "xmin": 100,
+            "ymin": 170,
+            "xmax": 197,
+            "ymax": 197,
+            "x_center": 0.545956,
+            "y_center": 0.50551,
+            "width": 0.356618,
+            "height": 0.07438
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video4_2370.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AH8495",
+            "class_id": 0,
+            "xmin": 552,
+            "ymin": 276,
+            "xmax": 900,
+            "ymax": 406,
+            "x_center": 0.378125,
+            "y_center": 0.315741,
+            "width": 0.18125,
+            "height": 0.12037
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "AR12.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "AR118724",
+            "class_id": 0,
+            "xmin": 110,
+            "ymin": 136,
+            "xmax": 176,
+            "ymax": 151,
+            "x_center": 0.525735,
+            "y_center": 0.703431,
+            "width": 0.242647,
+            "height": 0.073529
+        }
+    ]
+}

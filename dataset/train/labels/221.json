@@ -1,0 +1,19 @@
+{
+    "filename": "c795950c-766a-4a2e-9636-62d663d6f06b___62bf1edb36141f114521ec4bb4175579.jpg.jpeg",
+    "image_width": 952,
+    "image_height": 535,
+    "annotations": [
+        {
+            "vehicle_number": "GJ7BB766",
+            "class_id": 0,
+            "xmin": 828,
+            "ymin": 294,
+            "xmax": 877,
+            "ymax": 337,
+            "x_center": 0.895483,
+            "y_center": 0.58972,
+            "width": 0.051471,
+            "height": 0.080374
+        }
+    ]
+}

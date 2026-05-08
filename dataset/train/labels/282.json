@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL10AV6342_00000.jpeg",
+    "image_width": 500,
+    "image_height": 430,
+    "annotations": [
+        {
+            "vehicle_number": "KL10AV6342",
+            "class_id": 0,
+            "xmin": 142,
+            "ymin": 253,
+            "xmax": 336,
+            "ymax": 304,
+            "x_center": 0.478,
+            "y_center": 0.647674,
+            "width": 0.388,
+            "height": 0.118605
+        }
+    ]
+}

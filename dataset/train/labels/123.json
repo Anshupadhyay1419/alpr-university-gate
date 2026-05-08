@@ -1,0 +1,19 @@
+{
+    "filename": "6f78077e-a3a1-4fb9-89ba-5870d75ccdb8___Innova_Crysta_Car_Euro_number_Plates.jpg.jpeg",
+    "image_width": 500,
+    "image_height": 306,
+    "annotations": [
+        {
+            "vehicle_number": "TN09CH7770",
+            "class_id": 0,
+            "xmin": 166,
+            "ymin": 101,
+            "xmax": 281,
+            "ymax": 134,
+            "x_center": 0.447,
+            "y_center": 0.383987,
+            "width": 0.23,
+            "height": 0.107843
+        }
+    ]
+}

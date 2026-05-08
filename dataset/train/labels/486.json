@@ -1,0 +1,19 @@
+{
+    "filename": "AP8.jpg",
+    "image_width": 272,
+    "image_height": 366,
+    "annotations": [
+        {
+            "vehicle_number": "AP16DP7065",
+            "class_id": 0,
+            "xmin": 100,
+            "ymin": 220,
+            "xmax": 172,
+            "ymax": 237,
+            "x_center": 0.5,
+            "y_center": 0.624317,
+            "width": 0.264706,
+            "height": 0.046448
+        }
+    ]
+}

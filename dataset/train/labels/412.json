@@ -1,0 +1,19 @@
+{
+    "filename": "e719f39b-e8dd-4fe0-9a41-71123932a486___226676869_4_1000x700_maruti-suzuki-wagon-r-duo-petrol-120000-kms-2007-year-cars_rev001.jpg.jpeg",
+    "image_width": 414,
+    "image_height": 432,
+    "annotations": [
+        {
+            "vehicle_number": "KL07BF5000",
+            "class_id": 0,
+            "xmin": 134,
+            "ymin": 215,
+            "xmax": 277,
+            "ymax": 253,
+            "x_center": 0.496377,
+            "y_center": 0.541667,
+            "width": 0.345411,
+            "height": 0.087963
+        }
+    ]
+}

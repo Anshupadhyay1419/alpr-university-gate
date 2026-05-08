@@ -1,0 +1,19 @@
+{
+    "filename": "video3_620.jpg",
+    "image_width": 720,
+    "image_height": 1079,
+    "annotations": [
+        {
+            "vehicle_number": "MH02ER9194",
+            "class_id": 0,
+            "xmin": 68,
+            "ymin": 477,
+            "xmax": 243,
+            "ymax": 574,
+            "x_center": 0.215972,
+            "y_center": 0.487025,
+            "width": 0.243056,
+            "height": 0.089898
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "UP11.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "UP53AK1161",
+            "class_id": 0,
+            "xmin": 92,
+            "ymin": 260,
+            "xmax": 169,
+            "ymax": 275,
+            "x_center": 0.479779,
+            "y_center": 0.736915,
+            "width": 0.283088,
+            "height": 0.041322
+        }
+    ]
+}

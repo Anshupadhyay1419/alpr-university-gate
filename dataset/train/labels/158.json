@@ -1,0 +1,19 @@
+{
+    "filename": "93b6319a-5886-48d8-8a69-07d586751553___2014-VW-Polo-facelift-first-drive-rear-number-plate.jpg.jpeg",
+    "image_width": 1280,
+    "image_height": 847,
+    "annotations": [
+        {
+            "vehicle_number": "TN02TC0143",
+            "class_id": 0,
+            "xmin": 363,
+            "ymin": 291,
+            "xmax": 1045,
+            "ymax": 556,
+            "x_center": 0.55,
+            "y_center": 0.5,
+            "width": 0.532813,
+            "height": 0.312869
+        }
+    ]
+}

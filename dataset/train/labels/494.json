@@ -1,0 +1,19 @@
+{
+    "filename": "AR4.jpg",
+    "image_width": 272,
+    "image_height": 327,
+    "annotations": [
+        {
+            "vehicle_number": "AR01C5723",
+            "class_id": 0,
+            "xmin": 95,
+            "ymin": 270,
+            "xmax": 191,
+            "ymax": 290,
+            "x_center": 0.525735,
+            "y_center": 0.856269,
+            "width": 0.352941,
+            "height": 0.061162
+        }
+    ]
+}

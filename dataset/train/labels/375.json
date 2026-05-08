@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TN74AL5074_00000.jpeg",
+    "image_width": 500,
+    "image_height": 274,
+    "annotations": [
+        {
+            "vehicle_number": "TN74AL5074",
+            "class_id": 0,
+            "xmin": 179,
+            "ymin": 116,
+            "xmax": 375,
+            "ymax": 184,
+            "x_center": 0.554,
+            "y_center": 0.547445,
+            "width": 0.392,
+            "height": 0.248175
+        }
+    ]
+}

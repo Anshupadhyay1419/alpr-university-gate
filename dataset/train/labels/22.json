@@ -1,0 +1,19 @@
+{
+    "filename": "125b5cda-9691-47aa-8e57-f6d8a8537d83___fancy_number_plates_in_india.jpg.jpeg",
+    "image_width": 498,
+    "image_height": 313,
+    "annotations": [
+        {
+            "vehicle_number": "TN66U8215",
+            "class_id": 0,
+            "xmin": 52,
+            "ymin": 87,
+            "xmax": 401,
+            "ymax": 175,
+            "x_center": 0.454819,
+            "y_center": 0.41853,
+            "width": 0.700803,
+            "height": 0.28115
+        }
+    ]
+}

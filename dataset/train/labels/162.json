@@ -1,0 +1,19 @@
+{
+    "filename": "97846647-16f1-4ee2-b260-60774a21cc74___new_Maruti-Suzuki-Swift-Dzire-1.jpg.jpeg",
+    "image_width": 330,
+    "image_height": 267,
+    "annotations": [
+        {
+            "vehicle_number": "HR26BP3543",
+            "class_id": 0,
+            "xmin": 109,
+            "ymin": 145,
+            "xmax": 253,
+            "ymax": 183,
+            "x_center": 0.548485,
+            "y_center": 0.614232,
+            "width": 0.436364,
+            "height": 0.142322
+        }
+    ]
+}

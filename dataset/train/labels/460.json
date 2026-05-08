@@ -1,0 +1,19 @@
+{
+    "filename": "AP2.jpg",
+    "image_width": 272,
+    "image_height": 125,
+    "annotations": [
+        {
+            "vehicle_number": "AP07AN3915",
+            "class_id": 0,
+            "xmin": 95,
+            "ymin": 48,
+            "xmax": 141,
+            "ymax": 59,
+            "x_center": 0.433824,
+            "y_center": 0.428,
+            "width": 0.169118,
+            "height": 0.088
+        }
+    ]
+}

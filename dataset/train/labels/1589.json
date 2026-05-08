@@ -1,0 +1,19 @@
+{
+    "filename": "video6_80.jpg",
+    "image_width": 275,
+    "image_height": 130,
+    "annotations": [
+        {
+            "vehicle_number": "PB11AG0774",
+            "class_id": 0,
+            "xmin": 45,
+            "ymin": 50,
+            "xmax": 142,
+            "ymax": 76,
+            "x_center": 0.34,
+            "y_center": 0.484615,
+            "width": 0.352727,
+            "height": 0.2
+        }
+    ]
+}

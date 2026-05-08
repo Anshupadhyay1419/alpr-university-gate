@@ -1,0 +1,19 @@
+{
+    "filename": "c06d4d42-591f-429e-92b4-20e701f89c14___2014-VW-Polo-facelift-spied-India-rear.jpg.jpeg",
+    "image_width": 960,
+    "image_height": 1280,
+    "annotations": [
+        {
+            "vehicle_number": "MH14TCF460",
+            "class_id": 0,
+            "xmin": 449,
+            "ymin": 717,
+            "xmax": 648,
+            "ymax": 763,
+            "x_center": 0.571354,
+            "y_center": 0.578125,
+            "width": 0.207292,
+            "height": 0.035937
+        }
+    ]
+}

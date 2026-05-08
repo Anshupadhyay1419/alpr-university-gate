@@ -1,0 +1,19 @@
+{
+    "filename": "video4_2580.jpg",
+    "image_width": 1206,
+    "image_height": 911,
+    "annotations": [
+        {
+            "vehicle_number": "MH01BU1852",
+            "class_id": 0,
+            "xmin": 277,
+            "ymin": 262,
+            "xmax": 502,
+            "ymax": 378,
+            "x_center": 0.322968,
+            "y_center": 0.351262,
+            "width": 0.186567,
+            "height": 0.127333
+        }
+    ]
+}

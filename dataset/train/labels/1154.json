@@ -1,0 +1,19 @@
+{
+    "filename": "video11_1840.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH47Y1124",
+            "class_id": 0,
+            "xmin": 338,
+            "ymin": 573,
+            "xmax": 660,
+            "ymax": 691,
+            "x_center": 0.259896,
+            "y_center": 0.585185,
+            "width": 0.167708,
+            "height": 0.109259
+        }
+    ]
+}

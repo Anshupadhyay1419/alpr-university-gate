@@ -1,0 +1,19 @@
+{
+    "filename": "GJ12.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "GJ06PA0097",
+            "class_id": 0,
+            "xmin": 101,
+            "ymin": 136,
+            "xmax": 173,
+            "ymax": 154,
+            "x_center": 0.503676,
+            "y_center": 0.710784,
+            "width": 0.264706,
+            "height": 0.088235
+        }
+    ]
+}

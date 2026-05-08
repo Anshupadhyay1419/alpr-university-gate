@@ -1,0 +1,19 @@
+{
+    "filename": "video11_1170.jpg",
+    "image_width": 927,
+    "image_height": 645,
+    "annotations": [
+        {
+            "vehicle_number": "MH04EX7505",
+            "class_id": 0,
+            "xmin": 101,
+            "ymin": 417,
+            "xmax": 249,
+            "ymax": 479,
+            "x_center": 0.188781,
+            "y_center": 0.694574,
+            "width": 0.159655,
+            "height": 0.096124
+        }
+    ]
+}

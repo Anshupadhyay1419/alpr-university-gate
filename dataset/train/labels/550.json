@@ -1,0 +1,19 @@
+{
+    "filename": "CG20.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "CG251612",
+            "class_id": 0,
+            "xmin": 73,
+            "ymin": 126,
+            "xmax": 136,
+            "ymax": 140,
+            "x_center": 0.384191,
+            "y_center": 0.651961,
+            "width": 0.231618,
+            "height": 0.068627
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "KA18.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "KA04MK312",
+            "class_id": 0,
+            "xmin": 105,
+            "ymin": 128,
+            "xmax": 154,
+            "ymax": 138,
+            "x_center": 0.476103,
+            "y_center": 0.651961,
+            "width": 0.180147,
+            "height": 0.04902
+        }
+    ]
+}

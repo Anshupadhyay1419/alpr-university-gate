@@ -1,0 +1,19 @@
+{
+    "filename": "HP6.jpg",
+    "image_width": 191,
+    "image_height": 139,
+    "annotations": [
+        {
+            "vehicle_number": "HP01A7630",
+            "class_id": 0,
+            "xmin": 30,
+            "ymin": 97,
+            "xmax": 74,
+            "ymax": 111,
+            "x_center": 0.272251,
+            "y_center": 0.748201,
+            "width": 0.230366,
+            "height": 0.100719
+        }
+    ]
+}

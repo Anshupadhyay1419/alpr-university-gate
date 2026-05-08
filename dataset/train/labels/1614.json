@@ -1,0 +1,19 @@
+{
+    "filename": "video8_1110.jpg",
+    "image_width": 780,
+    "image_height": 590,
+    "annotations": [
+        {
+            "vehicle_number": "MH03AM3025",
+            "class_id": 0,
+            "xmin": 401,
+            "ymin": 414,
+            "xmax": 589,
+            "ymax": 464,
+            "x_center": 0.634615,
+            "y_center": 0.744068,
+            "width": 0.241026,
+            "height": 0.084746
+        }
+    ]
+}

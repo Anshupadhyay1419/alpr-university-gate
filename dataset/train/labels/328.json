@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH20BQ20_00000.png",
+    "image_width": 471,
+    "image_height": 212,
+    "annotations": [
+        {
+            "vehicle_number": "MH20BQ20",
+            "class_id": 0,
+            "xmin": 144,
+            "ymin": 113,
+            "xmax": 322,
+            "ymax": 162,
+            "x_center": 0.494692,
+            "y_center": 0.648585,
+            "width": 0.377919,
+            "height": 0.231132
+        }
+    ]
+}

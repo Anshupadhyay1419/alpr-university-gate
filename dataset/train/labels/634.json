@@ -1,0 +1,19 @@
+{
+    "filename": "GJ2.jpg",
+    "image_width": 272,
+    "image_height": 484,
+    "annotations": [
+        {
+            "vehicle_number": "GJ15CB3980",
+            "class_id": 0,
+            "xmin": 89,
+            "ymin": 185,
+            "xmax": 176,
+            "ymax": 210,
+            "x_center": 0.487132,
+            "y_center": 0.408058,
+            "width": 0.319853,
+            "height": 0.051653
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video11_2570.jpg",
+    "image_width": 822,
+    "image_height": 560,
+    "annotations": [
+        {
+            "vehicle_number": "MH04JL5547",
+            "class_id": 0,
+            "xmin": 234,
+            "ymin": 158,
+            "xmax": 449,
+            "ymax": 291,
+            "x_center": 0.41545,
+            "y_center": 0.400893,
+            "width": 0.261557,
+            "height": 0.2375
+        }
+    ]
+}

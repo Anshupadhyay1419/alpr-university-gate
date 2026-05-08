@@ -1,0 +1,19 @@
+{
+    "filename": "AP39.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "AP05DY3395",
+            "class_id": 0,
+            "xmin": 94,
+            "ymin": 157,
+            "xmax": 167,
+            "ymax": 172,
+            "x_center": 0.479779,
+            "y_center": 0.806373,
+            "width": 0.268382,
+            "height": 0.073529
+        }
+    ]
+}

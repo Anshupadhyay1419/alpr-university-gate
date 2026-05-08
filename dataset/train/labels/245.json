@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26BR9044_00000.png",
+    "image_width": 400,
+    "image_height": 267,
+    "annotations": [
+        {
+            "vehicle_number": "HR26BR9044",
+            "class_id": 0,
+            "xmin": 88,
+            "ymin": 110,
+            "xmax": 165,
+            "ymax": 134,
+            "x_center": 0.31625,
+            "y_center": 0.456929,
+            "width": 0.1925,
+            "height": 0.089888
+        }
+    ]
+}

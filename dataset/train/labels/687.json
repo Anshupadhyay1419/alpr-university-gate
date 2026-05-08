@@ -1,0 +1,19 @@
+{
+    "filename": "HR22.jpg",
+    "image_width": 265,
+    "image_height": 329,
+    "annotations": [
+        {
+            "vehicle_number": "HR09G8378",
+            "class_id": 0,
+            "xmin": 74,
+            "ymin": 215,
+            "xmax": 136,
+            "ymax": 233,
+            "x_center": 0.396226,
+            "y_center": 0.680851,
+            "width": 0.233962,
+            "height": 0.054711
+        }
+    ]
+}

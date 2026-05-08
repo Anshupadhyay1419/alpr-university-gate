@@ -1,0 +1,19 @@
+{
+    "filename": "video8_1510.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH4705851",
+            "class_id": 0,
+            "xmin": 1133,
+            "ymin": 238,
+            "xmax": 1448,
+            "ymax": 340,
+            "x_center": 0.672135,
+            "y_center": 0.267593,
+            "width": 0.164062,
+            "height": 0.094444
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "PY17.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "PY02S9326",
+            "class_id": 0,
+            "xmin": 85,
+            "ymin": 135,
+            "xmax": 170,
+            "ymax": 156,
+            "x_center": 0.46875,
+            "y_center": 0.713235,
+            "width": 0.3125,
+            "height": 0.102941
+        }
+    ]
+}

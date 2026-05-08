@@ -1,0 +1,19 @@
+{
+    "filename": "3f677265-d5fa-439f-be23-feaacce22c49___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_848126147_2_1080x720_nissan-terrano-xl-d-plus-2014-diesel-upload-photos.jpg",
+    "image_width": 404,
+    "image_height": 720,
+    "annotations": [
+        {
+            "vehicle_number": "GJ05JH2501",
+            "class_id": 0,
+            "xmin": 135,
+            "ymin": 235,
+            "xmax": 263,
+            "ymax": 269,
+            "x_center": 0.492574,
+            "y_center": 0.35,
+            "width": 0.316832,
+            "height": 0.047222
+        }
+    ]
+}

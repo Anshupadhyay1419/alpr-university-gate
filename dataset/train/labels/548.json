@@ -1,0 +1,19 @@
+{
+    "filename": "CG18.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "CG07CA7784",
+            "class_id": 0,
+            "xmin": 111,
+            "ymin": 247,
+            "xmax": 212,
+            "ymax": 288,
+            "x_center": 0.59375,
+            "y_center": 0.736915,
+            "width": 0.371324,
+            "height": 0.112948
+        }
+    ]
+}

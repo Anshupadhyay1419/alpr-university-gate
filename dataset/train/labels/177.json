@@ -1,0 +1,19 @@
+{
+    "filename": "aa221c22-6600-4f05-9eb9-3676ef0b22e0___69590d1226627898-high-security-number-plates-india-d1.jpg.jpeg",
+    "image_width": 1024,
+    "image_height": 768,
+    "annotations": [
+        {
+            "vehicle_number": "MH12DE1433",
+            "class_id": 0,
+            "xmin": 164,
+            "ymin": 255,
+            "xmax": 900,
+            "ymax": 434,
+            "x_center": 0.519531,
+            "y_center": 0.448568,
+            "width": 0.71875,
+            "height": 0.233073
+        }
+    ]
+}

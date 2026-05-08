@@ -1,0 +1,19 @@
+{
+    "filename": "KL16.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "KL43D4444",
+            "class_id": 0,
+            "xmin": 95,
+            "ymin": 222,
+            "xmax": 179,
+            "ymax": 242,
+            "x_center": 0.503676,
+            "y_center": 0.639118,
+            "width": 0.308824,
+            "height": 0.055096
+        }
+    ]
+}

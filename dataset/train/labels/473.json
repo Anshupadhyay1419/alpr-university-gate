@@ -1,0 +1,19 @@
+{
+    "filename": "AP34.jpg",
+    "image_width": 267,
+    "image_height": 94,
+    "annotations": [
+        {
+            "vehicle_number": "AP37EJ2277",
+            "class_id": 0,
+            "xmin": 98,
+            "ymin": 7,
+            "xmax": 183,
+            "ymax": 22,
+            "x_center": 0.526217,
+            "y_center": 0.154255,
+            "width": 0.318352,
+            "height": 0.159574
+        }
+    ]
+}

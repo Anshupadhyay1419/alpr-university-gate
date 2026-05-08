@@ -1,0 +1,19 @@
+{
+    "filename": "video11_4610.jpg",
+    "image_width": 945,
+    "image_height": 523,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AM5810",
+            "class_id": 0,
+            "xmin": 198,
+            "ymin": 340,
+            "xmax": 376,
+            "ymax": 402,
+            "x_center": 0.303704,
+            "y_center": 0.709369,
+            "width": 0.18836,
+            "height": 0.118547
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TN21AT0480_00001.jpg",
+    "image_width": 578,
+    "image_height": 504,
+    "annotations": [
+        {
+            "vehicle_number": "TN21AT0480",
+            "class_id": 0,
+            "xmin": 102,
+            "ymin": 323,
+            "xmax": 239,
+            "ymax": 371,
+            "x_center": 0.294983,
+            "y_center": 0.688492,
+            "width": 0.237024,
+            "height": 0.095238
+        }
+    ]
+}

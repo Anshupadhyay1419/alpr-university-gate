@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL05AK3300_00000.jpeg",
+    "image_width": 480,
+    "image_height": 480,
+    "annotations": [
+        {
+            "vehicle_number": "KL05AK3300",
+            "class_id": 0,
+            "xmin": 337,
+            "ymin": 314,
+            "xmax": 453,
+            "ymax": 347,
+            "x_center": 0.822917,
+            "y_center": 0.688542,
+            "width": 0.241667,
+            "height": 0.06875
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "WB8.jpg",
+    "image_width": 272,
+    "image_height": 272,
+    "annotations": [
+        {
+            "vehicle_number": "WB06J4432",
+            "class_id": 0,
+            "xmin": 98,
+            "ymin": 210,
+            "xmax": 184,
+            "ymax": 229,
+            "x_center": 0.518382,
+            "y_center": 0.806985,
+            "width": 0.316176,
+            "height": 0.069853
+        }
+    ]
+}

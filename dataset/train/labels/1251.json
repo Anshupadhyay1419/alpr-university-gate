@@ -1,0 +1,19 @@
+{
+    "filename": "video11_4100.jpg",
+    "image_width": 852,
+    "image_height": 614,
+    "annotations": [
+        {
+            "vehicle_number": "MH01DK4867",
+            "class_id": 0,
+            "xmin": 108,
+            "ymin": 318,
+            "xmax": 230,
+            "ymax": 351,
+            "x_center": 0.198357,
+            "y_center": 0.544788,
+            "width": 0.143192,
+            "height": 0.053746
+        }
+    ]
+}

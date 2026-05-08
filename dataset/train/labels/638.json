@@ -1,0 +1,19 @@
+{
+    "filename": "GJ23.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "GJ01RS0198",
+            "class_id": 0,
+            "xmin": 116,
+            "ymin": 117,
+            "xmax": 175,
+            "ymax": 130,
+            "x_center": 0.534926,
+            "y_center": 0.605392,
+            "width": 0.216912,
+            "height": 0.063725
+        }
+    ]
+}

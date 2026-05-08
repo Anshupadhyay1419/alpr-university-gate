@@ -1,0 +1,19 @@
+{
+    "filename": "52abe2c4-fde3-45b2-beec-f070e6ed98c7___Volkswagen-Vento-Rear-view-46765.jpg.jpeg",
+    "image_width": 630,
+    "image_height": 353,
+    "annotations": [
+        {
+            "vehicle_number": "MH14EP4660",
+            "class_id": 0,
+            "xmin": 251,
+            "ymin": 198,
+            "xmax": 370,
+            "ymax": 227,
+            "x_center": 0.492857,
+            "y_center": 0.601983,
+            "width": 0.188889,
+            "height": 0.082153
+        }
+    ]
+}

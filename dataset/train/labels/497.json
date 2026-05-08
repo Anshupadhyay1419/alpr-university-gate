@@ -1,0 +1,19 @@
+{
+    "filename": "AR8.jpg",
+    "image_width": 272,
+    "image_height": 592,
+    "annotations": [
+        {
+            "vehicle_number": "AR08983",
+            "class_id": 0,
+            "xmin": 32,
+            "ymin": 299,
+            "xmax": 73,
+            "ymax": 316,
+            "x_center": 0.193015,
+            "y_center": 0.519426,
+            "width": 0.150735,
+            "height": 0.028716
+        }
+    ]
+}

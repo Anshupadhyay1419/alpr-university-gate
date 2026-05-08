@@ -1,0 +1,19 @@
+{
+    "filename": "55aa4ee8-13fd-45bd-b83b-651ac665d71a___200560387_4_1000x700_2012-toyota-innova-diesel-130000-kms-cars.jpg.jpeg",
+    "image_width": 518,
+    "image_height": 458,
+    "annotations": [
+        {
+            "vehicle_number": "KL16J3636",
+            "class_id": 0,
+            "xmin": 156,
+            "ymin": 240,
+            "xmax": 324,
+            "ymax": 280,
+            "x_center": 0.46332,
+            "y_center": 0.567686,
+            "width": 0.324324,
+            "height": 0.087336
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video3_1930.jpg",
+    "image_width": 609,
+    "image_height": 710,
+    "annotations": [
+        {
+            "vehicle_number": "MH01BD2186",
+            "class_id": 0,
+            "xmin": 120,
+            "ymin": 406,
+            "xmax": 254,
+            "ymax": 447,
+            "x_center": 0.307061,
+            "y_center": 0.600704,
+            "width": 0.220033,
+            "height": 0.057746
+        }
+    ]
+}

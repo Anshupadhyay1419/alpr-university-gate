@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL04AL4405_00000.jpeg",
+    "image_width": 496,
+    "image_height": 287,
+    "annotations": [
+        {
+            "vehicle_number": "KL09AL9405",
+            "class_id": 0,
+            "xmin": 144,
+            "ymin": 168,
+            "xmax": 340,
+            "ymax": 210,
+            "x_center": 0.487903,
+            "y_center": 0.658537,
+            "width": 0.395161,
+            "height": 0.146341
+        }
+    ]
+}

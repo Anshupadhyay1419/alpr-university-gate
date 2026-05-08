@@ -1,0 +1,19 @@
+{
+    "filename": "video8_130.jpg",
+    "image_width": 533,
+    "image_height": 512,
+    "annotations": [
+        {
+            "vehicle_number": "MH12DG7144",
+            "class_id": 0,
+            "xmin": 70,
+            "ymin": 395,
+            "xmax": 161,
+            "ymax": 424,
+            "x_center": 0.216698,
+            "y_center": 0.799805,
+            "width": 0.170732,
+            "height": 0.056641
+        }
+    ]
+}

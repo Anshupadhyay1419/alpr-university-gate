@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH21V9926_00000.jpg",
+    "image_width": 333,
+    "image_height": 431,
+    "annotations": [
+        {
+            "vehicle_number": "MH21V9926",
+            "class_id": 0,
+            "xmin": 101,
+            "ymin": 357,
+            "xmax": 223,
+            "ymax": 386,
+            "x_center": 0.486486,
+            "y_center": 0.861949,
+            "width": 0.366366,
+            "height": 0.067285
+        }
+    ]
+}

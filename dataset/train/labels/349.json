@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-RJ02CC0784_00000.jpg",
+    "image_width": 262,
+    "image_height": 321,
+    "annotations": [
+        {
+            "vehicle_number": "RJ02CC0784",
+            "class_id": 0,
+            "xmin": 70,
+            "ymin": 262,
+            "xmax": 166,
+            "ymax": 284,
+            "x_center": 0.450382,
+            "y_center": 0.850467,
+            "width": 0.366412,
+            "height": 0.068536
+        }
+    ]
+}

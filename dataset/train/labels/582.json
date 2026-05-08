@@ -1,0 +1,19 @@
+{
+    "filename": "DL23.jpg",
+    "image_width": 272,
+    "image_height": 364,
+    "annotations": [
+        {
+            "vehicle_number": "DL2CAX2886",
+            "class_id": 0,
+            "xmin": 75,
+            "ymin": 256,
+            "xmax": 186,
+            "ymax": 287,
+            "x_center": 0.479779,
+            "y_center": 0.745879,
+            "width": 0.408088,
+            "height": 0.085165
+        }
+    ]
+}

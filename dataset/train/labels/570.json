@@ -1,0 +1,19 @@
+{
+    "filename": "DL11.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "DL9CAP8884",
+            "class_id": 0,
+            "xmin": 90,
+            "ymin": 219,
+            "xmax": 180,
+            "ymax": 241,
+            "x_center": 0.496324,
+            "y_center": 0.633609,
+            "width": 0.330882,
+            "height": 0.060606
+        }
+    ]
+}

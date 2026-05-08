@@ -1,0 +1,19 @@
+{
+    "filename": "JH11.jpg",
+    "image_width": 272,
+    "image_height": 571,
+    "annotations": [
+        {
+            "vehicle_number": "JH01BC5210",
+            "class_id": 0,
+            "xmin": 141,
+            "ymin": 300,
+            "xmax": 202,
+            "ymax": 315,
+            "x_center": 0.630515,
+            "y_center": 0.538529,
+            "width": 0.224265,
+            "height": 0.02627
+        }
+    ]
+}

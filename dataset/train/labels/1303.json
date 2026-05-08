@@ -1,0 +1,19 @@
+{
+    "filename": "video2_1430.jpg",
+    "image_width": 490,
+    "image_height": 498,
+    "annotations": [
+        {
+            "vehicle_number": "MH02EN6828",
+            "class_id": 0,
+            "xmin": 151,
+            "ymin": 189,
+            "xmax": 295,
+            "ymax": 263,
+            "x_center": 0.455102,
+            "y_center": 0.453815,
+            "width": 0.293878,
+            "height": 0.148594
+        }
+    ]
+}

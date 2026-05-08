@@ -1,0 +1,19 @@
+{
+    "filename": "video9_360.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02FN2783",
+            "class_id": 0,
+            "xmin": 1259,
+            "ymin": 299,
+            "xmax": 1536,
+            "ymax": 372,
+            "x_center": 0.727865,
+            "y_center": 0.310648,
+            "width": 0.144271,
+            "height": 0.067593
+        }
+    ]
+}

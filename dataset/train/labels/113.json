@@ -1,0 +1,19 @@
+{
+    "filename": "684f079f-6085-420c-8e4e-e1aed270fc05___Toyota-Fortuner-Number-Plates-Design.jpg.jpeg",
+    "image_width": 1250,
+    "image_height": 703,
+    "annotations": [
+        {
+            "vehicle_number": "KL53E964",
+            "class_id": 0,
+            "xmin": 541,
+            "ymin": 390,
+            "xmax": 769,
+            "ymax": 458,
+            "x_center": 0.524,
+            "y_center": 0.603129,
+            "width": 0.1824,
+            "height": 0.096728
+        }
+    ]
+}

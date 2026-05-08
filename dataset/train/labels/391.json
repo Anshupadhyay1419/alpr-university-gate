@@ -1,0 +1,19 @@
+{
+    "filename": "d4bec046-caac-4e59-bd05-44de2232d83b___2017-Skoda-Octavia-Front.jpg.jpeg",
+    "image_width": 400,
+    "image_height": 278,
+    "annotations": [
+        {
+            "vehicle_number": "MH20EE7601",
+            "class_id": 0,
+            "xmin": 215,
+            "ymin": 148,
+            "xmax": 345,
+            "ymax": 192,
+            "x_center": 0.7,
+            "y_center": 0.611511,
+            "width": 0.325,
+            "height": 0.158273
+        }
+    ]
+}

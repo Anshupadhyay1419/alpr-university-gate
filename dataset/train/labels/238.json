@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR11F7575_00000.jpg",
+    "image_width": 540,
+    "image_height": 720,
+    "annotations": [
+        {
+            "vehicle_number": "HR11F7575",
+            "class_id": 0,
+            "xmin": 186,
+            "ymin": 344,
+            "xmax": 348,
+            "ymax": 385,
+            "x_center": 0.494444,
+            "y_center": 0.50625,
+            "width": 0.3,
+            "height": 0.056944
+        }
+    ]
+}

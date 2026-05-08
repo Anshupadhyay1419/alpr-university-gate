@@ -1,0 +1,19 @@
+{
+    "filename": "UK6.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "UK07055789",
+            "class_id": 0,
+            "xmin": 111,
+            "ymin": 274,
+            "xmax": 188,
+            "ymax": 291,
+            "x_center": 0.549632,
+            "y_center": 0.778237,
+            "width": 0.283088,
+            "height": 0.046832
+        }
+    ]
+}

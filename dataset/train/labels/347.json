@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH46X9996_00000.jpg",
+    "image_width": 392,
+    "image_height": 388,
+    "annotations": [
+        {
+            "vehicle_number": "MH46X9996",
+            "class_id": 0,
+            "xmin": 126,
+            "ymin": 317,
+            "xmax": 265,
+            "ymax": 353,
+            "x_center": 0.498724,
+            "y_center": 0.863402,
+            "width": 0.354592,
+            "height": 0.092784
+        }
+    ]
+}

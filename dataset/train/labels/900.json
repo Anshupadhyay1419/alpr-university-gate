@@ -1,0 +1,19 @@
+{
+    "filename": "PB23.jpg",
+    "image_width": 272,
+    "image_height": 153,
+    "annotations": [
+        {
+            "vehicle_number": "PB02CC7299",
+            "class_id": 0,
+            "xmin": 122,
+            "ymin": 112,
+            "xmax": 163,
+            "ymax": 123,
+            "x_center": 0.523897,
+            "y_center": 0.767974,
+            "width": 0.150735,
+            "height": 0.071895
+        }
+    ]
+}

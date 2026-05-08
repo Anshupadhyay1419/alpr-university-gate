@@ -1,0 +1,19 @@
+{
+    "filename": "LA1.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "LA020749",
+            "class_id": 0,
+            "xmin": 79,
+            "ymin": 183,
+            "xmax": 144,
+            "ymax": 203,
+            "x_center": 0.409926,
+            "y_center": 0.53168,
+            "width": 0.238971,
+            "height": 0.055096
+        }
+    ]
+}

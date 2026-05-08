@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-DL3CAY9324_00000.jpeg",
+    "image_width": 769,
+    "image_height": 417,
+    "annotations": [
+        {
+            "vehicle_number": "DL3CAY9324",
+            "class_id": 0,
+            "xmin": 300,
+            "ymin": 261,
+            "xmax": 486,
+            "ymax": 304,
+            "x_center": 0.511053,
+            "y_center": 0.677458,
+            "width": 0.241873,
+            "height": 0.103118
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "MP3.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "MP65C0654",
+            "class_id": 0,
+            "xmin": 93,
+            "ymin": 206,
+            "xmax": 167,
+            "ymax": 223,
+            "x_center": 0.477941,
+            "y_center": 0.590909,
+            "width": 0.272059,
+            "height": 0.046832
+        }
+    ]
+}

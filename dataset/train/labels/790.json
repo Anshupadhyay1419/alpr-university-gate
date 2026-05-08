@@ -1,0 +1,19 @@
+{
+    "filename": "MH19.jpg",
+    "image_width": 272,
+    "image_height": 591,
+    "annotations": [
+        {
+            "vehicle_number": "MH12KN8366",
+            "class_id": 0,
+            "xmin": 96,
+            "ymin": 323,
+            "xmax": 183,
+            "ymax": 347,
+            "x_center": 0.512868,
+            "y_center": 0.566836,
+            "width": 0.319853,
+            "height": 0.040609
+        }
+    ]
+}

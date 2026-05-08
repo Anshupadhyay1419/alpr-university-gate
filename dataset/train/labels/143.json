@@ -1,0 +1,19 @@
+{
+    "filename": "85d7e25d-5aa1-4e5f-9c4e-4e671f14ddbe___77cca4b6f3864b3928824a030ba101d2.jpg.jpeg",
+    "image_width": 736,
+    "image_height": 736,
+    "annotations": [
+        {
+            "vehicle_number": "KL60N5344",
+            "class_id": 0,
+            "xmin": 177,
+            "ymin": 521,
+            "xmax": 312,
+            "ymax": 552,
+            "x_center": 0.332201,
+            "y_center": 0.72894,
+            "width": 0.183424,
+            "height": 0.04212
+        }
+    ]
+}

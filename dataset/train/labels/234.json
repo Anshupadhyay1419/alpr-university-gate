@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-GJ03JL0126_00000.png",
+    "image_width": 400,
+    "image_height": 225,
+    "annotations": [
+        {
+            "vehicle_number": "GJ03JL0126",
+            "class_id": 0,
+            "xmin": 154,
+            "ymin": 142,
+            "xmax": 246,
+            "ymax": 165,
+            "x_center": 0.5,
+            "y_center": 0.682222,
+            "width": 0.23,
+            "height": 0.102222
+        }
+    ]
+}

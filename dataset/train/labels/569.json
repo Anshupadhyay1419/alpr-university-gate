@@ -1,0 +1,19 @@
+{
+    "filename": "DL10.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "DL9CAE1359",
+            "class_id": 0,
+            "xmin": 98,
+            "ymin": 215,
+            "xmax": 161,
+            "ymax": 228,
+            "x_center": 0.476103,
+            "y_center": 0.610193,
+            "width": 0.231618,
+            "height": 0.035813
+        }
+    ]
+}

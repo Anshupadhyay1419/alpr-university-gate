@@ -1,0 +1,19 @@
+{
+    "filename": "fac9f4e6-c4b9-4872-86da-79d58ea2adc5___5273.jpg.jpeg",
+    "image_width": 306,
+    "image_height": 333,
+    "annotations": [
+        {
+            "vehicle_number": "MH02B16890",
+            "class_id": 0,
+            "xmin": 137,
+            "ymin": 152,
+            "xmax": 211,
+            "ymax": 173,
+            "x_center": 0.568627,
+            "y_center": 0.487988,
+            "width": 0.24183,
+            "height": 0.063063
+        }
+    ]
+}

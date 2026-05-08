@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TN19S4523_00000.png",
+    "image_width": 266,
+    "image_height": 223,
+    "annotations": [
+        {
+            "vehicle_number": "TN19S4523",
+            "class_id": 0,
+            "xmin": 152,
+            "ymin": 181,
+            "xmax": 214,
+            "ymax": 194,
+            "x_center": 0.68797,
+            "y_center": 0.840807,
+            "width": 0.233083,
+            "height": 0.058296
+        }
+    ]
+}

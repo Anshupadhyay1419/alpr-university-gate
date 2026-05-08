@@ -1,0 +1,19 @@
+{
+    "filename": "26cfb3dd-3731-4fd0-a6c2-c44e3ce7498a___used_cars_in_keralaused_bikes_in_keralaautomotive_news7.jpg.jpeg",
+    "image_width": 531,
+    "image_height": 512,
+    "annotations": [
+        {
+            "vehicle_number": "KL20K7561",
+            "class_id": 0,
+            "xmin": 166,
+            "ymin": 277,
+            "xmax": 325,
+            "ymax": 328,
+            "x_center": 0.462335,
+            "y_center": 0.59082,
+            "width": 0.299435,
+            "height": 0.099609
+        }
+    ]
+}

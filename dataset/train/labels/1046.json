@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH03AR5549_00000.jpg",
+    "image_width": 4000,
+    "image_height": 3000,
+    "annotations": [
+        {
+            "vehicle_number": "MH03AR5549",
+            "class_id": 0,
+            "xmin": 1298,
+            "ymin": 712,
+            "xmax": 4000,
+            "ymax": 1612,
+            "x_center": 0.66225,
+            "y_center": 0.387333,
+            "width": 0.6755,
+            "height": 0.3
+        }
+    ]
+}

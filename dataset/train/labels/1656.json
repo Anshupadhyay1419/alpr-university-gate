@@ -1,0 +1,19 @@
+{
+    "filename": "video8_660.jpg",
+    "image_width": 682,
+    "image_height": 684,
+    "annotations": [
+        {
+            "vehicle_number": "MH010PO323",
+            "class_id": 0,
+            "xmin": 130,
+            "ymin": 447,
+            "xmax": 222,
+            "ymax": 480,
+            "x_center": 0.258065,
+            "y_center": 0.677632,
+            "width": 0.134897,
+            "height": 0.048246
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "UP23.jpg",
+    "image_width": 272,
+    "image_height": 365,
+    "annotations": [
+        {
+            "vehicle_number": "UP78ED0449",
+            "class_id": 0,
+            "xmin": 96,
+            "ymin": 184,
+            "xmax": 165,
+            "ymax": 198,
+            "x_center": 0.479779,
+            "y_center": 0.523288,
+            "width": 0.253676,
+            "height": 0.038356
+        }
+    ]
+}

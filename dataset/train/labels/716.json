@@ -1,0 +1,19 @@
+{
+    "filename": "JK12.jpg",
+    "image_width": 268,
+    "image_height": 328,
+    "annotations": [
+        {
+            "vehicle_number": "JK01AD3147",
+            "class_id": 0,
+            "xmin": 106,
+            "ymin": 241,
+            "xmax": 180,
+            "ymax": 259,
+            "x_center": 0.533582,
+            "y_center": 0.762195,
+            "width": 0.276119,
+            "height": 0.054878
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "AP6.jpg",
+    "image_width": 272,
+    "image_height": 262,
+    "annotations": [
+        {
+            "vehicle_number": "AP31TV7236",
+            "class_id": 0,
+            "xmin": 98,
+            "ymin": 221,
+            "xmax": 176,
+            "ymax": 239,
+            "x_center": 0.503676,
+            "y_center": 0.877863,
+            "width": 0.286765,
+            "height": 0.068702
+        }
+    ]
+}

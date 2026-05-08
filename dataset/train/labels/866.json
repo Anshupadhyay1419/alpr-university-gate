@@ -1,0 +1,19 @@
+{
+    "filename": "OD12.jpg",
+    "image_width": 272,
+    "image_height": 604,
+    "annotations": [
+        {
+            "vehicle_number": "OR05AN4494",
+            "class_id": 0,
+            "xmin": 105,
+            "ymin": 310,
+            "xmax": 174,
+            "ymax": 330,
+            "x_center": 0.512868,
+            "y_center": 0.529801,
+            "width": 0.253676,
+            "height": 0.033113
+        }
+    ]
+}

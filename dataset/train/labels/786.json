@@ -1,0 +1,19 @@
+{
+    "filename": "MH15.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "MH05EQ4066",
+            "class_id": 0,
+            "xmin": 68,
+            "ymin": 232,
+            "xmax": 170,
+            "ymax": 258,
+            "x_center": 0.4375,
+            "y_center": 0.674931,
+            "width": 0.375,
+            "height": 0.071625
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "ML36.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "ML08B1100",
+            "class_id": 0,
+            "xmin": 116,
+            "ymin": 225,
+            "xmax": 176,
+            "ymax": 244,
+            "x_center": 0.536765,
+            "y_center": 0.646006,
+            "width": 0.220588,
+            "height": 0.052342
+        }
+    ]
+}

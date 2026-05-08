@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH20EJ0364_00000.png",
+    "image_width": 260,
+    "image_height": 245,
+    "annotations": [
+        {
+            "vehicle_number": "MH20EJ0364",
+            "class_id": 0,
+            "xmin": 53,
+            "ymin": 152,
+            "xmax": 205,
+            "ymax": 192,
+            "x_center": 0.496154,
+            "y_center": 0.702041,
+            "width": 0.584615,
+            "height": 0.163265
+        }
+    ]
+}

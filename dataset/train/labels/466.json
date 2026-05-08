@@ -1,0 +1,19 @@
+{
+    "filename": "AP25.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "AP26AM1260",
+            "class_id": 0,
+            "xmin": 90,
+            "ymin": 250,
+            "xmax": 173,
+            "ymax": 267,
+            "x_center": 0.483456,
+            "y_center": 0.712121,
+            "width": 0.305147,
+            "height": 0.046832
+        }
+    ]
+}

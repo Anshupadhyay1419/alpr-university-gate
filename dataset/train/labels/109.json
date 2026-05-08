@@ -1,0 +1,19 @@
+{
+    "filename": "6578ae52-8431-4854-ba24-756888891756___1496414894_2017-maruti-suzuki-ciaz.jpg.jpeg",
+    "image_width": 624,
+    "image_height": 450,
+    "annotations": [
+        {
+            "vehicle_number": "HR26TC7099",
+            "class_id": 0,
+            "xmin": 295,
+            "ymin": 170,
+            "xmax": 426,
+            "ymax": 221,
+            "x_center": 0.577724,
+            "y_center": 0.434444,
+            "width": 0.209936,
+            "height": 0.113333
+        }
+    ]
+}

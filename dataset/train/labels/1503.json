@@ -1,0 +1,19 @@
+{
+    "filename": "video4_2970.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02JA9655",
+            "class_id": 0,
+            "xmin": 515,
+            "ymin": 301,
+            "xmax": 683,
+            "ymax": 497,
+            "x_center": 0.311979,
+            "y_center": 0.369444,
+            "width": 0.0875,
+            "height": 0.181481
+        }
+    ]
+}

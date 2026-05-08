@@ -1,0 +1,19 @@
+{
+    "filename": "video11_3280.jpg",
+    "image_width": 296,
+    "image_height": 420,
+    "annotations": [
+        {
+            "vehicle_number": "MH05DK1018",
+            "class_id": 0,
+            "xmin": 136,
+            "ymin": 271,
+            "xmax": 247,
+            "ymax": 303,
+            "x_center": 0.646959,
+            "y_center": 0.683333,
+            "width": 0.375,
+            "height": 0.07619
+        }
+    ]
+}

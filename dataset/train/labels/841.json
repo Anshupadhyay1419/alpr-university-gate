@@ -1,0 +1,19 @@
+{
+    "filename": "MN4.jpg",
+    "image_width": 272,
+    "image_height": 87,
+    "annotations": [
+        {
+            "vehicle_number": "MN06LA0861",
+            "class_id": 0,
+            "xmin": 103,
+            "ymin": 9,
+            "xmax": 159,
+            "ymax": 22,
+            "x_center": 0.481618,
+            "y_center": 0.178161,
+            "width": 0.205882,
+            "height": 0.149425
+        }
+    ]
+}

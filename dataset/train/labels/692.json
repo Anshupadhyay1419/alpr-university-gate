@@ -1,0 +1,19 @@
+{
+    "filename": "HR7.jpg",
+    "image_width": 272,
+    "image_height": 153,
+    "annotations": [
+        {
+            "vehicle_number": "HR01W0080",
+            "class_id": 0,
+            "xmin": 112,
+            "ymin": 120,
+            "xmax": 171,
+            "ymax": 135,
+            "x_center": 0.520221,
+            "y_center": 0.833333,
+            "width": 0.216912,
+            "height": 0.098039
+        }
+    ]
+}

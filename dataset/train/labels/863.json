@@ -1,0 +1,19 @@
+{
+    "filename": "NL9.jpg",
+    "image_width": 272,
+    "image_height": 572,
+    "annotations": [
+        {
+            "vehicle_number": "NL02C6709",
+            "class_id": 0,
+            "xmin": 69,
+            "ymin": 418,
+            "xmax": 167,
+            "ymax": 446,
+            "x_center": 0.433824,
+            "y_center": 0.755245,
+            "width": 0.360294,
+            "height": 0.048951
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "c03a7106-1fb9-471f-bbb0-2e8f4a29759a___38e7b1109eb976088e1df2f14ac4c08c.jpg - Copy.jpeg",
+    "image_width": 459,
+    "image_height": 387,
+    "annotations": [
+        {
+            "vehicle_number": "KL13AA6340",
+            "class_id": 0,
+            "xmin": 85,
+            "ymin": 257,
+            "xmax": 191,
+            "ymax": 285,
+            "x_center": 0.300654,
+            "y_center": 0.700258,
+            "width": 0.230937,
+            "height": 0.072351
+        }
+    ]
+}

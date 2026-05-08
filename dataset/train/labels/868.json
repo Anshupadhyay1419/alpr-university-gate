@@ -1,0 +1,19 @@
+{
+    "filename": "OD14.jpg",
+    "image_width": 271,
+    "image_height": 453,
+    "annotations": [
+        {
+            "vehicle_number": "OD02L4656",
+            "class_id": 0,
+            "xmin": 89,
+            "ymin": 187,
+            "xmax": 168,
+            "ymax": 205,
+            "x_center": 0.47417,
+            "y_center": 0.432671,
+            "width": 0.291513,
+            "height": 0.039735
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video2_3370.jpg",
+    "image_width": 971,
+    "image_height": 664,
+    "annotations": [
+        {
+            "vehicle_number": "MH03BS8519",
+            "class_id": 0,
+            "xmin": 579,
+            "ymin": 360,
+            "xmax": 816,
+            "ymax": 430,
+            "x_center": 0.718332,
+            "y_center": 0.59488,
+            "width": 0.244078,
+            "height": 0.105422
+        }
+    ]
+}

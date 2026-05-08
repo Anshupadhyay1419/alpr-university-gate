@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26DG6167_00000.jpeg",
+    "image_width": 642,
+    "image_height": 336,
+    "annotations": [
+        {
+            "vehicle_number": "HR26DG6167",
+            "class_id": 0,
+            "xmin": 218,
+            "ymin": 146,
+            "xmax": 426,
+            "ymax": 192,
+            "x_center": 0.501558,
+            "y_center": 0.502976,
+            "width": 0.323988,
+            "height": 0.136905
+        }
+    ]
+}

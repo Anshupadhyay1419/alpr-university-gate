@@ -1,0 +1,19 @@
+{
+    "filename": "ML19.jpg",
+    "image_width": 272,
+    "image_height": 483,
+    "annotations": [
+        {
+            "vehicle_number": "ML04C0056",
+            "class_id": 0,
+            "xmin": 104,
+            "ymin": 298,
+            "xmax": 188,
+            "ymax": 319,
+            "x_center": 0.536765,
+            "y_center": 0.638716,
+            "width": 0.308824,
+            "height": 0.043478
+        }
+    ]
+}

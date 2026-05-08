@@ -1,0 +1,19 @@
+{
+    "filename": "MH24.jpg",
+    "image_width": 272,
+    "image_height": 229,
+    "annotations": [
+        {
+            "vehicle_number": "MH04HF5092",
+            "class_id": 0,
+            "xmin": 90,
+            "ymin": 173,
+            "xmax": 178,
+            "ymax": 190,
+            "x_center": 0.492647,
+            "y_center": 0.792576,
+            "width": 0.323529,
+            "height": 0.074236
+        }
+    ]
+}

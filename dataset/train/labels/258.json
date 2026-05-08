@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26DA2330_00000.jpeg",
+    "image_width": 505,
+    "image_height": 343,
+    "annotations": [
+        {
+            "vehicle_number": "HR26DA2330",
+            "class_id": 0,
+            "xmin": 25,
+            "ymin": 207,
+            "xmax": 144,
+            "ymax": 247,
+            "x_center": 0.167327,
+            "y_center": 0.661808,
+            "width": 0.235644,
+            "height": 0.116618
+        }
+    ]
+}

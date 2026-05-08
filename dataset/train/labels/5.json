@@ -1,0 +1,19 @@
+{
+    "filename": "0369b20e-b432-4409-90f9-2420877aa386___8151536c79159a1557421da5f27f9f0e.jpg.jpeg",
+    "image_width": 480,
+    "image_height": 480,
+    "annotations": [
+        {
+            "vehicle_number": "KL05AK3300",
+            "class_id": 0,
+            "xmin": 335,
+            "ymin": 313,
+            "xmax": 453,
+            "ymax": 347,
+            "x_center": 0.820833,
+            "y_center": 0.6875,
+            "width": 0.245833,
+            "height": 0.070833
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video6_440.jpg",
+    "image_width": 1633,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH01BD1897",
+            "class_id": 0,
+            "xmin": 394,
+            "ymin": 313,
+            "xmax": 1063,
+            "ymax": 531,
+            "x_center": 0.446111,
+            "y_center": 0.390741,
+            "width": 0.409675,
+            "height": 0.201852
+        }
+    ]
+}

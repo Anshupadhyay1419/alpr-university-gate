@@ -1,0 +1,19 @@
+{
+    "filename": "AS10.jpg",
+    "image_width": 272,
+    "image_height": 603,
+    "annotations": [
+        {
+            "vehicle_number": "AS01DG6002",
+            "class_id": 0,
+            "xmin": 99,
+            "ymin": 358,
+            "xmax": 177,
+            "ymax": 379,
+            "x_center": 0.507353,
+            "y_center": 0.611111,
+            "width": 0.286765,
+            "height": 0.034826
+        }
+    ]
+}

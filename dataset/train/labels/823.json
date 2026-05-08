@@ -1,0 +1,19 @@
+{
+    "filename": "ML27.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "ML05K9494",
+            "class_id": 0,
+            "xmin": 115,
+            "ymin": 210,
+            "xmax": 179,
+            "ymax": 226,
+            "x_center": 0.540441,
+            "y_center": 0.600551,
+            "width": 0.235294,
+            "height": 0.044077
+        }
+    ]
+}

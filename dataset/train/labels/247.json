@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26CB1900_00000.png",
+    "image_width": 560,
+    "image_height": 420,
+    "annotations": [
+        {
+            "vehicle_number": "HR26CB1900",
+            "class_id": 0,
+            "xmin": 166,
+            "ymin": 222,
+            "xmax": 220,
+            "ymax": 236,
+            "x_center": 0.344643,
+            "y_center": 0.545238,
+            "width": 0.096429,
+            "height": 0.033333
+        }
+    ]
+}

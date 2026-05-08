@@ -1,0 +1,19 @@
+{
+    "filename": "BR14.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "BR01BL6628",
+            "class_id": 0,
+            "xmin": 21,
+            "ymin": 185,
+            "xmax": 68,
+            "ymax": 223,
+            "x_center": 0.163603,
+            "y_center": 0.561983,
+            "width": 0.172794,
+            "height": 0.104683
+        }
+    ]
+}

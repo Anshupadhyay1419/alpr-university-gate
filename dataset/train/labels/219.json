@@ -1,0 +1,19 @@
+{
+    "filename": "c41652d9-19ae-4a7d-8423-230340ac30bc___Skoda_Laura_DSG_Long_Term_Review-125.jpg.jpeg",
+    "image_width": 1024,
+    "image_height": 685,
+    "annotations": [
+        {
+            "vehicle_number": "MH20BN3525",
+            "class_id": 0,
+            "xmin": 393,
+            "ymin": 452,
+            "xmax": 595,
+            "ymax": 500,
+            "x_center": 0.482422,
+            "y_center": 0.694891,
+            "width": 0.197266,
+            "height": 0.070073
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "BR15.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "BR01BR5435",
+            "class_id": 0,
+            "xmin": 77,
+            "ymin": 123,
+            "xmax": 145,
+            "ymax": 165,
+            "x_center": 0.408088,
+            "y_center": 0.705882,
+            "width": 0.25,
+            "height": 0.205882
+        }
+    ]
+}

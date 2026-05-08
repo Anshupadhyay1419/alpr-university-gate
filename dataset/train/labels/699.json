@@ -1,0 +1,19 @@
+{
+    "filename": "JH13.jpg",
+    "image_width": 270,
+    "image_height": 332,
+    "annotations": [
+        {
+            "vehicle_number": "JH01AM2354",
+            "class_id": 0,
+            "xmin": 108,
+            "ymin": 231,
+            "xmax": 181,
+            "ymax": 247,
+            "x_center": 0.535185,
+            "y_center": 0.71988,
+            "width": 0.27037,
+            "height": 0.048193
+        }
+    ]
+}

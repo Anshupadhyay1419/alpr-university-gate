@@ -1,0 +1,19 @@
+{
+    "filename": "AP5.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "AP39TP0211",
+            "class_id": 0,
+            "xmin": 93,
+            "ymin": 163,
+            "xmax": 155,
+            "ymax": 179,
+            "x_center": 0.455882,
+            "y_center": 0.471074,
+            "width": 0.227941,
+            "height": 0.044077
+        }
+    ]
+}

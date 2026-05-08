@@ -1,0 +1,19 @@
+{
+    "filename": "video4_2130.jpg",
+    "image_width": 1007,
+    "image_height": 838,
+    "annotations": [
+        {
+            "vehicle_number": "MH04DW9020",
+            "class_id": 0,
+            "xmin": 426,
+            "ymin": 459,
+            "xmax": 593,
+            "ymax": 551,
+            "x_center": 0.505958,
+            "y_center": 0.602625,
+            "width": 0.165839,
+            "height": 0.109785
+        }
+    ]
+}

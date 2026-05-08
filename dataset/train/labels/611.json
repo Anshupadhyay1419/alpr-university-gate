@@ -1,0 +1,19 @@
+{
+    "filename": "GA1.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "GA03R9230",
+            "class_id": 0,
+            "xmin": 129,
+            "ymin": 207,
+            "xmax": 177,
+            "ymax": 224,
+            "x_center": 0.5625,
+            "y_center": 0.593664,
+            "width": 0.176471,
+            "height": 0.046832
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TN38BY4191_00000.jpeg",
+    "image_width": 298,
+    "image_height": 395,
+    "annotations": [
+        {
+            "vehicle_number": "TN38BY4191",
+            "class_id": 0,
+            "xmin": 97,
+            "ymin": 226,
+            "xmax": 228,
+            "ymax": 258,
+            "x_center": 0.545302,
+            "y_center": 0.612658,
+            "width": 0.439597,
+            "height": 0.081013
+        }
+    ]
+}

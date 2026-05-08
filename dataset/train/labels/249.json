@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26CH3604_00000.jpeg",
+    "image_width": 600,
+    "image_height": 337,
+    "annotations": [
+        {
+            "vehicle_number": "HR26CH3604",
+            "class_id": 0,
+            "xmin": 199,
+            "ymin": 135,
+            "xmax": 352,
+            "ymax": 176,
+            "x_center": 0.459167,
+            "y_center": 0.461424,
+            "width": 0.255,
+            "height": 0.121662
+        }
+    ]
+}

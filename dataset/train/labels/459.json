@@ -1,0 +1,19 @@
+{
+    "filename": "AP19.jpg",
+    "image_width": 272,
+    "image_height": 604,
+    "annotations": [
+        {
+            "vehicle_number": "AP04M7627",
+            "class_id": 0,
+            "xmin": 98,
+            "ymin": 341,
+            "xmax": 158,
+            "ymax": 357,
+            "x_center": 0.470588,
+            "y_center": 0.577815,
+            "width": 0.220588,
+            "height": 0.02649
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH20EE7598_00000.png",
+    "image_width": 304,
+    "image_height": 313,
+    "annotations": [
+        {
+            "vehicle_number": "MH20EE7598",
+            "class_id": 0,
+            "xmin": 127,
+            "ymin": 160,
+            "xmax": 279,
+            "ymax": 208,
+            "x_center": 0.667763,
+            "y_center": 0.587859,
+            "width": 0.5,
+            "height": 0.153355
+        }
+    ]
+}

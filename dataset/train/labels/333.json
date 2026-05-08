@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH20CS1941_00000.jpeg",
+    "image_width": 339,
+    "image_height": 252,
+    "annotations": [
+        {
+            "vehicle_number": "MH20CS1941",
+            "class_id": 0,
+            "xmin": 111,
+            "ymin": 183,
+            "xmax": 226,
+            "ymax": 209,
+            "x_center": 0.49705,
+            "y_center": 0.777778,
+            "width": 0.339233,
+            "height": 0.103175
+        }
+    ]
+}

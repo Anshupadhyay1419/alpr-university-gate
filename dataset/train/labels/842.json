@@ -1,0 +1,19 @@
+{
+    "filename": "MN5.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "MN01G5395",
+            "class_id": 0,
+            "xmin": 113,
+            "ymin": 162,
+            "xmax": 181,
+            "ymax": 178,
+            "x_center": 0.540441,
+            "y_center": 0.833333,
+            "width": 0.25,
+            "height": 0.078431
+        }
+    ]
+}

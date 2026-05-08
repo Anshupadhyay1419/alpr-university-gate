@@ -1,0 +1,19 @@
+{
+    "filename": "206c95ff-83b8-4273-b105-6637bf9a3038___numerix-number-plates-thodupuzha-idukki-number-plate-dealers-1lhwiga.jpg.jpeg",
+    "image_width": 2000,
+    "image_height": 1500,
+    "annotations": [
+        {
+            "vehicle_number": "KL38F5008",
+            "class_id": 0,
+            "xmin": 624,
+            "ymin": 537,
+            "xmax": 1715,
+            "ymax": 1008,
+            "x_center": 0.58475,
+            "y_center": 0.515,
+            "width": 0.5455,
+            "height": 0.314
+        }
+    ]
+}

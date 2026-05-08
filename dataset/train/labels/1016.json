@@ -1,0 +1,19 @@
+{
+    "filename": "UP3.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "UP80FA1666",
+            "class_id": 0,
+            "xmin": 91,
+            "ymin": 145,
+            "xmax": 174,
+            "ymax": 165,
+            "x_center": 0.487132,
+            "y_center": 0.426997,
+            "width": 0.305147,
+            "height": 0.055096
+        }
+    ]
+}

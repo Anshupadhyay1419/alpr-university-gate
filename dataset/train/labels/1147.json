@@ -1,0 +1,19 @@
+{
+    "filename": "video11_1630.jpg",
+    "image_width": 519,
+    "image_height": 577,
+    "annotations": [
+        {
+            "vehicle_number": "MH02BQ9628",
+            "class_id": 0,
+            "xmin": 147,
+            "ymin": 298,
+            "xmax": 279,
+            "ymax": 340,
+            "x_center": 0.410405,
+            "y_center": 0.55286,
+            "width": 0.254335,
+            "height": 0.07279
+        }
+    ]
+}

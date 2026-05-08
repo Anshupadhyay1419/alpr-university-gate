@@ -1,0 +1,19 @@
+{
+    "filename": "DL33.jpg",
+    "image_width": 272,
+    "image_height": 364,
+    "annotations": [
+        {
+            "vehicle_number": "DL4CNA7231",
+            "class_id": 0,
+            "xmin": 94,
+            "ymin": 272,
+            "xmax": 168,
+            "ymax": 291,
+            "x_center": 0.481618,
+            "y_center": 0.773352,
+            "width": 0.272059,
+            "height": 0.052198
+        }
+    ]
+}

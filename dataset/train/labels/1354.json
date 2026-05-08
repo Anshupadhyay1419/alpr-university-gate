@@ -1,0 +1,19 @@
+{
+    "filename": "video2_4410.jpg",
+    "image_width": 732,
+    "image_height": 946,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AV8814",
+            "class_id": 0,
+            "xmin": 270,
+            "ymin": 426,
+            "xmax": 466,
+            "ymax": 486,
+            "x_center": 0.502732,
+            "y_center": 0.48203,
+            "width": 0.26776,
+            "height": 0.063425
+        }
+    ]
+}

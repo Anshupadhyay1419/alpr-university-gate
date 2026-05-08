@@ -1,0 +1,19 @@
+{
+    "filename": "GA12.jpg",
+    "image_width": 272,
+    "image_height": 272,
+    "annotations": [
+        {
+            "vehicle_number": "GA03Y9512",
+            "class_id": 0,
+            "xmin": 99,
+            "ymin": 185,
+            "xmax": 170,
+            "ymax": 205,
+            "x_center": 0.494485,
+            "y_center": 0.716912,
+            "width": 0.261029,
+            "height": 0.073529
+        }
+    ]
+}

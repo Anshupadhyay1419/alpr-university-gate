@@ -1,0 +1,19 @@
+{
+    "filename": "TS3.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "TS09EZ9293",
+            "class_id": 0,
+            "xmin": 103,
+            "ymin": 234,
+            "xmax": 172,
+            "ymax": 253,
+            "x_center": 0.505515,
+            "y_center": 0.670799,
+            "width": 0.253676,
+            "height": 0.052342
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video8_1320.jpg",
+    "image_width": 1561,
+    "image_height": 988,
+    "annotations": [
+        {
+            "vehicle_number": "MH02CR4364",
+            "class_id": 0,
+            "xmin": 68,
+            "ymin": 453,
+            "xmax": 167,
+            "ymax": 538,
+            "x_center": 0.075272,
+            "y_center": 0.501518,
+            "width": 0.063421,
+            "height": 0.086032
+        }
+    ]
+}

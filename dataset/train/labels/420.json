@@ -1,0 +1,19 @@
+{
+    "filename": "ef2dc97f-bc6d-49a3-9ddb-03f54f3a20e7___Skoda-Rapid-new-Exterior-84398.jpg.jpeg",
+    "image_width": 541,
+    "image_height": 423,
+    "annotations": [
+        {
+            "vehicle_number": "MH20EE0943",
+            "class_id": 0,
+            "xmin": 211,
+            "ymin": 278,
+            "xmax": 339,
+            "ymax": 309,
+            "x_center": 0.508318,
+            "y_center": 0.693853,
+            "width": 0.236599,
+            "height": 0.073286
+        }
+    ]
+}

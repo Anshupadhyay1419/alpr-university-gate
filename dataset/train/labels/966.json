@@ -1,0 +1,19 @@
+{
+    "filename": "TR6.jpg",
+    "image_width": 272,
+    "image_height": 125,
+    "annotations": [
+        {
+            "vehicle_number": "TR01BG0365",
+            "class_id": 0,
+            "xmin": 105,
+            "ymin": 93,
+            "xmax": 152,
+            "ymax": 104,
+            "x_center": 0.472426,
+            "y_center": 0.788,
+            "width": 0.172794,
+            "height": 0.088
+        }
+    ]
+}

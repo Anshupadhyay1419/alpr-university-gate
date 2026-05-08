@@ -1,0 +1,19 @@
+{
+    "filename": "TR5.jpg",
+    "image_width": 272,
+    "image_height": 484,
+    "annotations": [
+        {
+            "vehicle_number": "TR01X0482",
+            "class_id": 0,
+            "xmin": 83,
+            "ymin": 393,
+            "xmax": 185,
+            "ymax": 417,
+            "x_center": 0.492647,
+            "y_center": 0.836777,
+            "width": 0.375,
+            "height": 0.049587
+        }
+    ]
+}

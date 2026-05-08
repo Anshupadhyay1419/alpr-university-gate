@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TN45BA1065_00000.jpeg",
+    "image_width": 303,
+    "image_height": 224,
+    "annotations": [
+        {
+            "vehicle_number": "TN45BA1065",
+            "class_id": 0,
+            "xmin": 94,
+            "ymin": 85,
+            "xmax": 194,
+            "ymax": 109,
+            "x_center": 0.475248,
+            "y_center": 0.433036,
+            "width": 0.330033,
+            "height": 0.107143
+        }
+    ]
+}

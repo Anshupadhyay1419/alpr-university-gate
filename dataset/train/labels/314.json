@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH12DE1433_00000.png",
+    "image_width": 357,
+    "image_height": 299,
+    "annotations": [
+        {
+            "vehicle_number": "MH12DE1433",
+            "class_id": 0,
+            "xmin": 157,
+            "ymin": 139,
+            "xmax": 286,
+            "ymax": 185,
+            "x_center": 0.620448,
+            "y_center": 0.541806,
+            "width": 0.361345,
+            "height": 0.153846
+        }
+    ]
+}

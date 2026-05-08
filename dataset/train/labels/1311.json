@@ -1,0 +1,19 @@
+{
+    "filename": "video2_1830.jpg",
+    "image_width": 898,
+    "image_height": 1469,
+    "annotations": [
+        {
+            "vehicle_number": "DL8CN6308",
+            "class_id": 0,
+            "xmin": 348,
+            "ymin": 656,
+            "xmax": 820,
+            "ymax": 773,
+            "x_center": 0.650334,
+            "y_center": 0.486385,
+            "width": 0.525612,
+            "height": 0.079646
+        }
+    ]
+}

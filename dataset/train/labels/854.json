@@ -1,0 +1,19 @@
+{
+    "filename": "MP9.jpg",
+    "image_width": 272,
+    "image_height": 471,
+    "annotations": [
+        {
+            "vehicle_number": "MP45G0872",
+            "class_id": 0,
+            "xmin": 189,
+            "ymin": 216,
+            "xmax": 248,
+            "ymax": 248,
+            "x_center": 0.803309,
+            "y_center": 0.492569,
+            "width": 0.216912,
+            "height": 0.067941
+        }
+    ]
+}

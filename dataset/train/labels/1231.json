@@ -1,0 +1,19 @@
+{
+    "filename": "video11_3710.jpg",
+    "image_width": 1304,
+    "image_height": 817,
+    "annotations": [
+        {
+            "vehicle_number": "MH03AR7140",
+            "class_id": 0,
+            "xmin": 88,
+            "ymin": 354,
+            "xmax": 300,
+            "ymax": 432,
+            "x_center": 0.148773,
+            "y_center": 0.481028,
+            "width": 0.162577,
+            "height": 0.095471
+        }
+    ]
+}

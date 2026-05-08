@@ -1,0 +1,19 @@
+{
+    "filename": "video6_810.jpg",
+    "image_width": 1920,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DS9365",
+            "class_id": 0,
+            "xmin": 1270,
+            "ymin": 177,
+            "xmax": 1854,
+            "ymax": 303,
+            "x_center": 0.813542,
+            "y_center": 0.222222,
+            "width": 0.304167,
+            "height": 0.116667
+        }
+    ]
+}

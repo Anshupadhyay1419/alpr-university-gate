@@ -1,0 +1,19 @@
+{
+    "filename": "GA4.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "GA01C2098",
+            "class_id": 0,
+            "xmin": 119,
+            "ymin": 252,
+            "xmax": 227,
+            "ymax": 307,
+            "x_center": 0.636029,
+            "y_center": 0.769972,
+            "width": 0.397059,
+            "height": 0.151515
+        }
+    ]
+}

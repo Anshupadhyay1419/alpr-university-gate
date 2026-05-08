@@ -1,0 +1,19 @@
+{
+    "filename": "AP13.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "AP39JJ5441",
+            "class_id": 0,
+            "xmin": 96,
+            "ymin": 191,
+            "xmax": 169,
+            "ymax": 210,
+            "x_center": 0.487132,
+            "y_center": 0.552342,
+            "width": 0.268382,
+            "height": 0.052342
+        }
+    ]
+}

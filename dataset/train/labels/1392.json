@@ -1,0 +1,19 @@
+{
+    "filename": "video3_1360.jpg",
+    "image_width": 508,
+    "image_height": 262,
+    "annotations": [
+        {
+            "vehicle_number": "MH02CL4017",
+            "class_id": 0,
+            "xmin": 101,
+            "ymin": 153,
+            "xmax": 163,
+            "ymax": 171,
+            "x_center": 0.259843,
+            "y_center": 0.618321,
+            "width": 0.122047,
+            "height": 0.068702
+        }
+    ]
+}

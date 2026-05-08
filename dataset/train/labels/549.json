@@ -1,0 +1,19 @@
+{
+    "filename": "CG19.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "CG07MA7848",
+            "class_id": 0,
+            "xmin": 106,
+            "ymin": 205,
+            "xmax": 170,
+            "ymax": 220,
+            "x_center": 0.507353,
+            "y_center": 0.585399,
+            "width": 0.235294,
+            "height": 0.041322
+        }
+    ]
+}

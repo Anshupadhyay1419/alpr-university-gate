@@ -1,0 +1,19 @@
+{
+    "filename": "f685e6cf-3a12-42ac-94d7-28cdf129b266___maxresdefault1.jpg.jpeg",
+    "image_width": 500,
+    "image_height": 537,
+    "annotations": [
+        {
+            "vehicle_number": "TN66T5836",
+            "class_id": 0,
+            "xmin": 18,
+            "ymin": 19,
+            "xmax": 415,
+            "ymax": 488,
+            "x_center": 0.433,
+            "y_center": 0.472067,
+            "width": 0.794,
+            "height": 0.873371
+        }
+    ]
+}

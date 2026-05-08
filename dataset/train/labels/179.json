@@ -1,0 +1,19 @@
+{
+    "filename": "acd85f93-544d-494e-b2f3-2d445937bb0b___new_1431956d1446017445-number-plates-merchandise-canvas-ink-gurgaon-edit-closed-thumb_img_4418_1024.jpg.jpeg",
+    "image_width": 474,
+    "image_height": 354,
+    "annotations": [
+        {
+            "vehicle_number": "MH03BS7778",
+            "class_id": 0,
+            "xmin": 134,
+            "ymin": 128,
+            "xmax": 388,
+            "ymax": 195,
+            "x_center": 0.550633,
+            "y_center": 0.456215,
+            "width": 0.535865,
+            "height": 0.189266
+        }
+    ]
+}

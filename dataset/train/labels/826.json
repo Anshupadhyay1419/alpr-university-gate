@@ -1,0 +1,19 @@
+{
+    "filename": "ML30.jpg",
+    "image_width": 167,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "ML05C5389",
+            "class_id": 0,
+            "xmin": 49,
+            "ymin": 222,
+            "xmax": 106,
+            "ymax": 236,
+            "x_center": 0.464072,
+            "y_center": 0.630854,
+            "width": 0.341317,
+            "height": 0.038567
+        }
+    ]
+}

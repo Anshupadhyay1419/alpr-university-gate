@@ -1,0 +1,19 @@
+{
+    "filename": "3fd93f90-f778-4f14-8b0f-67dd0be88a06___561644d1308248087-beware-fake-registration-numbers-imported-cars-proof-pg-3-257491_10150223034216705_685851704_7325894_6 - Copy.jpeg",
+    "image_width": 425,
+    "image_height": 444,
+    "annotations": [
+        {
+            "vehicle_number": "WB06F9209",
+            "class_id": 0,
+            "xmin": 141,
+            "ymin": 249,
+            "xmax": 269,
+            "ymax": 283,
+            "x_center": 0.482353,
+            "y_center": 0.599099,
+            "width": 0.301176,
+            "height": 0.076577
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "165eaa92-8e90-44e6-b132-8af462bae0c9___scorpio-rear.JPG.jpeg",
+    "image_width": 400,
+    "image_height": 300,
+    "annotations": [
+        {
+            "vehicle_number": "KA01MA6989",
+            "class_id": 0,
+            "xmin": 42,
+            "ymin": 129,
+            "xmax": 106,
+            "ymax": 158,
+            "x_center": 0.185,
+            "y_center": 0.478333,
+            "width": 0.16,
+            "height": 0.096667
+        }
+    ]
+}

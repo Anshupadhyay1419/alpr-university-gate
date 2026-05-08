@@ -1,0 +1,19 @@
+{
+    "filename": "22dc6b5f-ff5d-4bb4-beb2-0f5fd9e75787___i10_Latest_Acrylic_Number_Plate.jpg.jpeg",
+    "image_width": 496,
+    "image_height": 287,
+    "annotations": [
+        {
+            "vehicle_number": "KL09AL9405",
+            "class_id": 0,
+            "xmin": 144,
+            "ymin": 166,
+            "xmax": 342,
+            "ymax": 212,
+            "x_center": 0.489919,
+            "y_center": 0.658537,
+            "width": 0.399194,
+            "height": 0.160279
+        }
+    ]
+}

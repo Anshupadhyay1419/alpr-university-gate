@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH03CB6467_00000.jpg",
+    "image_width": 325,
+    "image_height": 324,
+    "annotations": [
+        {
+            "vehicle_number": "MH03CB6467",
+            "class_id": 0,
+            "xmin": 82,
+            "ymin": 237,
+            "xmax": 230,
+            "ymax": 270,
+            "x_center": 0.48,
+            "y_center": 0.782407,
+            "width": 0.455385,
+            "height": 0.101852
+        }
+    ]
+}

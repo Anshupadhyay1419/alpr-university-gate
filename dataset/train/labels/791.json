@@ -1,0 +1,19 @@
+{
+    "filename": "MH2.jpg",
+    "image_width": 209,
+    "image_height": 191,
+    "annotations": [
+        {
+            "vehicle_number": "MH48AK2798",
+            "class_id": 0,
+            "xmin": 93,
+            "ymin": 165,
+            "xmax": 157,
+            "ymax": 179,
+            "x_center": 0.598086,
+            "y_center": 0.900524,
+            "width": 0.30622,
+            "height": 0.073298
+        }
+    ]
+}

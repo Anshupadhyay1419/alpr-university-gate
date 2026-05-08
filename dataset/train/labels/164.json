@@ -1,0 +1,19 @@
+{
+    "filename": "9cd75347-8952-40b1-97c5-d628f1b59590___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Maruti-Swift-Number-Plates-Design.jpg",
+    "image_width": 960,
+    "image_height": 720,
+    "annotations": [
+        {
+            "vehicle_number": "KL10AV6342",
+            "class_id": 0,
+            "xmin": 329,
+            "ymin": 219,
+            "xmax": 856,
+            "ymax": 410,
+            "x_center": 0.617188,
+            "y_center": 0.436806,
+            "width": 0.548958,
+            "height": 0.265278
+        }
+    ]
+}

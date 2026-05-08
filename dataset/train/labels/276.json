@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL01CA2555_00000.jpeg",
+    "image_width": 500,
+    "image_height": 268,
+    "annotations": [
+        {
+            "vehicle_number": "KL01CA2555",
+            "class_id": 0,
+            "xmin": 231,
+            "ymin": 122,
+            "xmax": 418,
+            "ymax": 179,
+            "x_center": 0.649,
+            "y_center": 0.561567,
+            "width": 0.374,
+            "height": 0.212687
+        }
+    ]
+}

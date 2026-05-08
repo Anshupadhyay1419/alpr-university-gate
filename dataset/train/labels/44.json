@@ -1,0 +1,19 @@
+{
+    "filename": "2430703d-0fb3-4eb2-9765-4f9301f232cd___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_Terrano-Duster-Rear-Comparison - Copy.jpg",
+    "image_width": 1021,
+    "image_height": 588,
+    "annotations": [
+        {
+            "vehicle_number": "TN19H3322",
+            "class_id": 0,
+            "xmin": 450,
+            "ymin": 272,
+            "xmax": 692,
+            "ymax": 327,
+            "x_center": 0.559256,
+            "y_center": 0.509354,
+            "width": 0.237023,
+            "height": 0.093537
+        }
+    ]
+}

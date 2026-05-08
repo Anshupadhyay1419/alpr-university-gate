@@ -1,0 +1,19 @@
+{
+    "filename": "27bfd7b7-6e0c-454c-b9f3-7a44d36edb9c___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-terrano-rear-right-side-angle-view.jpg",
+    "image_width": 700,
+    "image_height": 525,
+    "annotations": [
+        {
+            "vehicle_number": "DL6CM6683",
+            "class_id": 0,
+            "xmin": 91,
+            "ymin": 327,
+            "xmax": 229,
+            "ymax": 401,
+            "x_center": 0.228571,
+            "y_center": 0.693333,
+            "width": 0.197143,
+            "height": 0.140952
+        }
+    ]
+}

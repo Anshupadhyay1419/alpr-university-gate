@@ -1,0 +1,19 @@
+{
+    "filename": "video10_1200.jpg",
+    "image_width": 1379,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH05DS8679",
+            "class_id": 0,
+            "xmin": 698,
+            "ymin": 261,
+            "xmax": 1070,
+            "ymax": 348,
+            "x_center": 0.641044,
+            "y_center": 0.281944,
+            "width": 0.269761,
+            "height": 0.080556
+        }
+    ]
+}

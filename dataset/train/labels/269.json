@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KA03NA8385_00000.png",
+    "image_width": 361,
+    "image_height": 308,
+    "annotations": [
+        {
+            "vehicle_number": "KA03NA8385",
+            "class_id": 0,
+            "xmin": 86,
+            "ymin": 141,
+            "xmax": 183,
+            "ymax": 163,
+            "x_center": 0.372576,
+            "y_center": 0.493506,
+            "width": 0.268698,
+            "height": 0.071429
+        }
+    ]
+}

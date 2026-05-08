@@ -1,0 +1,19 @@
+{
+    "filename": "UP25.jpg",
+    "image_width": 272,
+    "image_height": 593,
+    "annotations": [
+        {
+            "vehicle_number": "UP32BF3577",
+            "class_id": 0,
+            "xmin": 76,
+            "ymin": 302,
+            "xmax": 187,
+            "ymax": 340,
+            "x_center": 0.483456,
+            "y_center": 0.541315,
+            "width": 0.408088,
+            "height": 0.064081
+        }
+    ]
+}

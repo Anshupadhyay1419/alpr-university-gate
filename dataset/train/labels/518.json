@@ -1,0 +1,19 @@
+{
+    "filename": "AS5.jpg",
+    "image_width": 272,
+    "image_height": 575,
+    "annotations": [
+        {
+            "vehicle_number": "AS23H0770",
+            "class_id": 0,
+            "xmin": 94,
+            "ymin": 316,
+            "xmax": 189,
+            "ymax": 346,
+            "x_center": 0.520221,
+            "y_center": 0.575652,
+            "width": 0.349265,
+            "height": 0.052174
+        }
+    ]
+}

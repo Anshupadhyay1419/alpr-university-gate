@@ -1,0 +1,13 @@
+{
+  "mAP50": 0.9896974881886905,
+  "mAP50_95": 0.882646411936526,
+  "precision": 0.9897272175344396,
+  "recall": 0.99,
+  "flops_gflops": 78.7,
+  "model": "YOLOv8m",
+  "parameters": 25840339,
+  "layers": 218,
+  "inference_ms": 29.5,
+  "test_images": 300,
+  "notes": "Evaluated on held-out test split. FLOPs from model summary during training."
+}

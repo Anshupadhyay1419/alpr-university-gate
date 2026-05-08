@@ -1,0 +1,19 @@
+{
+    "filename": "AP44.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "AP318L4935",
+            "class_id": 0,
+            "xmin": 95,
+            "ymin": 251,
+            "xmax": 159,
+            "ymax": 270,
+            "x_center": 0.466912,
+            "y_center": 0.717631,
+            "width": 0.235294,
+            "height": 0.052342
+        }
+    ]
+}

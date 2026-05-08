@@ -1,0 +1,19 @@
+{
+    "filename": "dc8bb609-7086-431b-9c8b-9520975dabd2___822716205_6_1080x720_maruti-suzuki-ciaz-make-year-2014-petrol-.jpg.jpeg",
+    "image_width": 500,
+    "image_height": 281,
+    "annotations": [
+        {
+            "vehicle_number": "KL07CB8599",
+            "class_id": 0,
+            "xmin": 214,
+            "ymin": 134,
+            "xmax": 331,
+            "ymax": 167,
+            "x_center": 0.545,
+            "y_center": 0.535587,
+            "width": 0.234,
+            "height": 0.117438
+        }
+    ]
+}

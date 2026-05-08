@@ -1,0 +1,19 @@
+{
+    "filename": "f7ba7a93-e8d7-4253-b327-d87e3f2bb747___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_2013-Nissan-Terrano-Rear.jpg",
+    "image_width": 1024,
+    "image_height": 683,
+    "annotations": [
+        {
+            "vehicle_number": "TN19TC94",
+            "class_id": 0,
+            "xmin": 637,
+            "ymin": 308,
+            "xmax": 793,
+            "ymax": 365,
+            "x_center": 0.698242,
+            "y_center": 0.492679,
+            "width": 0.152344,
+            "height": 0.083455
+        }
+    ]
+}

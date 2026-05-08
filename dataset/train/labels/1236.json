@@ -1,0 +1,19 @@
+{
+    "filename": "video11_3840.jpg",
+    "image_width": 1117,
+    "image_height": 717,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AM9839",
+            "class_id": 0,
+            "xmin": 241,
+            "ymin": 269,
+            "xmax": 431,
+            "ymax": 332,
+            "x_center": 0.300806,
+            "y_center": 0.419107,
+            "width": 0.170098,
+            "height": 0.087866
+        }
+    ]
+}

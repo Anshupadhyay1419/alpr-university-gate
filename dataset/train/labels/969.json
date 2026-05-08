@@ -1,0 +1,19 @@
+{
+    "filename": "TR9.jpg",
+    "image_width": 272,
+    "image_height": 590,
+    "annotations": [
+        {
+            "vehicle_number": "TR01AS0609",
+            "class_id": 0,
+            "xmin": 88,
+            "ymin": 313,
+            "xmax": 171,
+            "ymax": 337,
+            "x_center": 0.476103,
+            "y_center": 0.550847,
+            "width": 0.305147,
+            "height": 0.040678
+        }
+    ]
+}

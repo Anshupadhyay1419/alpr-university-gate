@@ -1,0 +1,19 @@
+{
+    "filename": "AS16.jpg",
+    "image_width": 271,
+    "image_height": 325,
+    "annotations": [
+        {
+            "vehicle_number": "AS01AL3746",
+            "class_id": 0,
+            "xmin": 80,
+            "ymin": 240,
+            "xmax": 172,
+            "ymax": 261,
+            "x_center": 0.464945,
+            "y_center": 0.770769,
+            "width": 0.339483,
+            "height": 0.064615
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "NL8.jpg",
+    "image_width": 272,
+    "image_height": 254,
+    "annotations": [
+        {
+            "vehicle_number": "NL07T0937",
+            "class_id": 0,
+            "xmin": 119,
+            "ymin": 186,
+            "xmax": 197,
+            "ymax": 202,
+            "x_center": 0.580882,
+            "y_center": 0.76378,
+            "width": 0.286765,
+            "height": 0.062992
+        }
+    ]
+}

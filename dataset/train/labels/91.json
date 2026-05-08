@@ -1,0 +1,19 @@
+{
+    "filename": "52b45060-9645-47c7-882d-b69a5bf07eff___1006372d1351343820-my-new-maruti-swift-zxi-21102012241.jpg.jpeg",
+    "image_width": 500,
+    "image_height": 469,
+    "annotations": [
+        {
+            "vehicle_number": "KA031351",
+            "class_id": 0,
+            "xmin": 219,
+            "ymin": 315,
+            "xmax": 345,
+            "ymax": 353,
+            "x_center": 0.564,
+            "y_center": 0.712154,
+            "width": 0.252,
+            "height": 0.081023
+        }
+    ]
+}

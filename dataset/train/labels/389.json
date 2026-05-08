@@ -1,0 +1,19 @@
+{
+    "filename": "d16041c1-831d-4cc9-8869-68be8b6e12d7___slider-new-2.jpg.jpeg",
+    "image_width": 1266,
+    "image_height": 453,
+    "annotations": [
+        {
+            "vehicle_number": "KL12G7531",
+            "class_id": 0,
+            "xmin": 809,
+            "ymin": 240,
+            "xmax": 1031,
+            "ymax": 301,
+            "x_center": 0.726698,
+            "y_center": 0.59713,
+            "width": 0.175355,
+            "height": 0.134658
+        }
+    ]
+}

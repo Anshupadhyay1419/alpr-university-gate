@@ -1,0 +1,19 @@
+{
+    "filename": "4eb236a3-6547-4103-b46f-3756d21128a9___06-Sanjay-Dutt.jpg.jpeg",
+    "image_width": 494,
+    "image_height": 449,
+    "annotations": [
+        {
+            "vehicle_number": "MH02CB4545",
+            "class_id": 0,
+            "xmin": 85,
+            "ymin": 387,
+            "xmax": 256,
+            "ymax": 449,
+            "x_center": 0.345142,
+            "y_center": 0.930958,
+            "width": 0.346154,
+            "height": 0.138085
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL55R2473_00000.jpeg",
+    "image_width": 537,
+    "image_height": 399,
+    "annotations": [
+        {
+            "vehicle_number": "KL55R2473",
+            "class_id": 0,
+            "xmin": 137,
+            "ymin": 157,
+            "xmax": 334,
+            "ymax": 205,
+            "x_center": 0.438547,
+            "y_center": 0.453634,
+            "width": 0.366853,
+            "height": 0.120301
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video4_2260.jpg",
+    "image_width": 916,
+    "image_height": 888,
+    "annotations": [
+        {
+            "vehicle_number": "MH01CT9150",
+            "class_id": 0,
+            "xmin": 188,
+            "ymin": 322,
+            "xmax": 482,
+            "ymax": 454,
+            "x_center": 0.365721,
+            "y_center": 0.436937,
+            "width": 0.320961,
+            "height": 0.148649
+        }
+    ]
+}

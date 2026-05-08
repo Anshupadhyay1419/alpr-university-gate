@@ -1,0 +1,19 @@
+{
+    "filename": "a95a0d9d-5d40-4abb-bd3e-6c6d94bef5b1___IMG_3310.jpg.jpeg",
+    "image_width": 400,
+    "image_height": 300,
+    "annotations": [
+        {
+            "vehicle_number": "Devanagri",
+            "class_id": 0,
+            "xmin": 138,
+            "ymin": 133,
+            "xmax": 304,
+            "ymax": 182,
+            "x_center": 0.5525,
+            "y_center": 0.525,
+            "width": 0.415,
+            "height": 0.163333
+        }
+    ]
+}

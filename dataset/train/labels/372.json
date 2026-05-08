@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TN59BE0939_00000.jpg",
+    "image_width": 523,
+    "image_height": 540,
+    "annotations": [
+        {
+            "vehicle_number": "TN59BE0939",
+            "class_id": 0,
+            "xmin": 209,
+            "ymin": 463,
+            "xmax": 325,
+            "ymax": 487,
+            "x_center": 0.510516,
+            "y_center": 0.87963,
+            "width": 0.221797,
+            "height": 0.044444
+        }
+    ]
+}

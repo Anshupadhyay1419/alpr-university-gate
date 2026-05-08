@@ -1,0 +1,19 @@
+{
+    "filename": "8edca6de-d964-4027-823d-f70d3f872412___12042943_1003224833031653_9073848483429898813_n.jpg.jpeg",
+    "image_width": 642,
+    "image_height": 400,
+    "annotations": [
+        {
+            "vehicle_number": "KL55R2473",
+            "class_id": 0,
+            "xmin": 208,
+            "ymin": 156,
+            "xmax": 407,
+            "ymax": 207,
+            "x_center": 0.478972,
+            "y_center": 0.45375,
+            "width": 0.309969,
+            "height": 0.1275
+        }
+    ]
+}

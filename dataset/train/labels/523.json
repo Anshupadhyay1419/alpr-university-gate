@@ -1,0 +1,19 @@
+{
+    "filename": "BR10.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "BR32PA6558",
+            "class_id": 0,
+            "xmin": 112,
+            "ymin": 235,
+            "xmax": 192,
+            "ymax": 255,
+            "x_center": 0.558824,
+            "y_center": 0.674931,
+            "width": 0.294118,
+            "height": 0.055096
+        }
+    ]
+}

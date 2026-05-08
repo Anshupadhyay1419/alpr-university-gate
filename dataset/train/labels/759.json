@@ -1,0 +1,19 @@
+{
+    "filename": "KA25.jpg",
+    "image_width": 271,
+    "image_height": 546,
+    "annotations": [
+        {
+            "vehicle_number": "KA38M8037",
+            "class_id": 0,
+            "xmin": 65,
+            "ymin": 344,
+            "xmax": 178,
+            "ymax": 370,
+            "x_center": 0.448339,
+            "y_center": 0.653846,
+            "width": 0.416974,
+            "height": 0.047619
+        }
+    ]
+}

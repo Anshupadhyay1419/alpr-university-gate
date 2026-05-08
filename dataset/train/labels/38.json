@@ -1,0 +1,19 @@
+{
+    "filename": "21cc678a-b9c5-4bbb-ace0-9e096e799632___unnamed-300x225.jpg - Copy.jpeg",
+    "image_width": 78,
+    "image_height": 223,
+    "annotations": [
+        {
+            "vehicle_number": "DL758Y1790",
+            "class_id": 0,
+            "xmin": 24,
+            "ymin": 97,
+            "xmax": 58,
+            "ymax": 120,
+            "x_center": 0.525641,
+            "y_center": 0.486547,
+            "width": 0.435897,
+            "height": 0.103139
+        }
+    ]
+}

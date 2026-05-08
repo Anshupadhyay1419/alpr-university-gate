@@ -1,0 +1,19 @@
+{
+    "filename": "WB14.jpg",
+    "image_width": 272,
+    "image_height": 590,
+    "annotations": [
+        {
+            "vehicle_number": "WB36G6682",
+            "class_id": 0,
+            "xmin": 93,
+            "ymin": 368,
+            "xmax": 169,
+            "ymax": 392,
+            "x_center": 0.481618,
+            "y_center": 0.644068,
+            "width": 0.279412,
+            "height": 0.040678
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "KL9.jpg",
+    "image_width": 272,
+    "image_height": 272,
+    "annotations": [
+        {
+            "vehicle_number": "KL16U8863",
+            "class_id": 0,
+            "xmin": 104,
+            "ymin": 188,
+            "xmax": 181,
+            "ymax": 201,
+            "x_center": 0.523897,
+            "y_center": 0.715074,
+            "width": 0.283088,
+            "height": 0.047794
+        }
+    ]
+}

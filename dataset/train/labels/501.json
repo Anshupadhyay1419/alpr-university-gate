@@ -1,0 +1,19 @@
+{
+    "filename": "AS11.jpg",
+    "image_width": 231,
+    "image_height": 143,
+    "annotations": [
+        {
+            "vehicle_number": "AS01DS7523",
+            "class_id": 0,
+            "xmin": 80,
+            "ymin": 94,
+            "xmax": 120,
+            "ymax": 104,
+            "x_center": 0.4329,
+            "y_center": 0.692308,
+            "width": 0.17316,
+            "height": 0.06993
+        }
+    ]
+}

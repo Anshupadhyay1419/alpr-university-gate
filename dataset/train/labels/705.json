@@ -1,0 +1,19 @@
+{
+    "filename": "JH19.jpg",
+    "image_width": 271,
+    "image_height": 132,
+    "annotations": [
+        {
+            "vehicle_number": "JH05Y9636",
+            "class_id": 0,
+            "xmin": 109,
+            "ymin": 77,
+            "xmax": 191,
+            "ymax": 94,
+            "x_center": 0.553506,
+            "y_center": 0.647727,
+            "width": 0.302583,
+            "height": 0.128788
+        }
+    ]
+}

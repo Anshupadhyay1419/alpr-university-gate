@@ -1,0 +1,19 @@
+{
+    "filename": "89d26be7-258a-4470-b0fe-d1df57b20d55___new_Skoda-Octavia-5.jpg.jpeg",
+    "image_width": 586,
+    "image_height": 331,
+    "annotations": [
+        {
+            "vehicle_number": "MH20CS1938",
+            "class_id": 0,
+            "xmin": 185,
+            "ymin": 209,
+            "xmax": 249,
+            "ymax": 230,
+            "x_center": 0.370307,
+            "y_center": 0.663142,
+            "width": 0.109215,
+            "height": 0.063444
+        }
+    ]
+}

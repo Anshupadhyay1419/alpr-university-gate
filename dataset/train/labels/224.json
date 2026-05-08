@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-AP02BP2454_00000.jpeg",
+    "image_width": 660,
+    "image_height": 432,
+    "annotations": [
+        {
+            "vehicle_number": "AP02BP2454",
+            "class_id": 0,
+            "xmin": 231,
+            "ymin": 189,
+            "xmax": 358,
+            "ymax": 220,
+            "x_center": 0.446212,
+            "y_center": 0.47338,
+            "width": 0.192424,
+            "height": 0.071759
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "28574c06-ac11-422e-864f-a51b726bb9ba___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_hqdefault0.jpg",
+    "image_width": 480,
+    "image_height": 360,
+    "annotations": [
+        {
+            "vehicle_number": "RJ27TC0530",
+            "class_id": 0,
+            "xmin": 122,
+            "ymin": 205,
+            "xmax": 210,
+            "ymax": 229,
+            "x_center": 0.345833,
+            "y_center": 0.602778,
+            "width": 0.183333,
+            "height": 0.066667
+        }
+    ]
+}

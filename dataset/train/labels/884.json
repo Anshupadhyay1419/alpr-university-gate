@@ -1,0 +1,19 @@
+{
+    "filename": "OD6.jpg",
+    "image_width": 271,
+    "image_height": 545,
+    "annotations": [
+        {
+            "vehicle_number": "OR08F1001",
+            "class_id": 0,
+            "xmin": 99,
+            "ymin": 330,
+            "xmax": 177,
+            "ymax": 357,
+            "x_center": 0.509225,
+            "y_center": 0.630275,
+            "width": 0.287823,
+            "height": 0.049541
+        }
+    ]
+}

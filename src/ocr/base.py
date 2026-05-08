@@ -1,0 +1,34 @@
+"""
+Abstract base class for OCR engines in the ALPR University Gate system.
+
+All OCR backends must implement the OCREngine interface so they can be
+swapped via config without modifying pipeline code.
+"""
+
+from __future__ import annotations
+
+from abc import ABC, abstractmethod
+
+import numpy as np
+
+
+class OCREngine(ABC):
+    """Pluggable OCR engine interface.
+
+    Concrete implementations: PaddleOCREngine, TrOCREngine.
+    Selected via config['ocr']['backend'].
+    """
+
+    @abstractmethod
+    def recognize(self, image: np.ndarray) -> tuple[str, float]:
+        """Extract text from a plate image.
+
+        Args:
+            image: Grayscale (H, W) or BGR (H, W, 3) NumPy array.
+
+        Returns:
+            Tuple of (recognized_text, confidence_score) where
+            confidence_score is in [0.0, 1.0].
+            Returns ("", 0.0) on failure.
+        """
+        ...

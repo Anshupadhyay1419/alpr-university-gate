@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26CE1485_00000.png",
+    "image_width": 560,
+    "image_height": 420,
+    "annotations": [
+        {
+            "vehicle_number": "HR26CE1485",
+            "class_id": 0,
+            "xmin": 231,
+            "ymin": 280,
+            "xmax": 345,
+            "ymax": 307,
+            "x_center": 0.514286,
+            "y_center": 0.69881,
+            "width": 0.203571,
+            "height": 0.064286
+        }
+    ]
+}

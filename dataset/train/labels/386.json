@@ -1,0 +1,19 @@
+{
+    "filename": "cd506968-8676-4df3-9150-d1c2e618f4c2___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_nissan-note-india-testing_827x510_81508219864.jpg",
+    "image_width": 827,
+    "image_height": 510,
+    "annotations": [
+        {
+            "vehicle_number": "TN21TC31",
+            "class_id": 0,
+            "xmin": 345,
+            "ymin": 269,
+            "xmax": 578,
+            "ymax": 328,
+            "x_center": 0.558041,
+            "y_center": 0.585294,
+            "width": 0.281741,
+            "height": 0.115686
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video11_4440.jpg",
+    "image_width": 652,
+    "image_height": 696,
+    "annotations": [
+        {
+            "vehicle_number": "MH02MA5324",
+            "class_id": 0,
+            "xmin": 253,
+            "ymin": 497,
+            "xmax": 414,
+            "ymax": 542,
+            "x_center": 0.511503,
+            "y_center": 0.746408,
+            "width": 0.246933,
+            "height": 0.064655
+        }
+    ]
+}

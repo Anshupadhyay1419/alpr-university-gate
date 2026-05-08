@@ -1,0 +1,19 @@
+{
+    "filename": "JK3.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "JK02BL1212",
+            "class_id": 0,
+            "xmin": 104,
+            "ymin": 169,
+            "xmax": 171,
+            "ymax": 185,
+            "x_center": 0.505515,
+            "y_center": 0.867647,
+            "width": 0.246324,
+            "height": 0.078431
+        }
+    ]
+}

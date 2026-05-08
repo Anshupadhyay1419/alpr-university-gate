@@ -1,0 +1,19 @@
+{
+    "filename": "GJ18.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "GJ01RN4259",
+            "class_id": 0,
+            "xmin": 107,
+            "ymin": 150,
+            "xmax": 176,
+            "ymax": 165,
+            "x_center": 0.520221,
+            "y_center": 0.772059,
+            "width": 0.253676,
+            "height": 0.073529
+        }
+    ]
+}

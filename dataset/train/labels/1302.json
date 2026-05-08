@@ -1,0 +1,19 @@
+{
+    "filename": "video2_1360.jpg",
+    "image_width": 1100,
+    "image_height": 802,
+    "annotations": [
+        {
+            "vehicle_number": "MH01DP5662",
+            "class_id": 0,
+            "xmin": 320,
+            "ymin": 393,
+            "xmax": 633,
+            "ymax": 466,
+            "x_center": 0.433182,
+            "y_center": 0.535536,
+            "width": 0.284545,
+            "height": 0.091022
+        }
+    ]
+}

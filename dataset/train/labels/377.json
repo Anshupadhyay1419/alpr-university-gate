@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TN99F2378_00000.png",
+    "image_width": 326,
+    "image_height": 224,
+    "annotations": [
+        {
+            "vehicle_number": "TN99F2378",
+            "class_id": 0,
+            "xmin": 83,
+            "ymin": 25,
+            "xmax": 242,
+            "ymax": 64,
+            "x_center": 0.498466,
+            "y_center": 0.198661,
+            "width": 0.48773,
+            "height": 0.174107
+        }
+    ]
+}

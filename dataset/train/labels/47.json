@@ -1,0 +1,19 @@
+{
+    "filename": "266d82c7-1b64-44cd-b77c-c08d98175390___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_5c752daa8d168dec865fe0462bf2c0bb_large.jpg",
+    "image_width": 476,
+    "image_height": 470,
+    "annotations": [
+        {
+            "vehicle_number": "MH21V9926",
+            "class_id": 0,
+            "xmin": 165,
+            "ymin": 360,
+            "xmax": 287,
+            "ymax": 387,
+            "x_center": 0.47479,
+            "y_center": 0.794681,
+            "width": 0.256303,
+            "height": 0.057447
+        }
+    ]
+}

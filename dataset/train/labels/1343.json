@@ -1,0 +1,19 @@
+{
+    "filename": "video2_4150.jpg",
+    "image_width": 1697,
+    "image_height": 737,
+    "annotations": [
+        {
+            "vehicle_number": "MH02BT6482",
+            "class_id": 0,
+            "xmin": 261,
+            "ymin": 482,
+            "xmax": 785,
+            "ymax": 643,
+            "x_center": 0.308191,
+            "y_center": 0.763229,
+            "width": 0.30878,
+            "height": 0.218453
+        }
+    ]
+}

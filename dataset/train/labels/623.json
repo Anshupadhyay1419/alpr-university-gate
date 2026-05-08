@@ -1,0 +1,19 @@
+{
+    "filename": "GA9.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "GA06E3855",
+            "class_id": 0,
+            "xmin": 93,
+            "ymin": 251,
+            "xmax": 167,
+            "ymax": 269,
+            "x_center": 0.477941,
+            "y_center": 0.716253,
+            "width": 0.272059,
+            "height": 0.049587
+        }
+    ]
+}

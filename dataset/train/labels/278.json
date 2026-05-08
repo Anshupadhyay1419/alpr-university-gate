@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-KL01KL0KL01_00000.jpeg",
+    "image_width": 500,
+    "image_height": 399,
+    "annotations": [
+        {
+            "vehicle_number": "KL01KL0KL01",
+            "class_id": 0,
+            "xmin": 57,
+            "ymin": 201,
+            "xmax": 220,
+            "ymax": 276,
+            "x_center": 0.277,
+            "y_center": 0.597744,
+            "width": 0.326,
+            "height": 0.18797
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "HR3.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "HR29W8286",
+            "class_id": 0,
+            "xmin": 104,
+            "ymin": 136,
+            "xmax": 180,
+            "ymax": 154,
+            "x_center": 0.522059,
+            "y_center": 0.710784,
+            "width": 0.279412,
+            "height": 0.088235
+        }
+    ]
+}

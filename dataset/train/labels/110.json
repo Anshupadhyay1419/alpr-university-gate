@@ -1,0 +1,19 @@
+{
+    "filename": "658af519-5290-4ae5-8dd6-694bab9aa458___3e7fd381-0ae5-4421-8a70-279ee0ec1c61_848765390_1_1080x720_nissan-terrano-xl-d-plus-2014-diesel-coimbatore.jpg",
+    "image_width": 540,
+    "image_height": 720,
+    "annotations": [
+        {
+            "vehicle_number": "TN59BE0939",
+            "class_id": 0,
+            "xmin": 225,
+            "ymin": 462,
+            "xmax": 343,
+            "ymax": 488,
+            "x_center": 0.525926,
+            "y_center": 0.659722,
+            "width": 0.218519,
+            "height": 0.036111
+        }
+    ]
+}

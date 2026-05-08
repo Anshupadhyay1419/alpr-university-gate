@@ -1,0 +1,19 @@
+{
+    "filename": "DL19.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "DL1CT2782",
+            "class_id": 0,
+            "xmin": 102,
+            "ymin": 162,
+            "xmax": 181,
+            "ymax": 177,
+            "x_center": 0.520221,
+            "y_center": 0.830882,
+            "width": 0.290441,
+            "height": 0.073529
+        }
+    ]
+}

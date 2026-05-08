@@ -1,0 +1,19 @@
+{
+    "filename": "TN3.jpg",
+    "image_width": 272,
+    "image_height": 590,
+    "annotations": [
+        {
+            "vehicle_number": "TN02AU9295",
+            "class_id": 0,
+            "xmin": 88,
+            "ymin": 306,
+            "xmax": 184,
+            "ymax": 330,
+            "x_center": 0.5,
+            "y_center": 0.538983,
+            "width": 0.352941,
+            "height": 0.040678
+        }
+    ]
+}

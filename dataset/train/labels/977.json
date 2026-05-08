@@ -1,0 +1,19 @@
+{
+    "filename": "TS16.jpg",
+    "image_width": 272,
+    "image_height": 577,
+    "annotations": [
+        {
+            "vehicle_number": "TS07HM2684",
+            "class_id": 0,
+            "xmin": 9,
+            "ymin": 318,
+            "xmax": 92,
+            "ymax": 417,
+            "x_center": 0.185662,
+            "y_center": 0.636915,
+            "width": 0.305147,
+            "height": 0.171577
+        }
+    ]
+}

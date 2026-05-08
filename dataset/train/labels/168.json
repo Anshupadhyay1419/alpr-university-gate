@@ -1,0 +1,19 @@
+{
+    "filename": "a285cdf6-4640-41ee-b3f3-b721f334466f___Skoda-Octavia-RS-launched-in-India-3.jpg.jpeg",
+    "image_width": 500,
+    "image_height": 344,
+    "annotations": [
+        {
+            "vehicle_number": "MH20EE7598",
+            "class_id": 0,
+            "xmin": 176,
+            "ymin": 255,
+            "xmax": 348,
+            "ymax": 291,
+            "x_center": 0.524,
+            "y_center": 0.793605,
+            "width": 0.344,
+            "height": 0.104651
+        }
+    ]
+}

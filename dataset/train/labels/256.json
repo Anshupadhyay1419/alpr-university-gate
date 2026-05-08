@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26CU6799_00000.png",
+    "image_width": 400,
+    "image_height": 270,
+    "annotations": [
+        {
+            "vehicle_number": "HR26CU6799",
+            "class_id": 0,
+            "xmin": 233,
+            "ymin": 155,
+            "xmax": 308,
+            "ymax": 179,
+            "x_center": 0.67625,
+            "y_center": 0.618519,
+            "width": 0.1875,
+            "height": 0.088889
+        }
+    ]
+}

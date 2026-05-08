@@ -1,0 +1,19 @@
+{
+    "filename": "PB1.jpg",
+    "image_width": 272,
+    "image_height": 544,
+    "annotations": [
+        {
+            "vehicle_number": "PB11BG7347",
+            "class_id": 0,
+            "xmin": 94,
+            "ymin": 214,
+            "xmax": 187,
+            "ymax": 239,
+            "x_center": 0.516544,
+            "y_center": 0.41636,
+            "width": 0.341912,
+            "height": 0.045956
+        }
+    ]
+}

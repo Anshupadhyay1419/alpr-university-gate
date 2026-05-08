@@ -1,0 +1,19 @@
+{
+    "filename": "CG11.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "CG04HA4553",
+            "class_id": 0,
+            "xmin": 133,
+            "ymin": 173,
+            "xmax": 189,
+            "ymax": 184,
+            "x_center": 0.591912,
+            "y_center": 0.491736,
+            "width": 0.205882,
+            "height": 0.030303
+        }
+    ]
+}

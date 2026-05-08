@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-DL6CM6683_00001.jpg",
+    "image_width": 700,
+    "image_height": 525,
+    "annotations": [
+        {
+            "vehicle_number": "DL6CM6683",
+            "class_id": 0,
+            "xmin": 302,
+            "ymin": 363,
+            "xmax": 406,
+            "ymax": 389,
+            "x_center": 0.505714,
+            "y_center": 0.71619,
+            "width": 0.148571,
+            "height": 0.049524
+        }
+    ]
+}

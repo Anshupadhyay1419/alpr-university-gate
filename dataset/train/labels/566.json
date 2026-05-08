@@ -1,0 +1,19 @@
+{
+    "filename": "CH8.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "CH01A09331",
+            "class_id": 0,
+            "xmin": 59,
+            "ymin": 184,
+            "xmax": 140,
+            "ymax": 201,
+            "x_center": 0.365809,
+            "y_center": 0.943627,
+            "width": 0.297794,
+            "height": 0.083333
+        }
+    ]
+}

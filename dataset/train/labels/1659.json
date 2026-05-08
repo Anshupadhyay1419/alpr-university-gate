@@ -1,0 +1,19 @@
+{
+    "filename": "video8_750.jpg",
+    "image_width": 578,
+    "image_height": 851,
+    "annotations": [
+        {
+            "vehicle_number": "MH01CR7388",
+            "class_id": 0,
+            "xmin": 122,
+            "ymin": 488,
+            "xmax": 238,
+            "ymax": 530,
+            "x_center": 0.311419,
+            "y_center": 0.59812,
+            "width": 0.200692,
+            "height": 0.049354
+        }
+    ]
+}

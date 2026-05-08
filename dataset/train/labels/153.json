@@ -1,0 +1,19 @@
+{
+    "filename": "8dbb3ea7-8512-49e4-9ede-d4647e3b7dd2___158712081_5_1000x700_toyota-innova-v-2010-7seat-life-tax-kerala_rev001.jpg.jpeg",
+    "image_width": 1000,
+    "image_height": 562,
+    "annotations": [
+        {
+            "vehicle_number": "KL02AF6363",
+            "class_id": 0,
+            "xmin": 463,
+            "ymin": 289,
+            "xmax": 558,
+            "ymax": 345,
+            "x_center": 0.5105,
+            "y_center": 0.564057,
+            "width": 0.095,
+            "height": 0.099644
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "e1d7921f-5e58-46c7-b4f9-9fd4585508f1___IMG_9072.jpg.jpeg",
+    "image_width": 640,
+    "image_height": 555,
+    "annotations": [
+        {
+            "vehicle_number": "GJ1KF1111",
+            "class_id": 0,
+            "xmin": 444,
+            "ymin": 262,
+            "xmax": 640,
+            "ymax": 346,
+            "x_center": 0.846875,
+            "y_center": 0.547748,
+            "width": 0.30625,
+            "height": 0.151351
+        }
+    ]
+}

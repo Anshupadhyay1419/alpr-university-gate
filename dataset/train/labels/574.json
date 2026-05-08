@@ -1,0 +1,19 @@
+{
+    "filename": "DL15.jpg",
+    "image_width": 272,
+    "image_height": 292,
+    "annotations": [
+        {
+            "vehicle_number": "DL8CZ7230",
+            "class_id": 0,
+            "xmin": 164,
+            "ymin": 162,
+            "xmax": 226,
+            "ymax": 189,
+            "x_center": 0.716912,
+            "y_center": 0.601027,
+            "width": 0.227941,
+            "height": 0.092466
+        }
+    ]
+}

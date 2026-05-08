@@ -1,0 +1,19 @@
+{
+    "filename": "JH9.jpg",
+    "image_width": 272,
+    "image_height": 153,
+    "annotations": [
+        {
+            "vehicle_number": "JH01BU9956",
+            "class_id": 0,
+            "xmin": 114,
+            "ymin": 140,
+            "xmax": 169,
+            "ymax": 153,
+            "x_center": 0.520221,
+            "y_center": 0.957516,
+            "width": 0.202206,
+            "height": 0.084967
+        }
+    ]
+}

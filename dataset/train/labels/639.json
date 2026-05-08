@@ -1,0 +1,19 @@
+{
+    "filename": "GJ24.jpg",
+    "image_width": 272,
+    "image_height": 581,
+    "annotations": [
+        {
+            "vehicle_number": "GJ23CC8798",
+            "class_id": 0,
+            "xmin": 102,
+            "ymin": 348,
+            "xmax": 172,
+            "ymax": 365,
+            "x_center": 0.503676,
+            "y_center": 0.613597,
+            "width": 0.257353,
+            "height": 0.02926
+        }
+    ]
+}

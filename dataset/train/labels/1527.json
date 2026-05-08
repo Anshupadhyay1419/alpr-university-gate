@@ -1,0 +1,19 @@
+{
+    "filename": "video4_3830.jpg",
+    "image_width": 740,
+    "image_height": 706,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DW8021",
+            "class_id": 0,
+            "xmin": 243,
+            "ymin": 397,
+            "xmax": 388,
+            "ymax": 442,
+            "x_center": 0.426351,
+            "y_center": 0.594193,
+            "width": 0.195946,
+            "height": 0.063739
+        }
+    ]
+}

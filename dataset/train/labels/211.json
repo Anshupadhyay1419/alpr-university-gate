@@ -1,0 +1,19 @@
+{
+    "filename": "bff789cd-2d58-4399-a55e-33be55f313e3___IMG_0472.jpg.jpeg",
+    "image_width": 700,
+    "image_height": 525,
+    "annotations": [
+        {
+            "vehicle_number": "MH02CT2727",
+            "class_id": 0,
+            "xmin": 272,
+            "ymin": 331,
+            "xmax": 482,
+            "ymax": 384,
+            "x_center": 0.538571,
+            "y_center": 0.680952,
+            "width": 0.3,
+            "height": 0.100952
+        }
+    ]
+}

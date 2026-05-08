@@ -1,0 +1,19 @@
+{
+    "filename": "video8_970.jpg",
+    "image_width": 770,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH04CT3566",
+            "class_id": 0,
+            "xmin": 114,
+            "ymin": 410,
+            "xmax": 223,
+            "ymax": 455,
+            "x_center": 0.218831,
+            "y_center": 0.400463,
+            "width": 0.141558,
+            "height": 0.041667
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-DL10CG4693_00000.jpeg",
+    "image_width": 500,
+    "image_height": 252,
+    "annotations": [
+        {
+            "vehicle_number": "DL10CG4693",
+            "class_id": 0,
+            "xmin": 147,
+            "ymin": 100,
+            "xmax": 370,
+            "ymax": 152,
+            "x_center": 0.517,
+            "y_center": 0.5,
+            "width": 0.446,
+            "height": 0.206349
+        }
+    ]
+}

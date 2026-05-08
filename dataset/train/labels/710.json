@@ -1,0 +1,19 @@
+{
+    "filename": "JH7.jpg",
+    "image_width": 272,
+    "image_height": 126,
+    "annotations": [
+        {
+            "vehicle_number": "JH01BX0013",
+            "class_id": 0,
+            "xmin": 113,
+            "ymin": 81,
+            "xmax": 167,
+            "ymax": 93,
+            "x_center": 0.514706,
+            "y_center": 0.690476,
+            "width": 0.198529,
+            "height": 0.095238
+        }
+    ]
+}

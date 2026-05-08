@@ -1,0 +1,19 @@
+{
+    "filename": "8187c22d-5fa4-4976-9c00-80b2ab66b97d___1290890d1411349145-take-look-number-plate-img_20140903_093600_hdr.jpg.jpeg",
+    "image_width": 550,
+    "image_height": 534,
+    "annotations": [
+        {
+            "vehicle_number": "TS09EB1458",
+            "class_id": 0,
+            "xmin": 94,
+            "ymin": 241,
+            "xmax": 241,
+            "ymax": 321,
+            "x_center": 0.304545,
+            "y_center": 0.526217,
+            "width": 0.267273,
+            "height": 0.149813
+        }
+    ]
+}

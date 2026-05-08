@@ -1,0 +1,19 @@
+{
+    "filename": "video3_470.jpg",
+    "image_width": 1192,
+    "image_height": 1072,
+    "annotations": [
+        {
+            "vehicle_number": "MH02EP5740",
+            "class_id": 0,
+            "xmin": 171,
+            "ymin": 487,
+            "xmax": 330,
+            "ymax": 536,
+            "x_center": 0.210151,
+            "y_center": 0.477146,
+            "width": 0.133389,
+            "height": 0.045709
+        }
+    ]
+}

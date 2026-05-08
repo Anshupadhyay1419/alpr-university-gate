@@ -1,0 +1,19 @@
+{
+    "filename": "video11_210.jpg",
+    "image_width": 1010,
+    "image_height": 888,
+    "annotations": [
+        {
+            "vehicle_number": "MH43BK9513",
+            "class_id": 0,
+            "xmin": 319,
+            "ymin": 423,
+            "xmax": 562,
+            "ymax": 483,
+            "x_center": 0.436139,
+            "y_center": 0.510135,
+            "width": 0.240594,
+            "height": 0.067568
+        }
+    ]
+}

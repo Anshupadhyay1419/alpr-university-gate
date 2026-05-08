@@ -1,0 +1,19 @@
+{
+    "filename": "DL1.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "DL6CJ8404",
+            "class_id": 0,
+            "xmin": 89,
+            "ymin": 235,
+            "xmax": 176,
+            "ymax": 255,
+            "x_center": 0.487132,
+            "y_center": 0.674931,
+            "width": 0.319853,
+            "height": 0.055096
+        }
+    ]
+}

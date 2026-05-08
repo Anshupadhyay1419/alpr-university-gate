@@ -1,0 +1,19 @@
+{
+    "filename": "JK22.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "JK01AL4613",
+            "class_id": 0,
+            "xmin": 99,
+            "ymin": 135,
+            "xmax": 155,
+            "ymax": 150,
+            "x_center": 0.466912,
+            "y_center": 0.698529,
+            "width": 0.205882,
+            "height": 0.073529
+        }
+    ]
+}

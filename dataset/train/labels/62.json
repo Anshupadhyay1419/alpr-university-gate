@@ -1,0 +1,19 @@
+{
+    "filename": "347c849b-6cfa-4edb-af1f-b29bdad25c4d___new_New-Volkswagen-Polo.jpg.jpeg",
+    "image_width": 249,
+    "image_height": 239,
+    "annotations": [
+        {
+            "vehicle_number": "W0BNP300",
+            "class_id": 0,
+            "xmin": 20,
+            "ymin": 128,
+            "xmax": 136,
+            "ymax": 158,
+            "x_center": 0.313253,
+            "y_center": 0.598326,
+            "width": 0.465863,
+            "height": 0.125523
+        }
+    ]
+}

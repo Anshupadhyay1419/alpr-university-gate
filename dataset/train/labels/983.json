@@ -1,0 +1,19 @@
+{
+    "filename": "TS7.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "TS08EZ9463",
+            "class_id": 0,
+            "xmin": 100,
+            "ymin": 229,
+            "xmax": 178,
+            "ymax": 247,
+            "x_center": 0.511029,
+            "y_center": 0.655647,
+            "width": 0.286765,
+            "height": 0.049587
+        }
+    ]
+}

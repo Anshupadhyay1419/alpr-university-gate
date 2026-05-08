@@ -1,0 +1,19 @@
+{
+    "filename": "41de2ad0-3785-488e-9f1f-75b76f446cc7___Maruti-Alto-K10-Photos-2.jpg.jpeg",
+    "image_width": 450,
+    "image_height": 417,
+    "annotations": [
+        {
+            "vehicle_number": "HR26CT4063",
+            "class_id": 0,
+            "xmin": 130,
+            "ymin": 305,
+            "xmax": 304,
+            "ymax": 354,
+            "x_center": 0.482222,
+            "y_center": 0.790168,
+            "width": 0.386667,
+            "height": 0.117506
+        }
+    ]
+}

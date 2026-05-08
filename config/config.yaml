@@ -1,0 +1,95 @@
+video:
+  source: "ALPR.mp4"              # local video file
+  frame_skip: 2                            # process every Nth frame
+  max_retries: 5                           # reconnect attempts on failure
+
+detection:
+  vehicle_model_path: "models/vehicle_detector/yolov8n.pt"
+  vehicle_confidence: 0.5
+  plate_model_path: "models/plate_detector/best.pt"
+  plate_confidence: 0.4
+
+tracking:
+  lost_track_timeout: 30                   # frames before track is retired
+
+preprocessing:
+  clahe_clip_limit: 2.0
+  clahe_tile_size: 8
+  denoise_h: 10
+  sharpen_strength: 1.5
+
+enhancement:
+  sr_threshold_px: 99999        # apply Real-ESRGAN to ALL plate crops compulsorily
+  realesrgan_model_path: "models/realesrgan/RealESRGAN_x4plus.pth"
+
+ocr:
+  backend: "paddleocr"                     # "paddleocr" | "trocr"
+  paddleocr:
+    use_angle_cls: true
+    lang: "en"
+  trocr:
+    model_name: "microsoft/trocr-base-printed"
+
+fusion:
+  window_size: 5                           # majority vote over 5 reads for accuracy
+  min_confidence: 0.55                     # minimum confidence threshold
+
+deduplication:
+  window_seconds: 30
+
+color_classifier:
+  hsv_ranges:
+    White: [[0, 180], [0, 30], [200, 255]]
+    Yellow: [[20, 35], [100, 255], [100, 255]]
+    Green: [[40, 80], [50, 255], [50, 255]]
+    Red: [[0, 10], [100, 255], [100, 255]]
+    Red2: [[160, 180], [100, 255], [100, 255]]
+    Blue: [[100, 130], [100, 255], [100, 255]]
+    Black: [[0, 180], [0, 255], [0, 50]]
+    Army_Green: [[35, 75], [30, 120], [30, 120]]
+
+direction:
+  virtual_line: {x1: 0, y1: 360, x2: 1280, y2: 360}
+  dual_camera: false
+
+motion_filter:
+  min_displacement_px: 2.0     # very low — Real-ESRGAN slows frame rate so less movement per frame
+  history_frames: 3            # fewer frames needed
+
+database:
+  path: "data/alpr.db"
+  image_save_path: "data/plate_crops/"
+
+api:
+  host: "0.0.0.0"
+  port: 8000
+
+dashboard:
+  enabled: true
+  refresh_interval_seconds: 3
+
+logging:
+  log_file: "logs/alpr.log"
+  max_bytes: 10485760
+  backup_count: 5
+
+training:
+  pretrained_weights: "yolov8m.pt"
+  epochs: 100
+  image_size: 640
+  batch_size: 8        # RTX 3050 4GB VRAM — safe batch size
+  workers: 4           # data loader workers
+  device: "0"          # GPU 0 (CUDA)
+  cache: false         # set true if you have 16GB+ RAM to cache dataset
+  amp: true            # mixed precision — faster on RTX 30xx, saves VRAM
+  compute_flops: true  # compute GFLOPs during evaluation
+  test_split_count: 300
+  augmentation:
+    brightness_range: [-0.2, 0.2]
+    contrast_range: [0.8, 1.2]
+    blur_kernel_max: 5
+    blur_probability: 0.3
+    noise_std_range: [5, 25]
+    fog_intensity: 0.3
+    fog_probability: 0.2
+    rotation_degrees: 10

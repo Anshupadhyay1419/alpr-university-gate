@@ -1,0 +1,19 @@
+{
+    "filename": "UK5.jpg",
+    "image_width": 272,
+    "image_height": 204,
+    "annotations": [
+        {
+            "vehicle_number": "UK106679",
+            "class_id": 0,
+            "xmin": 108,
+            "ymin": 144,
+            "xmax": 176,
+            "ymax": 158,
+            "x_center": 0.522059,
+            "y_center": 0.740196,
+            "width": 0.25,
+            "height": 0.068627
+        }
+    ]
+}

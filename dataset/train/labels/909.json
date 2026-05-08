@@ -1,0 +1,19 @@
+{
+    "filename": "PB6.jpg",
+    "image_width": 271,
+    "image_height": 331,
+    "annotations": [
+        {
+            "vehicle_number": "PB13AF6756",
+            "class_id": 0,
+            "xmin": 107,
+            "ymin": 257,
+            "xmax": 201,
+            "ymax": 285,
+            "x_center": 0.568266,
+            "y_center": 0.818731,
+            "width": 0.346863,
+            "height": 0.084592
+        }
+    ]
+}

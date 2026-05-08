@@ -1,0 +1,19 @@
+{
+    "filename": "bb210ab4-795c-4b2b-9b6e-4597cbc67375___White-2BPlate.jpeg",
+    "image_width": 442,
+    "image_height": 333,
+    "annotations": [
+        {
+            "vehicle_number": "MH01AV8866",
+            "class_id": 0,
+            "xmin": 164,
+            "ymin": 223,
+            "xmax": 274,
+            "ymax": 247,
+            "x_center": 0.495475,
+            "y_center": 0.705706,
+            "width": 0.248869,
+            "height": 0.072072
+        }
+    ]
+}

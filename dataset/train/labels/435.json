@@ -1,0 +1,19 @@
+{
+    "filename": "fb939bb1-5257-4879-bafb-539472ffb73d___Maruti-Suzuki-Brezza-Number-Plates-Design.jpg.jpeg",
+    "image_width": 484,
+    "image_height": 456,
+    "annotations": [
+        {
+            "vehicle_number": "KL10AW2111",
+            "class_id": 0,
+            "xmin": 187,
+            "ymin": 214,
+            "xmax": 336,
+            "ymax": 253,
+            "x_center": 0.540289,
+            "y_center": 0.512061,
+            "width": 0.307851,
+            "height": 0.085526
+        }
+    ]
+}

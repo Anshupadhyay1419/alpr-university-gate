@@ -1,0 +1,19 @@
+{
+    "filename": "MH4.jpg",
+    "image_width": 271,
+    "image_height": 487,
+    "annotations": [
+        {
+            "vehicle_number": "MH12MF6822",
+            "class_id": 0,
+            "xmin": 92,
+            "ymin": 190,
+            "xmax": 176,
+            "ymax": 207,
+            "x_center": 0.494465,
+            "y_center": 0.407598,
+            "width": 0.309963,
+            "height": 0.034908
+        }
+    ]
+}

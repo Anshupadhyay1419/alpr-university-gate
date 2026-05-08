@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR26DA0471_00000.jpeg",
+    "image_width": 600,
+    "image_height": 337,
+    "annotations": [
+        {
+            "vehicle_number": "HR26DA0471",
+            "class_id": 0,
+            "xmin": 157,
+            "ymin": 228,
+            "xmax": 313,
+            "ymax": 276,
+            "x_center": 0.391667,
+            "y_center": 0.747774,
+            "width": 0.26,
+            "height": 0.142433
+        }
+    ]
+}

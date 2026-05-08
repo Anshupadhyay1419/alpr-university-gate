@@ -1,0 +1,19 @@
+{
+    "filename": "video11_2800.jpg",
+    "image_width": 770,
+    "image_height": 377,
+    "annotations": [
+        {
+            "vehicle_number": "MH02WA8344",
+            "class_id": 0,
+            "xmin": 240,
+            "ymin": 189,
+            "xmax": 358,
+            "ymax": 242,
+            "x_center": 0.388312,
+            "y_center": 0.571618,
+            "width": 0.153247,
+            "height": 0.140584
+        }
+    ]
+}

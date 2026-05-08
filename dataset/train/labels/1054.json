@@ -1,0 +1,19 @@
+{
+    "filename": "car-ybs-MH46BF2342_00000.png",
+    "image_width": 646,
+    "image_height": 225,
+    "annotations": [
+        {
+            "vehicle_number": "MH46BF2342",
+            "class_id": 0,
+            "xmin": 184,
+            "ymin": 115,
+            "xmax": 411,
+            "ymax": 176,
+            "x_center": 0.460526,
+            "y_center": 0.646667,
+            "width": 0.351393,
+            "height": 0.271111
+        }
+    ]
+}

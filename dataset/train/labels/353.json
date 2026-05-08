@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TN09CH7770_00000.jpeg",
+    "image_width": 261,
+    "image_height": 166,
+    "annotations": [
+        {
+            "vehicle_number": "TN09CH7770",
+            "class_id": 0,
+            "xmin": 120,
+            "ymin": 19,
+            "xmax": 235,
+            "ymax": 54,
+            "x_center": 0.680077,
+            "y_center": 0.21988,
+            "width": 0.440613,
+            "height": 0.210843
+        }
+    ]
+}

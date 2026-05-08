@@ -1,0 +1,19 @@
+{
+    "filename": "video3_1880.jpg",
+    "image_width": 394,
+    "image_height": 741,
+    "annotations": [
+        {
+            "vehicle_number": "MH02EU4077",
+            "class_id": 0,
+            "xmin": 119,
+            "ymin": 475,
+            "xmax": 219,
+            "ymax": 501,
+            "x_center": 0.428934,
+            "y_center": 0.65857,
+            "width": 0.253807,
+            "height": 0.035088
+        }
+    ]
+}

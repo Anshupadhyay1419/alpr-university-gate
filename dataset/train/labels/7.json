@@ -1,0 +1,19 @@
+{
+    "filename": "074d85b8-42ec-4d17-9b8e-9e51ae060243___hqdefault.jpg.jpeg",
+    "image_width": 480,
+    "image_height": 360,
+    "annotations": [
+        {
+            "vehicle_number": "TN43J0158",
+            "class_id": 0,
+            "xmin": 142,
+            "ymin": 148,
+            "xmax": 316,
+            "ymax": 230,
+            "x_center": 0.477083,
+            "y_center": 0.525,
+            "width": 0.3625,
+            "height": 0.227778
+        }
+    ]
+}

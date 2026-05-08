@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-HR99EX6037_00000.jpeg",
+    "image_width": 500,
+    "image_height": 416,
+    "annotations": [
+        {
+            "vehicle_number": "HR99EX6037",
+            "class_id": 0,
+            "xmin": 149,
+            "ymin": 252,
+            "xmax": 343,
+            "ymax": 302,
+            "x_center": 0.492,
+            "y_center": 0.665865,
+            "width": 0.388,
+            "height": 0.120192
+        }
+    ]
+}

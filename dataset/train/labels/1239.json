@@ -1,0 +1,19 @@
+{
+    "filename": "video11_3910.jpg",
+    "image_width": 817,
+    "image_height": 508,
+    "annotations": [
+        {
+            "vehicle_number": "MH04JM3383",
+            "class_id": 0,
+            "xmin": 462,
+            "ymin": 147,
+            "xmax": 648,
+            "ymax": 198,
+            "x_center": 0.679315,
+            "y_center": 0.339567,
+            "width": 0.227662,
+            "height": 0.100394
+        }
+    ]
+}

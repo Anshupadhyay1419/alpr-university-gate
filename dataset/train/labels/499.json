@@ -1,0 +1,19 @@
+{
+    "filename": "AS1.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "AS23H2866",
+            "class_id": 0,
+            "xmin": 143,
+            "ymin": 251,
+            "xmax": 216,
+            "ymax": 271,
+            "x_center": 0.659926,
+            "y_center": 0.719008,
+            "width": 0.268382,
+            "height": 0.055096
+        }
+    ]
+}

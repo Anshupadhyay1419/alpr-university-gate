@@ -1,0 +1,19 @@
+{
+    "filename": "7506a48d-2c70-4b12-b300-463754bc7837___165979d1427773878-new-volkswagen-vento-2016-launched-india-vw-vento-facelift-rear-india-spotted-test.jpg.jpeg",
+    "image_width": 850,
+    "image_height": 681,
+    "annotations": [
+        {
+            "vehicle_number": "MH14TCF459",
+            "class_id": 0,
+            "xmin": 335,
+            "ymin": 272,
+            "xmax": 535,
+            "ymax": 319,
+            "x_center": 0.511765,
+            "y_center": 0.433921,
+            "width": 0.235294,
+            "height": 0.069016
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video10_160.jpg",
+    "image_width": 790,
+    "image_height": 555,
+    "annotations": [
+        {
+            "vehicle_number": "MH02EK0837",
+            "class_id": 0,
+            "xmin": 160,
+            "ymin": 356,
+            "xmax": 333,
+            "ymax": 412,
+            "x_center": 0.312025,
+            "y_center": 0.691892,
+            "width": 0.218987,
+            "height": 0.100901
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH20BY3665_00001.jpeg",
+    "image_width": 228,
+    "image_height": 100,
+    "annotations": [
+        {
+            "vehicle_number": "MH20BY3665",
+            "class_id": 0,
+            "xmin": 43,
+            "ymin": 14,
+            "xmax": 179,
+            "ymax": 43,
+            "x_center": 0.486842,
+            "y_center": 0.285,
+            "width": 0.596491,
+            "height": 0.29
+        }
+    ]
+}

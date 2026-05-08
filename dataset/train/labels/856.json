@@ -1,0 +1,19 @@
+{
+    "filename": "NL2.jpg",
+    "image_width": 271,
+    "image_height": 333,
+    "annotations": [
+        {
+            "vehicle_number": "NL01CB433",
+            "class_id": 0,
+            "xmin": 77,
+            "ymin": 303,
+            "xmax": 178,
+            "ymax": 332,
+            "x_center": 0.47048,
+            "y_center": 0.953453,
+            "width": 0.372694,
+            "height": 0.087087
+        }
+    ]
+}

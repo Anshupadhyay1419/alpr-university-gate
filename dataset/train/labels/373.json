@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TN66U8215_00000.jpeg",
+    "image_width": 497,
+    "image_height": 244,
+    "annotations": [
+        {
+            "vehicle_number": "TN66U8215",
+            "class_id": 0,
+            "xmin": 52,
+            "ymin": 89,
+            "xmax": 401,
+            "ymax": 176,
+            "x_center": 0.455734,
+            "y_center": 0.543033,
+            "width": 0.702213,
+            "height": 0.356557
+        }
+    ]
+}

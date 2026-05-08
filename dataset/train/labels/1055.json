@@ -1,0 +1,19 @@
+{
+    "filename": "car-ybs-MH47N4570_00000.png",
+    "image_width": 454,
+    "image_height": 452,
+    "annotations": [
+        {
+            "vehicle_number": "MH47N4570",
+            "class_id": 0,
+            "xmin": 155,
+            "ymin": 239,
+            "xmax": 311,
+            "ymax": 285,
+            "x_center": 0.513216,
+            "y_center": 0.579646,
+            "width": 0.343612,
+            "height": 0.10177
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "KL5.jpg",
+    "image_width": 272,
+    "image_height": 233,
+    "annotations": [
+        {
+            "vehicle_number": "KL34A7564",
+            "class_id": 0,
+            "xmin": 100,
+            "ymin": 158,
+            "xmax": 162,
+            "ymax": 171,
+            "x_center": 0.481618,
+            "y_center": 0.706009,
+            "width": 0.227941,
+            "height": 0.055794
+        }
+    ]
+}

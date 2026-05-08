@@ -1,0 +1,19 @@
+{
+    "filename": "HP20.jpg",
+    "image_width": 153,
+    "image_height": 272,
+    "annotations": [
+        {
+            "vehicle_number": "HP2020TR6255G",
+            "class_id": 0,
+            "xmin": 44,
+            "ymin": 158,
+            "xmax": 98,
+            "ymax": 175,
+            "x_center": 0.464052,
+            "y_center": 0.612132,
+            "width": 0.352941,
+            "height": 0.0625
+        }
+    ]
+}

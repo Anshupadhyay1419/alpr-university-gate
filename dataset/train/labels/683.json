@@ -1,0 +1,19 @@
+{
+    "filename": "HR19.jpg",
+    "image_width": 271,
+    "image_height": 185,
+    "annotations": [
+        {
+            "vehicle_number": "HR29AQ4939",
+            "class_id": 0,
+            "xmin": 100,
+            "ymin": 147,
+            "xmax": 167,
+            "ymax": 161,
+            "x_center": 0.49262,
+            "y_center": 0.832432,
+            "width": 0.247232,
+            "height": 0.075676
+        }
+    ]
+}

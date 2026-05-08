@@ -1,0 +1,19 @@
+{
+    "filename": "WB25.jpg",
+    "image_width": 272,
+    "image_height": 172,
+    "annotations": [
+        {
+            "vehicle_number": "WB06H2237",
+            "class_id": 0,
+            "xmin": 17,
+            "ymin": 116,
+            "xmax": 64,
+            "ymax": 139,
+            "x_center": 0.148897,
+            "y_center": 0.741279,
+            "width": 0.172794,
+            "height": 0.133721
+        }
+    ]
+}

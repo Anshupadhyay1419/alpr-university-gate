@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-TN74AH1413_00000.jpeg",
+    "image_width": 344,
+    "image_height": 358,
+    "annotations": [
+        {
+            "vehicle_number": "TN74AH1413",
+            "class_id": 0,
+            "xmin": 41,
+            "ymin": 224,
+            "xmax": 149,
+            "ymax": 251,
+            "x_center": 0.276163,
+            "y_center": 0.663408,
+            "width": 0.313953,
+            "height": 0.075419
+        }
+    ]
+}

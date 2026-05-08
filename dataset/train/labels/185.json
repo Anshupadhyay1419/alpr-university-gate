@@ -1,0 +1,19 @@
+{
+    "filename": "af36405d-be93-4c8c-b1b2-5a0832535eeb___main-qimg-4caf07f4dfd9e2a2d279ddd54fb91986-c.jpg.jpeg",
+    "image_width": 602,
+    "image_height": 339,
+    "annotations": [
+        {
+            "vehicle_number": "TN59AQ1515",
+            "class_id": 0,
+            "xmin": 121,
+            "ymin": 162,
+            "xmax": 243,
+            "ymax": 201,
+            "x_center": 0.302326,
+            "y_center": 0.535398,
+            "width": 0.202658,
+            "height": 0.115044
+        }
+    ]
+}

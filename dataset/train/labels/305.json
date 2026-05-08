@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-MH02CB4545_00000.jpeg",
+    "image_width": 494,
+    "image_height": 259,
+    "annotations": [
+        {
+            "vehicle_number": "MH02CB4545",
+            "class_id": 0,
+            "xmin": 86,
+            "ymin": 199,
+            "xmax": 257,
+            "ymax": 259,
+            "x_center": 0.347166,
+            "y_center": 0.88417,
+            "width": 0.346154,
+            "height": 0.23166
+        }
+    ]
+}

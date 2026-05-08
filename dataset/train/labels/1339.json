@@ -1,0 +1,19 @@
+{
+    "filename": "video2_4010.jpg",
+    "image_width": 1612,
+    "image_height": 1080,
+    "annotations": [
+        {
+            "vehicle_number": "MH02AQ2299",
+            "class_id": 0,
+            "xmin": 147,
+            "ymin": 648,
+            "xmax": 618,
+            "ymax": 798,
+            "x_center": 0.237283,
+            "y_center": 0.669444,
+            "width": 0.292184,
+            "height": 0.138889
+        }
+    ]
+}

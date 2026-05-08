@@ -1,0 +1,19 @@
+{
+    "filename": "DL18.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "DL1CS8739",
+            "class_id": 0,
+            "xmin": 98,
+            "ymin": 217,
+            "xmax": 167,
+            "ymax": 233,
+            "x_center": 0.487132,
+            "y_center": 0.619835,
+            "width": 0.253676,
+            "height": 0.044077
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "AP33.jpg",
+    "image_width": 272,
+    "image_height": 484,
+    "annotations": [
+        {
+            "vehicle_number": "AP31DA0020",
+            "class_id": 0,
+            "xmin": 98,
+            "ymin": 231,
+            "xmax": 182,
+            "ymax": 251,
+            "x_center": 0.514706,
+            "y_center": 0.497934,
+            "width": 0.308824,
+            "height": 0.041322
+        }
+    ]
+}

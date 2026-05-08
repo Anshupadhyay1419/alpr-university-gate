@@ -1,0 +1,19 @@
+{
+    "filename": "video2_390.jpg",
+    "image_width": 1632,
+    "image_height": 1066,
+    "annotations": [
+        {
+            "vehicle_number": "MH02DN8718",
+            "class_id": 0,
+            "xmin": 332,
+            "ymin": 563,
+            "xmax": 855,
+            "ymax": 778,
+            "x_center": 0.363664,
+            "y_center": 0.628987,
+            "width": 0.320466,
+            "height": 0.201689
+        }
+    ]
+}

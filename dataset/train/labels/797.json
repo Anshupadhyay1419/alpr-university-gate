@@ -1,0 +1,19 @@
+{
+    "filename": "MH25.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "MH12FK1392",
+            "class_id": 0,
+            "xmin": 89,
+            "ymin": 264,
+            "xmax": 178,
+            "ymax": 284,
+            "x_center": 0.490809,
+            "y_center": 0.754821,
+            "width": 0.327206,
+            "height": 0.055096
+        }
+    ]
+}

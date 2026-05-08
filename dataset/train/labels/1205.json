@@ -1,0 +1,19 @@
+{
+    "filename": "video11_2740.jpg",
+    "image_width": 1115,
+    "image_height": 1021,
+    "annotations": [
+        {
+            "vehicle_number": "MH03BS4060",
+            "class_id": 0,
+            "xmin": 169,
+            "ymin": 216,
+            "xmax": 574,
+            "ymax": 346,
+            "x_center": 0.333184,
+            "y_center": 0.27522,
+            "width": 0.363229,
+            "height": 0.127326
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "be483d11-33f0-4c1f-87b6-9844eea28996___1093346d1370435964-take-look-number-plate-photo.jpg.jpeg",
+    "image_width": 550,
+    "image_height": 537,
+    "annotations": [
+        {
+            "vehicle_number": "KA5122727",
+            "class_id": 0,
+            "xmin": 268,
+            "ymin": 260,
+            "xmax": 389,
+            "ymax": 302,
+            "x_center": 0.597273,
+            "y_center": 0.523277,
+            "width": 0.22,
+            "height": 0.078212
+        }
+    ]
+}

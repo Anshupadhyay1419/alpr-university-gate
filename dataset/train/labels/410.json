@@ -1,0 +1,19 @@
+{
+    "filename": "e663fa35-ce3c-401d-8451-30edd236b3e4___maxresdefault2.jpg.jpeg",
+    "image_width": 1280,
+    "image_height": 720,
+    "annotations": [
+        {
+            "vehicle_number": "KL49H5270",
+            "class_id": 0,
+            "xmin": 374,
+            "ymin": 266,
+            "xmax": 753,
+            "ymax": 442,
+            "x_center": 0.440234,
+            "y_center": 0.491667,
+            "width": 0.296094,
+            "height": 0.244444
+        }
+    ]
+}

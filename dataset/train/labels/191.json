@@ -1,0 +1,19 @@
+{
+    "filename": "b3e82163-400b-4211-bb99-a5b53fb13a25___new_IMG_8883.jpg.jpeg",
+    "image_width": 229,
+    "image_height": 140,
+    "annotations": [
+        {
+            "vehicle_number": "MH20BY3665",
+            "class_id": 0,
+            "xmin": 43,
+            "ymin": 52,
+            "xmax": 180,
+            "ymax": 85,
+            "x_center": 0.4869,
+            "y_center": 0.489286,
+            "width": 0.598253,
+            "height": 0.235714
+        }
+    ]
+}

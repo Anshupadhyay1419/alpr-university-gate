@@ -1,0 +1,19 @@
+{
+    "filename": "AS17.jpg",
+    "image_width": 271,
+    "image_height": 342,
+    "annotations": [
+        {
+            "vehicle_number": "AS01AR1986",
+            "class_id": 0,
+            "xmin": 89,
+            "ymin": 250,
+            "xmax": 182,
+            "ymax": 268,
+            "x_center": 0.5,
+            "y_center": 0.75731,
+            "width": 0.343173,
+            "height": 0.052632
+        }
+    ]
+}

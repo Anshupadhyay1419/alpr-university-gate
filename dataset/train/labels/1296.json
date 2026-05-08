@@ -1,0 +1,19 @@
+{
+    "filename": "video12_150.jpg",
+    "image_width": 1089,
+    "image_height": 927,
+    "annotations": [
+        {
+            "vehicle_number": "GJ15CD0564",
+            "class_id": 0,
+            "xmin": 16,
+            "ymin": 652,
+            "xmax": 653,
+            "ymax": 837,
+            "x_center": 0.307163,
+            "y_center": 0.803128,
+            "width": 0.58494,
+            "height": 0.199569
+        }
+    ]
+}

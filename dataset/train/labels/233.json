@@ -1,0 +1,19 @@
+{
+    "filename": "car-wbs-DL8CX4850_00000.png",
+    "image_width": 400,
+    "image_height": 300,
+    "annotations": [
+        {
+            "vehicle_number": "DL8CX4850",
+            "class_id": 0,
+            "xmin": 121,
+            "ymin": 198,
+            "xmax": 263,
+            "ymax": 233,
+            "x_center": 0.48,
+            "y_center": 0.718333,
+            "width": 0.355,
+            "height": 0.116667
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "video5_1820.jpg",
+    "image_width": 1184,
+    "image_height": 784,
+    "annotations": [
+        {
+            "vehicle_number": "MH01CV6333",
+            "class_id": 0,
+            "xmin": 340,
+            "ymin": 90,
+            "xmax": 756,
+            "ymax": 209,
+            "x_center": 0.462838,
+            "y_center": 0.190689,
+            "width": 0.351351,
+            "height": 0.151786
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "filename": "AP22.jpg",
+    "image_width": 272,
+    "image_height": 363,
+    "annotations": [
+        {
+            "vehicle_number": "AP16CH9545",
+            "class_id": 0,
+            "xmin": 74,
+            "ymin": 229,
+            "xmax": 172,
+            "ymax": 248,
+            "x_center": 0.452206,
+            "y_center": 0.657025,
+            "width": 0.360294,
+            "height": 0.052342
+        }
+    ]
+}

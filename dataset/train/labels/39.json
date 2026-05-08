@@ -1,0 +1,19 @@
+{
+    "filename": "21cc678a-b9c5-4bbb-ace0-9e096e799632___unnamed-300x225.jpg.jpeg",
+    "image_width": 160,
+    "image_height": 224,
+    "annotations": [
+        {
+            "vehicle_number": "DL13S0155",
+            "class_id": 0,
+            "xmin": 82,
+            "ymin": 181,
+            "xmax": 146,
+            "ymax": 224,
+            "x_center": 0.7125,
+            "y_center": 0.904018,
+            "width": 0.4,
+            "height": 0.191964
+        }
+    ]
+}
