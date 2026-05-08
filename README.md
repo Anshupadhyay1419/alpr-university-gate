@@ -1,10 +1,10 @@
-# 🚗 ALPR University Gate System
+#  ALPR University Gate System
 
 A production-quality **Automatic License Plate Recognition (ALPR)** system built for university gate access monitoring. It detects vehicles in video streams, reads Indian license plates using a custom-trained YOLOv8m model + PaddleOCR, classifies vehicle types, and logs every entry/exit event to a SQLite database with a live Streamlit dashboard and REST API.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Features](#-features)
 - [Pipeline Overview](#-pipeline-overview)
@@ -25,7 +25,7 @@ A production-quality **Automatic License Plate Recognition (ALPR)** system built
 
 ---
 
-## ✨ Features
+##  Features
 
 - Real-time vehicle detection using YOLOv8n (COCO pretrained)
 - Custom-trained YOLOv8m plate detector — **99.47% mAP50** on Indian plates
@@ -43,7 +43,7 @@ A production-quality **Automatic License Plate Recognition (ALPR)** system built
 
 ---
 
-## 🧠 Pipeline Overview
+##  Pipeline Overview
 
 ```
 Video / RTSP Input
@@ -99,7 +99,7 @@ API / Dashboard        → src/api/server.py + src/dashboard/app.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 alpr-university-gate/
@@ -197,7 +197,7 @@ alpr-university-gate/
 
 ---
 
-## 🔍 What Each File Does
+##  What Each File Does
 
 ### Entry Points
 
@@ -248,7 +248,7 @@ alpr-university-gate/
 
 ---
 
-## 🖥️ Prerequisites
+##  Prerequisites
 
 - Python **3.10** (required — PaddlePaddle 3.0.0 is not compatible with 3.11+)
 - NVIDIA GPU with CUDA 11.8 (recommended for Real-ESRGAN + training; CPU works but is slow)
@@ -256,7 +256,7 @@ alpr-university-gate/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -303,7 +303,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🤖 Model Setup
+##  Model Setup
 
 Three model files are needed. None are included in the repository (they are in `.gitignore`).
 
@@ -344,7 +344,7 @@ print('Downloaded RealESRGAN_x4plus.pth')
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 All settings live in `config/config.yaml`. You should not need to change anything except the video source.
 
@@ -401,7 +401,7 @@ database:
 
 ---
 
-## 🚀 Usage — How to Run
+##  Usage — How to Run
 
 ### Option 1: Full pipeline (recommended)
 
@@ -518,7 +518,7 @@ Open `http://localhost:8501` in your browser. The dashboard auto-refreshes every
 
 ---
 
-## 🏋️ Training Your Own Model
+##  Training Your Own Model
 
 ### Step 1 — Prepare your dataset
 
@@ -575,7 +575,7 @@ Saves `models/plate_detector/eval_report.json` with mAP, precision, recall, and 
 
 ---
 
-## 🌐 API Reference
+##  API Reference
 
 Start the server: `uvicorn src.api.server:app --host 0.0.0.0 --port 8000`
 
@@ -604,7 +604,7 @@ Full interactive docs at `http://localhost:8000/docs`.
 
 ---
 
-## 📊 Streamlit Dashboard
+##  Streamlit Dashboard
 
 ```bash
 streamlit run src/dashboard/app.py
@@ -616,7 +616,7 @@ streamlit run src/dashboard/app.py
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 ```bash
 # Run all tests
@@ -634,7 +634,7 @@ pytest tests/ --cov=src --cov-report=term-missing
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 ### Training (100 epochs, 1398 images, NVIDIA RTX 3050)
 
@@ -669,7 +669,7 @@ pytest tests/ --cov=src --cov-report=term-missing
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology | Version |
 |---|---|---|
@@ -687,7 +687,7 @@ pytest tests/ --cov=src --cov-report=term-missing
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 **`ModuleNotFoundError: No module named 'src'`**
 Run all scripts from the project root directory, not from inside `scripts/`:
@@ -722,12 +722,12 @@ Increase `lost_track_timeout` in `config.yaml` and lower `vehicle_confidence` to
 
 ---
 
-## 📝 License
+##  License
 
 This project is for educational and research purposes.
 
 ---
 
-## 👤 Author
+##  Author
 
 Developed as part of a  project for automated gate access monitoring using computer vision and deep learning.
