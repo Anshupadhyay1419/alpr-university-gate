@@ -9,8 +9,13 @@ Usage:
 
 import argparse
 import sys
+import os
 from pathlib import Path
 from collections import defaultdict
+import csv
+
+# Add parent directory to path
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import cv2
 import numpy as np
@@ -27,7 +32,7 @@ def main():
     from src.utils.logger import get_logger
     from src.detection.vehicle_detector import VehicleDetector
     from src.detection.plate_detector import PlateDetector
-    from src.ocr.paddle_ocr_engine import PaddleOCREngine
+    from src.ocr import create_ocr_engine
     from src.validation.plate_validator import PlateValidator
     from src.ocr.ocr_postprocessor import remove_noise_characters
 
@@ -43,7 +48,8 @@ def main():
     log.info("Loading models...")
     vehicle_detector = VehicleDetector(det_cfg["vehicle_model_path"], 0.2)
     plate_detector   = PlateDetector(det_cfg["plate_model_path"], 0.15)
-    ocr_engine       = PaddleOCREngine(use_angle_cls=True, lang="en")
+    ocr_backend      = str(config.get("ocr", {}).get("backend", "paddleocr"))
+    ocr_engine       = create_ocr_engine(ocr_backend, config)
     plate_validator  = PlateValidator()
 
     cap = cv2.VideoCapture(args.source)
@@ -66,6 +72,9 @@ def main():
     # Cache: vehicle bbox -> last known plate text
     plate_cache: dict[tuple, str] = {}
     frame_idx = 0
+    
+    # CSV data collection
+    detections_data = []
 
     # Colors
     COLOR_VEHICLE = (0, 255, 0)      # Green for vehicle
@@ -159,6 +168,24 @@ def main():
                         draw_label(frame, plate_number,
                                    abs_px1, abs_py1 - 5,
                                    COLOR_PLATE, COLOR_TEXT, font_scale=0.7, thickness=2)
+                        
+                        # Collect detection data for CSV
+                        detections_data.append({
+                            'frame': frame_idx,
+                            'timestamp': frame_idx / fps,
+                            'vehicle_x1': x1,
+                            'vehicle_y1': y1,
+                            'vehicle_x2': x2,
+                            'vehicle_y2': y2,
+                            'vehicle_class': det.class_label,
+                            'vehicle_confidence': f"{det.confidence:.2f}",
+                            'plate_x1': abs_px1,
+                            'plate_y1': abs_py1,
+                            'plate_x2': abs_px2,
+                            'plate_y2': abs_py2,
+                            'plate_number': plate_number,
+                            'ocr_confidence': f"{confidence:.2f}"
+                        })
 
         # Add frame counter
         cv2.putText(frame, f"Frame: {frame_idx}", (10, 30),
@@ -169,6 +196,23 @@ def main():
     cap.release()
     writer.release()
     log.info("✅ Annotated video saved to: %s", output_path)
+    
+    # Save detections to CSV
+    csv_path = Path(output_path).with_suffix('.csv')
+    if detections_data:
+        with open(csv_path, 'w', newline='') as csvfile:
+            fieldnames = ['frame', 'timestamp', 'vehicle_x1', 'vehicle_y1', 'vehicle_x2', 'vehicle_y2',
+                         'vehicle_class', 'vehicle_confidence', 'plate_x1', 'plate_y1', 'plate_x2', 'plate_y2',
+                         'plate_number', 'ocr_confidence']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(detections_data)
+        log.info("✅ CSV file saved to: %s", csv_path)
+        print(f"CSV file saved to: {csv_path}")
+    else:
+        log.warning("No detections found")
+        print("No detections found")
+    
     print(f"\nDone! Video saved to: {output_path}")
 
 

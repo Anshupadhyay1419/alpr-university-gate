@@ -46,10 +46,22 @@ def create_ocr_engine(backend: str, config: dict) -> OCREngine:
             model_name=str(trocr_cfg.get("model_name", "microsoft/trocr-base-printed")),
         )
 
+    elif backend == "ensemble":
+        from src.ocr.ensemble_engine import EnsembleOCREngine
+
+        ensemble_cfg = ocr_cfg.get("ensemble", {})
+        backends = ensemble_cfg.get("backends", ["paddleocr", "trocr"])
+        return EnsembleOCREngine.from_config(
+            config=config,
+            backends=[str(name) for name in backends],
+            min_vote_count=int(ensemble_cfg.get("min_vote_count", 1)),
+            use_variants=bool(ensemble_cfg.get("use_variants", True)),
+        )
+
     else:
         msg = (
             f"Unsupported OCR backend: '{backend}'. "
-            f"Valid options are: 'paddleocr', 'trocr'."
+            f"Valid options are: 'paddleocr', 'trocr', 'ensemble'."
         )
         _logger.error(msg)
         raise ValueError(msg)

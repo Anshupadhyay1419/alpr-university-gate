@@ -30,6 +30,16 @@ app = FastAPI(
 )
 
 
+@app.on_event("startup")
+async def startup_event():
+    """Initialize database on startup."""
+    try:
+        database.init_db()
+        _logger.info("Database initialized at startup")
+    except Exception as exc:
+        _logger.error("Failed to initialize database: %s", exc)
+
+
 def _get_db_session():
     """Helper to get a DB session, raising 503 if DB is unavailable."""
     try:
@@ -95,6 +105,115 @@ def search_by_plate(plate: str = Query(..., description="Plate number to search 
     except Exception as exc:
         _logger.error("Unexpected error on GET /search: %s", exc)
         raise HTTPException(status_code=500, detail=str(exc))
+
+
+@app.get("/direction")
+def get_events_by_direction(direction: str = Query(..., description="'IN' or 'OUT'")):
+    """Return recent events filtered by direction."""
+    if direction.upper() not in ("IN", "OUT"):
+        raise HTTPException(status_code=400, detail="Direction must be 'IN' or 'OUT'")
+
+    try:
+        with database.get_session() as session:
+            events = database.get_events_by_direction(session, direction, limit=100)
+            return [EventResponse(**e) for e in events]
+    except RuntimeError as exc:
+        _logger.error("Database unavailable on GET /direction: %s", exc)
+        raise HTTPException(status_code=503, detail="Database unavailable")
+    except Exception as exc:
+        _logger.error("Unexpected error on GET /direction: %s", exc)
+        raise HTTPException(status_code=500, detail=str(exc))
+
+
+@app.get("/stats")
+def get_traffic_statistics():
+    """Return today's traffic statistics."""
+    try:
+        with database.get_session() as session:
+            stats = database.get_daily_stats(session)
+            return stats
+    except RuntimeError as exc:
+        _logger.error("Database unavailable on GET /stats: %s", exc)
+        raise HTTPException(status_code=503, detail="Database unavailable")
+    except Exception as exc:
+        _logger.error("Unexpected error on GET /stats: %s", exc)
+        raise HTTPException(status_code=500, detail=str(exc))
+
+
+@app.get("/vehicles/{plate}")
+def get_vehicle_history(plate: str):
+    """Return full history for a specific vehicle by plate number."""
+    try:
+        plate = plate.upper()
+        with database.get_session() as session:
+            events = database.search_events(session, plate_number=plate)
+            if not events:
+                raise HTTPException(status_code=404, detail=f"No records for plate {plate}")
+
+            return {
+                "plate_number": plate,
+                "total_events": len(events),
+                "entries": sum(1 for e in events if e["direction"] == "IN"),
+                "exits": sum(1 for e in events if e["direction"] == "OUT"),
+                "first_seen": events[-1]["timestamp"] if events else None,
+                "last_seen": events[0]["timestamp"] if events else None,
+                "events": events,
+            }
+    except HTTPException:
+        raise
+    except RuntimeError as exc:
+        _logger.error("Database unavailable on GET /vehicles/{plate}: %s", exc)
+        raise HTTPException(status_code=503, detail="Database unavailable")
+    except Exception as exc:
+        _logger.error("Unexpected error on GET /vehicles/{plate}: %s", exc)
+        raise HTTPException(status_code=500, detail=str(exc))
+
+
+@app.get("/live")
+def get_live_feed(limit: int = Query(10, ge=1, le=100, description="Number of recent events")):
+    """Return live feed of most recent events (auto-update on dashboard)."""
+    try:
+        with database.get_session() as session:
+            events = database.get_all_events(session, limit=limit)
+            return {
+                "timestamp": datetime.now(timezone.utc).isoformat(),
+                "event_count": len(events),
+                "events": [EventResponse(**e) for e in events],
+            }
+    except RuntimeError as exc:
+        _logger.error("Database unavailable on GET /live: %s", exc)
+        raise HTTPException(status_code=503, detail="Database unavailable")
+    except Exception as exc:
+        _logger.error("Unexpected error on GET /live: %s", exc)
+        raise HTTPException(status_code=500, detail=str(exc))
+
+
+@app.get("/settings")
+def get_system_settings():
+    """Return current system configuration (read-only)."""
+    try:
+        from src.utils.config import load_config
+
+        config = load_config("config/config.yaml")
+
+        # Filter sensitive information
+        safe_config = {
+            "video": config.get("video", {}),
+            "detection": {
+                "vehicle_confidence": config.get("detection", {}).get("vehicle_confidence"),
+                "plate_confidence": config.get("detection", {}).get("plate_confidence"),
+            },
+            "ocr": {
+                "backend": config.get("ocr", {}).get("backend"),
+            },
+            "fusion": config.get("fusion", {}),
+            "tracking": config.get("tracking", {}),
+        }
+
+        return safe_config
+    except Exception as exc:
+        _logger.error("Failed to load settings: %s", exc)
+        raise HTTPException(status_code=500, detail="Failed to load settings")
 
 
 @app.get("/health")
