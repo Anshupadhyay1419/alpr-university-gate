@@ -19,16 +19,20 @@ preprocessing:
   sharpen_strength: 1.5
 
 enhancement:
-  sr_threshold_px: 99999        # apply Real-ESRGAN to ALL plate crops compulsorily
+  sr_threshold_px: 180          # only apply Real-ESRGAN to small plates in live mode
   realesrgan_model_path: "models/realesrgan/RealESRGAN_x4plus.pth"
 
 ocr:
-  backend: "paddleocr"                     # "paddleocr" | "trocr"
+  backend: "paddleocr"                     # "paddleocr" | "trocr" | "ensemble"
   paddleocr:
     use_angle_cls: true
     lang: "en"
   trocr:
     model_name: "microsoft/trocr-base-printed"
+  ensemble:
+    backends: ["paddleocr", "trocr"]
+    min_vote_count: 1
+    use_variants: true
 
 fusion:
   window_size: 5                           # majority vote over 5 reads for accuracy

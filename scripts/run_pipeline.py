@@ -21,12 +21,17 @@ from __future__ import annotations
 import argparse
 import sys
 from datetime import datetime, timezone
+from pathlib import Path
 
 import cv2
 import numpy as np
 
+# Add project root to path for imports
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 from src.utils.config import load_config
 from src.utils.logger import get_logger
+from src.ocr.ocr_postprocessor import correct_ocr_text, remove_noise_characters
 
 _logger = None
 
@@ -85,6 +90,19 @@ def _store_event(
         return False
 
 
+def _validate_ocr_text(plate_validator, text: str) -> tuple[str | None, str | None]:
+    """Validate OCR text without over-correcting already valid plates."""
+    if not text:
+        return (None, None)
+
+    plate_number, series_type = plate_validator.validate(text)
+    if plate_number:
+        return (plate_number, series_type)
+
+    corrected = correct_ocr_text(text)
+    return plate_validator.validate(corrected)
+
+
 def run_pipeline(config: dict) -> None:
     log = _init_logger(config)
     log.info("ALPR University Gate pipeline starting...")
@@ -97,7 +115,6 @@ def run_pipeline(config: dict) -> None:
     from src.preprocessing.plate_preprocessor import PlatePreprocessor
     from src.enhancement.super_resolution import SuperResolutionEnhancer
     from src.ocr import create_ocr_engine
-    from src.ocr.ocr_postprocessor import correct_ocr_text, remove_noise_characters
     from src.validation.plate_validator import PlateValidator
     from src.validation.ocr_fusion import OCRFusion
     from src.classification.color_classifier import ColorClassifier
@@ -181,9 +198,10 @@ def run_pipeline(config: dict) -> None:
                     if not motion_filter.is_moving(tid):
                         continue
 
-                # Already stored this track
+                # Already stored this track (strict once-per-track emission)
                 if tid in stored_tracks:
                     continue
+
 
                 # Crop vehicle
                 h, w = frame.shape[:2]
@@ -226,7 +244,7 @@ def run_pipeline(config: dict) -> None:
                 raw_text = remove_noise_characters(raw_text)
 
                 # Validate
-                plate_number, series_type = plate_validator.validate(raw_text)
+                plate_number, series_type = _validate_ocr_text(plate_validator, raw_text)
                 if plate_number is None:
                     continue
 
@@ -245,7 +263,7 @@ def run_pipeline(config: dict) -> None:
                     result = ocr_fusion.flush(tid)
                     if result:
                         fused_plate, fused_conf = result
-                        plate_val, s_type = plate_validator.validate(fused_plate)
+                        plate_val, s_type = _validate_ocr_text(plate_validator, fused_plate)
                         if plate_val and fused_conf >= min_conf:
                             # Apply SR on the best saved crop at fusion time
                             best_crop = track_plate_crops.get(tid, plate_crop)
@@ -257,8 +275,7 @@ def run_pipeline(config: dict) -> None:
                             sr_text, sr_conf = ocr_engine.recognize(enhanced_crop)
                             if sr_text:
                                 sr_text = remove_noise_characters(sr_text)
-                                sr_text = correct_ocr_text(sr_text)
-                                sr_plate, sr_series = plate_validator.validate(sr_text)
+                                sr_plate, sr_series = _validate_ocr_text(plate_validator, sr_text)
                                 if sr_plate and sr_conf >= min_conf:
                                     if sr_conf >= fused_conf:
                                         plate_val = sr_plate
@@ -281,7 +298,11 @@ def run_pipeline(config: dict) -> None:
                                 log=log,
                             )
                             if stored:
+                                # Enforce strict once-per-track emission.
+                                # After this point, no further flush/store attempts for this tid.
                                 stored_tracks.add(tid)
+                                continue
+
 
     except KeyboardInterrupt:
         log.info("Keyboard interrupt — shutting down...")
@@ -295,7 +316,7 @@ def run_pipeline(config: dict) -> None:
                 continue
             if confidence < min_conf * 0.9:
                 continue
-            plate_val, s_type = plate_validator.validate(plate_number)
+            plate_val, s_type = _validate_ocr_text(plate_validator, plate_number)
             if not plate_val:
                 continue
             best_crop = track_plate_crops.get(tid, np.zeros((20, 80, 3), dtype=np.uint8))

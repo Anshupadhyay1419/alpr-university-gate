@@ -30,7 +30,7 @@ A production-quality **Automatic License Plate Recognition (ALPR)** system built
 - Real-time vehicle detection using YOLOv8n (COCO pretrained)
 - Custom-trained YOLOv8m plate detector — **99.47% mAP50** on Indian plates
 - ByteTrack vehicle tracking with consistent IDs across frames
-- PaddleOCR with optional TrOCR backend (pluggable)
+- PaddleOCR by default, with optional TrOCR / ensemble OCR for harder cases
 - Real-ESRGAN 4× super-resolution applied to every plate crop
 - Multi-frame OCR fusion (majority voting over 5 reads)
 - Indian plate validation — standard format + BH series
@@ -362,11 +362,15 @@ detection:
   plate_confidence: 0.4
 
 enhancement:
-  sr_threshold_px: 99999    # Real-ESRGAN applied to ALL plates (very high threshold = always)
+        sr_threshold_px: 180      # Real-ESRGAN only for small plates in live mode
   realesrgan_model_path: "models/realesrgan/RealESRGAN_x4plus.pth"
 
 ocr:
-  backend: "paddleocr"      # Change to "trocr" to use TrOCR instead
+        backend: "paddleocr"      # Fast default for live processing
+        ensemble:
+                backends: ["paddleocr", "trocr"]
+                min_vote_count: 1
+                use_variants: true
 
 fusion:
   window_size: 5            # Majority vote over 5 OCR reads per vehicle
@@ -390,8 +394,9 @@ database:
 | `detection` | `plate_confidence` | Min confidence for plate detection (0–1) |
 | `tracking` | `lost_track_timeout` | Frames before a lost track is retired |
 | `preprocessing` | `clahe_clip_limit` | CLAHE contrast limit (higher = more contrast) |
-| `enhancement` | `sr_threshold_px` | Apply SR if plate width < this value (99999 = always) |
-| `ocr` | `backend` | `paddleocr` or `trocr` |
+| `enhancement` | `sr_threshold_px` | Apply SR if plate width < this value |
+| `ocr` | `backend` | `paddleocr`, `trocr`, or `ensemble` |
+| `ocr` | `ensemble` | Ensemble OCR voting settings |
 | `fusion` | `window_size` | Number of OCR reads to majority-vote over |
 | `fusion` | `min_confidence` | Minimum OCR confidence to accept a read |
 | `deduplication` | `window_seconds` | Duplicate suppression window |
