@@ -794,12 +794,6 @@ Increase `lost_track_timeout` in `config.yaml` and lower `vehicle_confidence` to
 
 ---
 
-##  License
-
-This project is for educational and research purposes.
-
----
-
 ##  Author
 
 Ansh Upadhyay
